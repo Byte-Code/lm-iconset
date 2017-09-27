@@ -5,7 +5,6 @@
   "description": "",
   "main": ["style.css", "fonts/icomoon.svg", "fonts/icomoon.eot", "fonts/icomoon.ttf", "fonts/icomoon.woff"],
   "license": "MIT",
-  "private": true,
   "ignore": [
     "**/.*",
     "node_modules",
