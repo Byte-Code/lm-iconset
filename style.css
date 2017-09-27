@@ -1,821 +1,617 @@
 @font-face {
-    font-family: 'icomoon';
-    src: url('./fonts/icomoon.eot?26yetv');
-    src: url('./fonts/icomoon.eot?26yetv#iefix') format('embedded-opentype'),
-         url('./fonts/icomoon.ttf?26yetv') format('truetype'),
-         url('./fonts/icomoon.woff?26yetv') format('woff'),
-         url('./fonts/icomoon.svg?26yetv#icomoon') format('svg');
-    font-weight: normal;
-    font-style: normal;
+  font-family: 'icomoon';
+  src:  url('fonts/icomoon.eot?pb4zs7');
+  src:  url('fonts/icomoon.eot?pb4zs7#iefix') format('embedded-opentype'),
+    url('fonts/icomoon.ttf?pb4zs7') format('truetype'),
+    url('fonts/icomoon.woff?pb4zs7') format('woff'),
+    url('fonts/icomoon.svg?pb4zs7#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
 }
 
 [class^="icon-"], [class*=" icon-"] {
-    /* use !important to prevent issues with browser extensions that change fonts */
-    font-family: 'icomoon' !important;
-    speak: none;
-    font-style: normal;
-    font-weight: normal;
-    font-variant: normal;
-    text-transform: none;
-    line-height: 1;
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'icomoon' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
 
-    /* Better Font Rendering =========== */
-    -webkit-font-smoothing: antialiased;
-    -moz-osx-font-smoothing: grayscale;
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
 }
 
 .icon-arrow-down:before {
-    content: "\e600";
+  content: "\e600";
 }
-
 .icon-clickcollect:before {
-    content: "\e601";
+  content: "\e601";
 }
-
 .icon-contacts:before {
-    content: "\e602";
+  content: "\e602";
 }
-
 .icon-share:before {
-    content: "\e603";
+  content: "\e603";
 }
-
 .icon-cart:before {
-    content: "\e604";
+  content: "\e604";
 }
-
 .icon-arrow-left:before {
-    content: "\e605";
+  content: "\e605";
 }
-
 .icon-check:before {
-    content: "\e606";
+  content: "\e606";
 }
-
 .icon-lesson:before {
-    content: "\e607";
+  content: "\e607";
 }
-
 .icon-print:before {
-    content: "\e609";
+  content: "\e609";
 }
-
 .icon-goal:before {
-    content: "\e60a";
+  content: "\e60a";
 }
-
 .icon-wait:before {
-    content: "\e60b";
+  content: "\e60b";
 }
-
 .icon-download:before {
-    content: "\e60c";
+  content: "\e60c";
 }
-
 .icon-tools:before {
-    content: "\e60d";
+  content: "\e60d";
 }
-
 .icon-lock:before {
-    content: "\e60f";
+  content: "\e60f";
 }
-
 .icon-together:before {
-    content: "\e610";
+  content: "\e610";
 }
-
 .icon-search:before {
-    content: "\e611";
+  content: "\e611";
 }
-
 .icon-shop:before {
-    content: "\e612";
+  content: "\e612";
 }
-
 .icon-logout:before {
-    content: "\e613";
+  content: "\e613";
 }
-
 .icon-wishlist-full:before {
-    content: "\e614";
+  content: "\e614";
 }
-
 .icon-profile:before {
-    content: "\e618";
+  content: "\e618";
 }
-
 .icon-rounder:before {
-    content: "\e619";
+  content: "\e619";
 }
-
 .icon-delivery:before {
-    content: "\e61a";
+  content: "\e61a";
 }
-
 .icon-pay:before {
-    content: "\e61b";
+  content: "\e61b";
 }
-
 .icon-bagno:before {
-    content: "\e61d";
+  content: "\e61d";
 }
-
 .icon-video:before {
-    content: "\e621";
+  content: "\e621";
 }
-
 .icon-order:before {
-    content: "\e622";
+  content: "\e622";
 }
-
 .icon-preference:before {
-    content: "\e623";
+  content: "\e623";
 }
-
 .icon-interest:before {
-    content: "\e624";
+  content: "\e624";
 }
-
 .icon-mylm:before {
-    content: "\e626";
+  content: "\e626";
 }
-
 .icon-card:before {
-    content: "\e628";
+  content: "\e628";
 }
-
 .icon-locator:before {
-    content: "\e629";
+  content: "\e629";
 }
-
 .icon-address:before {
-    content: "\e62a";
+  content: "\e62a";
 }
-
 .icon-man-together:before {
-    content: "\e62c";
+  content: "\e62c";
 }
-
 .icon-elettricita-e-domotica:before {
-    content: "\e62d";
+  content: "\e62d";
 }
-
 .icon-decorazione:before {
-    content: "\e62e";
+  content: "\e62e";
 }
-
 .icon-project:before {
-    content: "\e62f";
+  content: "\e62f";
 }
-
 .icon-complete-arrow-right:before {
-    content: "\e630";
+  content: "\e630";
 }
-
 .icon-calendar:before {
-    content: "\e632";
+  content: "\e632";
 }
-
 .icon-arrow-right:before {
-    content: "\e633";
+  content: "\e633";
 }
-
 .icon-arrow-up:before {
-    content: "\e634";
+  content: "\e634";
 }
-
 .icon-complete-arrow-up:before {
-    content: "\e635";
+  content: "\e635";
 }
-
 .icon-complete-arrow-left:before {
-    content: "\e636";
+  content: "\e636";
 }
-
 .icon-complete-arrow-down:before {
-    content: "\e637";
+  content: "\e637";
 }
-
 .icon-star:before {
-    content: "\e639";
+  content: "\e639";
 }
-
 .icon-close:before {
-    content: "\e63a";
+  content: "\e63a";
 }
-
 .icon-remove-round:before {
-    content: "\e63b";
+  content: "\e63b";
 }
-
 .icon-add-round:before {
-    content: "\e63e";
+  content: "\e63e";
 }
-
 .icon-wishlist:before {
-    content: "\e63f";
+  content: "\e63f";
 }
-
 .icon-verifiedbyvisa:before {
-    content: "\e640";
+  content: "\e640";
 }
-
 .icon-question-mark:before {
-    content: "\e641";
+  content: "\e641";
 }
-
 .icon-cut:before {
-    content: "\e642";
+  content: "\e642";
 }
-
 .icon-gift:before {
-    content: "\e643";
+  content: "\e643";
 }
-
 .icon-telephone:before {
-    content: "\e645";
+  content: "\e645";
 }
-
 .icon-mastercard:before {
-    content: "\e646";
+  content: "\e646";
 }
-
 .icon-edit:before {
-    content: "\e647";
+  content: "\e647";
 }
-
 .icon-add-image:before {
-    content: "\e648";
+  content: "\e648";
 }
-
 .icon-404:before {
-    content: "\e649";
+  content: "\e649";
 }
-
 .icon-cartaregalo:before {
-    content: "\e64a";
+  content: "\e64a";
 }
-
 .icon-help-question:before {
-    content: "\e64c";
+  content: "\e64c";
 }
-
 .icon-timer-white:before {
-    content: "\e64d";
+  content: "\e64d";
 }
-
 .icon-arredamento-giardino-terrazzo-e-giardinaggio:before {
-    content: "\e64e";
+  content: "\e64e";
 }
-
 .icon-illuminazione:before {
-    content: "\e64f";
+  content: "\e64f";
 }
-
 .icon-ordine-e-sistemazione:before {
-    content: "\e650";
+  content: "\e650";
 }
-
 .icon-pavimenti-e-rivestimenti:before {
-    content: "\e651";
+  content: "\e651";
 }
-
 .icon-porte-scale-e-finestre:before {
-    content: "\e652";
+  content: "\e652";
 }
-
 .icon-stufe-clima-e-idraulica:before {
-    content: "\e653";
+  content: "\e653";
 }
-
 .icon-utensileria-e-ferramenta:before {
-    content: "\e654";
+  content: "\e654";
 }
-
 .icon-vernici:before {
-    content: "\e655";
+  content: "\e655";
 }
-
 .icon-falegnameria-e-edilizia:before {
-    content: "\e656";
+  content: "\e656";
 }
-
 .icon-cucina:before {
-    content: "\e657";
+  content: "\e657";
 }
-
 .icon-storelocator-line:before {
-    content: "\e65d";
+  content: "\e65d";
 }
-
 .icon-help:before {
-    content: "\e65e";
+  content: "\e65e";
 }
-
 .icon-scheda-montaggio:before {
-    content: "\e65f";
+  content: "\e65f";
 }
-
 .icon-scheda-sicurezza:before {
-    content: "\e660";
+  content: "\e660";
 }
-
 .icon-disegni-tecnici:before {
-    content: "\e661";
+  content: "\e661";
 }
-
 .icon-diagram:before {
-    content: "\e800";
+  content: "\e800";
 }
-
 .icon-slim-arrow-right:before {
-    content: "\e900";
+  content: "\e900";
 }
-
 .icon-doublepackcart:before {
-    content: "\e901";
+  content: "\e901";
 }
-
 .icon-hammer:before {
-    content: "\e902";
+  content: "\e902";
 }
-
 .icon-label:before {
-    content: "\e903";
+  content: "\e903";
 }
-
 .icon-ruler:before {
-    content: "\e904";
+  content: "\e904";
 }
-
 .icon-screwdriver:before {
-    content: "\e905";
+  content: "\e905";
 }
-
 .icon-wallpaper:before {
-    content: "\e906";
+  content: "\e906";
 }
-
 .icon-trowel:before {
-    content: "\e907";
+  content: "\e907";
 }
-
 .icon-value:before {
-    content: "\e908";
+  content: "\e908";
 }
-
 .icon-bolt:before {
-    content: "\e909";
+  content: "\e909";
 }
-
 .icon-brush:before {
-    content: "\e90a";
+  content: "\e90a";
 }
-
 .icon-calculette:before {
-    content: "\e90b";
+  content: "\e90b";
 }
-
 .icon-promessareso:before {
-    content: "\e90c";
+  content: "\e90c";
 }
-
 .icon-promessaconsegna:before {
-    content: "\e90d";
+  content: "\e90d";
 }
-
 .icon-promessaclickcollect:before {
-    content: "\e90e";
+  content: "\e90e";
 }
-
 .icon-agevolazioni-fiscali:before {
-    content: "\e90f";
+  content: "\e90f";
 }
-
 .icon-diagnosi-energetica:before {
-    content: "\e910";
+  content: "\e910";
 }
-
 .icon-chiavi-su-misura:before {
-    content: "\e911";
+  content: "\e911";
 }
-
 .icon-assistenza-clienti:before {
-    content: "\e912";
+  content: "\e912";
 }
-
 .icon-colori-su-misura:before {
-    content: "\e913";
+  content: "\e913";
 }
-
 .icon-consegna-a-domicilio:before {
-    content: "\e914";
+  content: "\e914";
 }
-
 .icon-consulente-progetto:before {
-    content: "\e915";
+  content: "\e915";
 }
-
 .icon-cornici-su-misura:before {
-    content: "\e916";
+  content: "\e916";
 }
-
 .icon-corsi-fai-da-te:before {
-    content: "\e917";
+  content: "\e917";
 }
-
 .icon-finanziamento:before {
-    content: "\e918";
+  content: "\e918";
 }
-
 .icon-taglio-legno-vetro:before {
-    content: "\e919";
+  content: "\e919";
 }
-
 .icon-noleggio-attrezzature:before {
-    content: "\e91a";
+  content: "\e91a";
 }
-
 .icon-noleggio-veicoli:before {
-    content: "\e91b";
+  content: "\e91b";
 }
-
 .icon-posa-installazione:before {
-    content: "\e91c";
+  content: "\e91c";
 }
-
 .icon-timer-round:before {
-    content: "\e91d";
+  content: "\e91d";
 }
-
 .icon-post-vendita:before {
-    content: "\e91e";
+  content: "\e91e";
 }
-
 .icon-assistenza-macchine-giardino:before {
-    content: "\e91f";
+  content: "\e91f";
 }
-
 .icon-reso-merce:before {
-    content: "\e920";
+  content: "\e920";
 }
-
 .icon-rimborso-differenza:before {
-    content: "\e921";
+  content: "\e921";
 }
-
 .icon-picto-ritiro:before {
-    content: "\e922";
+  content: "\e922";
 }
-
 .icon-sartoria-express:before {
-    content: "\e923";
+  content: "\e923";
 }
-
 .icon-tende-tecniche-su-misura:before {
-    content: "\e924";
+  content: "\e924";
 }
-
 .icon-tende_tessuti-su-misura:before {
-    content: "\e925";
+  content: "\e925";
 }
-
 .icon-wifi:before {
-    content: "\e926";
+  content: "\e926";
 }
-
 .icon-close-round:before {
-    content: "\e927";
+  content: "\e927";
 }
-
 .icon-help-round:before {
-    content: "\e928";
+  content: "\e928";
 }
-
 .icon-assistenza:before {
-    content: "\e929";
+  content: "\e929";
 }
-
 .icon-garanzie:before {
-    content: "\e92a";
+  content: "\e92a";
 }
-
 .icon-risparmio:before {
-    content: "\e92b";
+  content: "\e92b";
 }
-
 .icon-servizi:before {
-    content: "\e92c";
+  content: "\e92c";
 }
-
 .icon-profile-full:before {
-    content: "\e92d";
+  content: "\e92d";
 }
-
 .icon-clicca-e-ritira:before {
-    content: "\e92e";
+  content: "\e92e";
 }
-
 .icon-specchi-su-misura:before {
-    content: "\e92f";
+  content: "\e92f";
 }
-
 .icon-posa-prezzo-fisso:before {
-    content: "\e930";
+  content: "\e930";
 }
-
 .icon-slim-arrow-left:before {
-    content: "\e931";
+  content: "\e931";
 }
-
 .icon-posa-dritta:before {
-    content: "\e932";
+  content: "\e932";
 }
-
 .icon-posa-diagonale:before {
-    content: "\e933";
+  content: "\e933";
 }
-
 .icon-prenota-in-negozio:before {
-    content: "\e934";
+  content: "\e934";
 }
-
 .icon-buoni-sconto:before {
-    content: "\e935";
+  content: "\e935";
 }
-
 .icon-remove-coupon:before {
-    content: "\e936";
+  content: "\e936";
 }
-
 .icon-dallo-store:before {
-    content: "\e937";
+  content: "\e937";
 }
-
 .icon-dalla-nostra-app:before {
-    content: "\e938";
+  content: "\e938";
 }
-
 .icon-dal-nostro-sito:before {
-    content: "\e939";
+  content: "\e939";
 }
-
 .icon-coupon-wallet:before {
-    content: "\e93a";
+  content: "\e93a";
 }
-
 .icon-disponibilita:before {
-    content: "\e93b";
+  content: "\e93b";
 }
-
 .icon-revert-arrow:before {
-    content: "\e93c";
+  content: "\e93c";
 }
-
 .icon-gift-five:before {
-    content: "\e93d";
+  content: "\e93d";
 }
-
 .icon-send-email:before {
-    content: "\e93e";
+  content: "\e93e";
 }
-
 .icon-design-lab:before {
-    content: "\e93f";
+  content: "\e93f";
 }
-
 .icon-Icona_X:before {
-    content: "\e940";
+  content: "\e940";
 }
-
 .icon-social-tw:before {
-    content: "\e941";
+  content: "\e941";
 }
-
 .icon-alert:before {
-    content: "\e942";
+  content: "\e942";
 }
-
 .icon-community:before {
-    content: "\e943";
+  content: "\e943";
 }
-
 .icon-aiuto:before {
-    content: "\e944";
+  content: "\e944";
 }
-
 .icon-idee-progetti-mese:before {
-    content: "\e945";
+  content: "\e945";
 }
-
 .icon-video-corsi:before {
-    content: "\e946";
+  content: "\e946";
 }
-
 .icon-corsi:before {
-    content: "\e947";
+  content: "\e947";
 }
-
 .icon-idee-progetti:before {
-    content: "\e948";
+  content: "\e948";
 }
-
 .icon-social-fb:before {
-    content: "\e949";
+  content: "\e949";
 }
-
 .icon-natale:before {
-    content: "\e94a";
+  content: "\e94a";
 }
-
 .icon-decorare-casa-natale:before {
-    content: "\e94b";
+  content: "\e94b";
 }
-
 .icon-social-wa:before {
-    content: "\e94c";
+  content: "\e94c";
 }
-
 .icon-social-g:before {
-    content: "\e94d";
+  content: "\e94d";
 }
-
 .icon-ee-A\+\+\+:before {
-    content: "\e94e";
+  content: "\e94e";
 }
-
 .icon-ee-A\+\+:before {
-    content: "\e94f";
+  content: "\e94f";
 }
-
 .icon-ee-A\+:before {
-    content: "\e950";
+  content: "\e950";
 }
-
 .icon-ee-A:before {
-    content: "\e951";
+  content: "\e951";
 }
-
 .icon-ee-B:before {
-    content: "\e952";
+  content: "\e952";
 }
-
 .icon-ee-C:before {
-    content: "\e953";
+  content: "\e953";
 }
-
 .icon-ee-D:before {
-    content: "\e954";
+  content: "\e954";
 }
-
 .icon-squadra:before {
-    content: "\e955";
+  content: "\e955";
 }
-
 .icon-pagamento:before {
-    content: "\e956";
+  content: "\e956";
 }
-
 .icon-scheda_montaggio:before {
-    content: "\e957";
+  content: "\e957";
 }
-
 .icon-scheda:before {
-    content: "\e958";
+  content: "\e958";
 }
-
 .icon-gift-20:before {
-    content: "\e959";
+  content: "\e959";
 }
-
 .icon-vendite-flash:before {
-    content: "\e95a";
+  content: "\e95a";
 }
-
 .icon-offerte-mese:before {
-    content: "\e95b";
+  content: "\e95b";
 }
-
 .icon-promo-web:before {
-    content: "\e95c";
+  content: "\e95c";
 }
-
 .icon-black-friday:before {
-    content: "\e95d";
+  content: "\e95d";
 }
-
 .icon-proposte:before {
-    content: "\e95e";
+  content: "\e95e";
 }
-
 .icon-speciale-consegna:before {
-    content: "\e95f";
+  content: "\e95f";
 }
-
-.icon-plus:before {
-    content: "\f05d";
-}
-
-.icon-proposte:before {
-    content: "\e95e";
-}
-
 .icon-megafono:before {
-    content: "\e960";
+  content: "\e960";
 }
-
 .icon-PayPal:before {
-    content: "\e961";
+  content: "\e961";
 }
-
 .icon-ee-2-A:before {
-    content: "\e962";
+  content: "\e962";
 }
-
 .icon-ee-2-A\+:before {
-    content: "\e963";
+  content: "\e963";
 }
-
 .icon-ee-2-A\+\+:before {
-    content: "\e964";
+  content: "\e964";
 }
-
 .icon-ee-2-A\+\+\+:before {
-    content: "\e965";
+  content: "\e965";
 }
-
 .icon-ee-2-B:before {
-    content: "\e966";
+  content: "\e966";
 }
-
 .icon-ee-2-C:before {
-    content: "\e967";
+  content: "\e967";
 }
-
 .icon-ee-2-D:before {
-    content: "\e968";
+  content: "\e968";
 }
-
 .icon-new-iconafiltro:before {
-    content: "\e969";
+  content: "\e969";
 }
-
 .icon-new:before {
-    content: "\e96a";
+  content: "\e96a";
 }
-
 .icon-catalogue:before {
-    content: "\e96b";
+  content: "\e96b";
 }
-
 .icon-pellet:before {
-    content: "\e96c";
+  content: "\e96c";
 }
-
-.icon-plus:before {
-    content: "\f05d";
-}
-
 .icon-cards:before {
-    content: "\e96d";
+  content: "\e96d";
 }
-
 .icon-sconti-idea:before {
-    content: "\e96e";
+  content: "\e96e";
 }
-
 .icon-fatturazione:before {
-    content: "\e96f";
+  content: "\e96f";
 }
-
 .icon-calendario:before {
-    content: "\e970";
+  content: "\e970";
 }
-
 .icon-modifica:before {
-    content: "\e971";
+  content: "\e971";
 }
-
-.icon-plus:before {
-    content: "\f05d";
-}
-
 .icon-generale:before {
-    content: "\e972";
+  content: "\e972";
 }
-
 .icon-check-add:before {
-    content: "\e973";
+  content: "\e973";
 }
-
 .icon-uniE974:before {
-    content: "\e974";
+  content: "\e974";
 }
-
-.icon-plus:before {
-    content: "\f05d";
-}
-
 .icon-posa-prezzo-fisso_new:before {
-    content: "\e975";
+  content: "\e975";
+}
+.icon-plus:before {
+  content: "\f05d";
+}
+.icon-ispirati_impara:before {
+  content: "\e976";
+}
+.icon-offerte_proposte:before {
+  content: "\e977";
 }
