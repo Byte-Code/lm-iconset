@@ -1,13 +1,3 @@
-/*NON CANCELLARE*/
-[class^="icon-"].round, [class*=" icon-"].round {
-    border-radius: 50%;
-    color: #fff;
-    background-color: @gray-dark;
-    padding: 5px;
-    margin: 0 0 0 6px;
-    display: inline-block;
-}
-
 @font-face {
     font-family: 'icomoon';
     src: url('./fonts/icomoon.eot?26yetv');
