@@ -1,0 +1,15 @@
+{
+  "name": "lm-iconset",
+  "homepage": "https://github.com/Byte-Code/lm-iconset",
+  "description": "",
+  "main": ["icon.css", "fonts/*"],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
