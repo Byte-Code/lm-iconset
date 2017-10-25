@@ -477,7 +477,8 @@
 .icon-natale:before {
   content: "\e94a";
 }
-.icon-decorare-casa-natale:before {
+.icon-decorare-casa-natale:before,
+.icon-decorazione-decorazione\/prodotti-natalizi:before{
   content: "\e94b";
 }
 .icon-social-wa:before {
