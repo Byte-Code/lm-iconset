@@ -13,12 +13,15 @@
           "arrow-down"
         ],
         "defaultCode": 58880,
-        "grid": 0
+        "grid": 0,
+        "colorPermutations": {
+          "2172172171220381012481912812552552551": []
+        }
       },
       "attrs": [],
       "properties": {
         "id": 0,
-        "order": 549,
+        "order": 1169,
         "ligatures": "",
         "prevSize": 32,
         "code": 58880,
@@ -40,12 +43,15 @@
           "clickcollect"
         ],
         "defaultCode": 58881,
-        "grid": 0
+        "grid": 0,
+        "colorPermutations": {
+          "2172172171220381012481912812552552551": []
+        }
       },
       "attrs": [],
       "properties": {
         "id": 1,
-        "order": 550,
+        "order": 1170,
         "ligatures": "",
         "prevSize": 32,
         "code": 58881,
@@ -67,12 +73,15 @@
           "contacts"
         ],
         "defaultCode": 58882,
-        "grid": 0
+        "grid": 0,
+        "colorPermutations": {
+          "2172172171220381012481912812552552551": []
+        }
       },
       "attrs": [],
       "properties": {
         "id": 2,
-        "order": 551,
+        "order": 1171,
         "ligatures": "",
         "prevSize": 32,
         "code": 58882,
@@ -94,12 +103,15 @@
           "share"
         ],
         "defaultCode": 58883,
-        "grid": 0
+        "grid": 0,
+        "colorPermutations": {
+          "2172172171220381012481912812552552551": []
+        }
       },
       "attrs": [],
       "properties": {
         "id": 3,
-        "order": 552,
+        "order": 1172,
         "ligatures": "",
         "prevSize": 32,
         "code": 58883,
@@ -121,12 +133,15 @@
           "cart"
         ],
         "defaultCode": 58884,
-        "grid": 0
+        "grid": 0,
+        "colorPermutations": {
+          "2172172171220381012481912812552552551": []
+        }
       },
       "attrs": [],
       "properties": {
         "id": 4,
-        "order": 553,
+        "order": 1173,
         "ligatures": "",
         "prevSize": 32,
         "code": 58884,
@@ -148,12 +163,15 @@
           "arrow-left"
         ],
         "defaultCode": 58885,
-        "grid": 0
+        "grid": 0,
+        "colorPermutations": {
+          "2172172171220381012481912812552552551": []
+        }
       },
       "attrs": [],
       "properties": {
         "id": 5,
-        "order": 554,
+        "order": 1174,
         "ligatures": "",
         "prevSize": 32,
         "code": 58885,
@@ -175,12 +193,15 @@
           "check"
         ],
         "defaultCode": 58886,
-        "grid": 0
+        "grid": 0,
+        "colorPermutations": {
+          "2172172171220381012481912812552552551": []
+        }
       },
       "attrs": [],
       "properties": {
         "id": 6,
-        "order": 555,
+        "order": 1175,
         "ligatures": "",
         "prevSize": 32,
         "code": 58886,
@@ -202,12 +223,15 @@
           "lesson"
         ],
         "defaultCode": 58887,
-        "grid": 0
+        "grid": 0,
+        "colorPermutations": {
+          "2172172171220381012481912812552552551": []
+        }
       },
       "attrs": [],
       "properties": {
         "id": 7,
-        "order": 556,
+        "order": 1176,
         "ligatures": "",
         "prevSize": 32,
         "code": 58887,
@@ -229,12 +253,15 @@
           "print"
         ],
         "defaultCode": 58889,
-        "grid": 0
+        "grid": 0,
+        "colorPermutations": {
+          "2172172171220381012481912812552552551": []
+        }
       },
       "attrs": [],
       "properties": {
         "id": 8,
-        "order": 557,
+        "order": 1177,
         "ligatures": "",
         "prevSize": 32,
         "code": 58889,
@@ -256,12 +283,15 @@
           "goal"
         ],
         "defaultCode": 58890,
-        "grid": 0
+        "grid": 0,
+        "colorPermutations": {
+          "2172172171220381012481912812552552551": []
+        }
       },
       "attrs": [],
       "properties": {
         "id": 9,
-        "order": 558,
+        "order": 1178,
         "ligatures": "",
         "prevSize": 32,
         "code": 58890,
@@ -283,12 +313,15 @@
           "wait"
         ],
         "defaultCode": 58891,
-        "grid": 0
+        "grid": 0,
+        "colorPermutations": {
+          "2172172171220381012481912812552552551": []
+        }
       },
       "attrs": [],
       "properties": {
         "id": 10,
-        "order": 559,
+        "order": 1179,
         "ligatures": "",
         "prevSize": 32,
         "code": 58891,
@@ -310,12 +343,15 @@
           "download"
         ],
         "defaultCode": 58892,
-        "grid": 0
+        "grid": 0,
+        "colorPermutations": {
+          "2172172171220381012481912812552552551": []
+        }
       },
       "attrs": [],
       "properties": {
         "id": 11,
-        "order": 560,
+        "order": 1180,
         "ligatures": "",
         "prevSize": 32,
         "code": 58892,
@@ -337,12 +373,15 @@
           "tools"
         ],
         "defaultCode": 58893,
-        "grid": 0
+        "grid": 0,
+        "colorPermutations": {
+          "2172172171220381012481912812552552551": []
+        }
       },
       "attrs": [],
       "properties": {
         "id": 12,
-        "order": 561,
+        "order": 1181,
         "ligatures": "",
         "prevSize": 32,
         "code": 58893,
@@ -364,12 +403,15 @@
           "lock"
         ],
         "defaultCode": 58895,
-        "grid": 0
+        "grid": 0,
+        "colorPermutations": {
+          "2172172171220381012481912812552552551": []
+        }
       },
       "attrs": [],
       "properties": {
         "id": 13,
-        "order": 562,
+        "order": 1182,
         "ligatures": "",
         "prevSize": 32,
         "code": 58895,
@@ -391,12 +433,15 @@
           "together"
         ],
         "defaultCode": 58896,
-        "grid": 0
+        "grid": 0,
+        "colorPermutations": {
+          "2172172171220381012481912812552552551": []
+        }
       },
       "attrs": [],
       "properties": {
         "id": 14,
-        "order": 563,
+        "order": 1183,
         "ligatures": "",
         "prevSize": 32,
         "code": 58896,
@@ -418,12 +463,15 @@
           "search"
         ],
         "defaultCode": 58897,
-        "grid": 0
+        "grid": 0,
+        "colorPermutations": {
+          "2172172171220381012481912812552552551": []
+        }
       },
       "attrs": [],
       "properties": {
         "id": 15,
-        "order": 564,
+        "order": 1184,
         "ligatures": "",
         "prevSize": 32,
         "code": 58897,
@@ -445,12 +493,15 @@
           "shop"
         ],
         "defaultCode": 58898,
-        "grid": 0
+        "grid": 0,
+        "colorPermutations": {
+          "2172172171220381012481912812552552551": []
+        }
       },
       "attrs": [],
       "properties": {
         "id": 16,
-        "order": 565,
+        "order": 1185,
         "ligatures": "",
         "prevSize": 32,
         "code": 58898,
@@ -472,12 +523,15 @@
           "logout"
         ],
         "defaultCode": 58899,
-        "grid": 0
+        "grid": 0,
+        "colorPermutations": {
+          "2172172171220381012481912812552552551": []
+        }
       },
       "attrs": [],
       "properties": {
         "id": 17,
-        "order": 566,
+        "order": 1186,
         "ligatures": "",
         "prevSize": 32,
         "code": 58899,
@@ -499,12 +553,15 @@
           "wishlist-full"
         ],
         "defaultCode": 58900,
-        "grid": 0
+        "grid": 0,
+        "colorPermutations": {
+          "2172172171220381012481912812552552551": []
+        }
       },
       "attrs": [],
       "properties": {
         "id": 18,
-        "order": 567,
+        "order": 1187,
         "ligatures": "",
         "prevSize": 32,
         "code": 58900,
@@ -526,12 +583,15 @@
           "profile"
         ],
         "defaultCode": 58904,
-        "grid": 0
+        "grid": 0,
+        "colorPermutations": {
+          "2172172171220381012481912812552552551": []
+        }
       },
       "attrs": [],
       "properties": {
         "id": 19,
-        "order": 568,
+        "order": 1188,
         "ligatures": "",
         "prevSize": 32,
         "code": 58904,
@@ -553,12 +613,15 @@
           "rounder"
         ],
         "defaultCode": 58905,
-        "grid": 0
+        "grid": 0,
+        "colorPermutations": {
+          "2172172171220381012481912812552552551": []
+        }
       },
       "attrs": [],
       "properties": {
         "id": 20,
-        "order": 569,
+        "order": 1189,
         "ligatures": "",
         "prevSize": 32,
         "code": 58905,
@@ -580,12 +643,15 @@
           "delivery"
         ],
         "defaultCode": 58906,
-        "grid": 0
+        "grid": 0,
+        "colorPermutations": {
+          "2172172171220381012481912812552552551": []
+        }
       },
       "attrs": [],
       "properties": {
         "id": 21,
-        "order": 570,
+        "order": 1190,
         "ligatures": "",
         "prevSize": 32,
         "code": 58906,
@@ -607,12 +673,15 @@
           "pay"
         ],
         "defaultCode": 58907,
-        "grid": 0
+        "grid": 0,
+        "colorPermutations": {
+          "2172172171220381012481912812552552551": []
+        }
       },
       "attrs": [],
       "properties": {
         "id": 22,
-        "order": 571,
+        "order": 1191,
         "ligatures": "",
         "prevSize": 32,
         "code": 58907,
@@ -634,12 +703,15 @@
           "bagno"
         ],
         "defaultCode": 58909,
-        "grid": 0
+        "grid": 0,
+        "colorPermutations": {
+          "2172172171220381012481912812552552551": []
+        }
       },
       "attrs": [],
       "properties": {
         "id": 23,
-        "order": 572,
+        "order": 1192,
         "ligatures": "",
         "prevSize": 32,
         "code": 58909,
@@ -661,12 +733,15 @@
           "video"
         ],
         "defaultCode": 58913,
-        "grid": 0
+        "grid": 0,
+        "colorPermutations": {
+          "2172172171220381012481912812552552551": []
+        }
       },
       "attrs": [],
       "properties": {
         "id": 24,
-        "order": 573,
+        "order": 1193,
         "ligatures": "",
         "prevSize": 32,
         "code": 58913,
@@ -688,12 +763,15 @@
           "order"
         ],
         "defaultCode": 58914,
-        "grid": 0
+        "grid": 0,
+        "colorPermutations": {
+          "2172172171220381012481912812552552551": []
+        }
       },
       "attrs": [],
       "properties": {
         "id": 25,
-        "order": 574,
+        "order": 1194,
         "ligatures": "",
         "prevSize": 32,
         "code": 58914,
@@ -716,12 +794,15 @@
           "preference"
         ],
         "defaultCode": 58915,
-        "grid": 0
+        "grid": 0,
+        "colorPermutations": {
+          "2172172171220381012481912812552552551": []
+        }
       },
       "attrs": [],
       "properties": {
         "id": 26,
-        "order": 575,
+        "order": 1195,
         "ligatures": "",
         "prevSize": 32,
         "code": 58915,
@@ -743,12 +824,15 @@
           "interest"
         ],
         "defaultCode": 58916,
-        "grid": 0
+        "grid": 0,
+        "colorPermutations": {
+          "2172172171220381012481912812552552551": []
+        }
       },
       "attrs": [],
       "properties": {
         "id": 27,
-        "order": 576,
+        "order": 1196,
         "ligatures": "",
         "prevSize": 32,
         "code": 58916,
@@ -770,12 +854,15 @@
           "mylm"
         ],
         "defaultCode": 58918,
-        "grid": 0
+        "grid": 0,
+        "colorPermutations": {
+          "2172172171220381012481912812552552551": []
+        }
       },
       "attrs": [],
       "properties": {
         "id": 28,
-        "order": 577,
+        "order": 1197,
         "ligatures": "",
         "prevSize": 32,
         "code": 58918,
@@ -797,12 +884,15 @@
           "card"
         ],
         "defaultCode": 58920,
-        "grid": 0
+        "grid": 0,
+        "colorPermutations": {
+          "2172172171220381012481912812552552551": []
+        }
       },
       "attrs": [],
       "properties": {
         "id": 29,
-        "order": 578,
+        "order": 1198,
         "ligatures": "",
         "prevSize": 32,
         "code": 58920,
@@ -824,12 +914,15 @@
           "locator"
         ],
         "defaultCode": 58921,
-        "grid": 0
+        "grid": 0,
+        "colorPermutations": {
+          "2172172171220381012481912812552552551": []
+        }
       },
       "attrs": [],
       "properties": {
         "id": 30,
-        "order": 579,
+        "order": 1199,
         "ligatures": "",
         "prevSize": 32,
         "code": 58921,
@@ -851,12 +944,15 @@
           "address"
         ],
         "defaultCode": 58922,
-        "grid": 0
+        "grid": 0,
+        "colorPermutations": {
+          "2172172171220381012481912812552552551": []
+        }
       },
       "attrs": [],
       "properties": {
         "id": 31,
-        "order": 580,
+        "order": 1200,
         "ligatures": "",
         "prevSize": 32,
         "code": 58922,
@@ -878,12 +974,15 @@
           "man-together"
         ],
         "defaultCode": 58924,
-        "grid": 0
+        "grid": 0,
+        "colorPermutations": {
+          "2172172171220381012481912812552552551": []
+        }
       },
       "attrs": [],
       "properties": {
         "id": 32,
-        "order": 581,
+        "order": 1201,
         "ligatures": "",
         "prevSize": 32,
         "code": 58924,
@@ -905,12 +1004,15 @@
           "elettricita-e-domotica"
         ],
         "defaultCode": 58925,
-        "grid": 0
+        "grid": 0,
+        "colorPermutations": {
+          "2172172171220381012481912812552552551": []
+        }
       },
       "attrs": [],
       "properties": {
         "id": 33,
-        "order": 582,
+        "order": 1202,
         "ligatures": "",
         "prevSize": 32,
         "code": 58925,
@@ -932,12 +1034,15 @@
           "decorazione"
         ],
         "defaultCode": 58926,
-        "grid": 0
+        "grid": 0,
+        "colorPermutations": {
+          "2172172171220381012481912812552552551": []
+        }
       },
       "attrs": [],
       "properties": {
         "id": 34,
-        "order": 583,
+        "order": 1203,
         "ligatures": "",
         "prevSize": 32,
         "code": 58926,
@@ -959,12 +1064,15 @@
           "project"
         ],
         "defaultCode": 58927,
-        "grid": 0
+        "grid": 0,
+        "colorPermutations": {
+          "2172172171220381012481912812552552551": []
+        }
       },
       "attrs": [],
       "properties": {
         "id": 35,
-        "order": 584,
+        "order": 1204,
         "ligatures": "",
         "prevSize": 32,
         "code": 58927,
@@ -986,12 +1094,15 @@
           "complete-arrow-right"
         ],
         "defaultCode": 58928,
-        "grid": 0
+        "grid": 0,
+        "colorPermutations": {
+          "2172172171220381012481912812552552551": []
+        }
       },
       "attrs": [],
       "properties": {
         "id": 36,
-        "order": 585,
+        "order": 1205,
         "ligatures": "",
         "prevSize": 32,
         "code": 58928,
@@ -1013,12 +1124,15 @@
           "calendar"
         ],
         "defaultCode": 58930,
-        "grid": 0
+        "grid": 0,
+        "colorPermutations": {
+          "2172172171220381012481912812552552551": []
+        }
       },
       "attrs": [],
       "properties": {
         "id": 37,
-        "order": 586,
+        "order": 1206,
         "ligatures": "",
         "prevSize": 32,
         "code": 58930,
@@ -1040,12 +1154,15 @@
           "arrow-right"
         ],
         "defaultCode": 58931,
-        "grid": 0
+        "grid": 0,
+        "colorPermutations": {
+          "2172172171220381012481912812552552551": []
+        }
       },
       "attrs": [],
       "properties": {
         "id": 38,
-        "order": 587,
+        "order": 1207,
         "ligatures": "",
         "prevSize": 32,
         "code": 58931,
@@ -1067,12 +1184,15 @@
           "arrow-up"
         ],
         "defaultCode": 58932,
-        "grid": 0
+        "grid": 0,
+        "colorPermutations": {
+          "2172172171220381012481912812552552551": []
+        }
       },
       "attrs": [],
       "properties": {
         "id": 39,
-        "order": 588,
+        "order": 1208,
         "ligatures": "",
         "prevSize": 32,
         "code": 58932,
@@ -1094,12 +1214,15 @@
           "complete-arrow-up"
         ],
         "defaultCode": 58933,
-        "grid": 0
+        "grid": 0,
+        "colorPermutations": {
+          "2172172171220381012481912812552552551": []
+        }
       },
       "attrs": [],
       "properties": {
         "id": 40,
-        "order": 589,
+        "order": 1209,
         "ligatures": "",
         "prevSize": 32,
         "code": 58933,
@@ -1121,12 +1244,15 @@
           "complete-arrow-left"
         ],
         "defaultCode": 58934,
-        "grid": 0
+        "grid": 0,
+        "colorPermutations": {
+          "2172172171220381012481912812552552551": []
+        }
       },
       "attrs": [],
       "properties": {
         "id": 41,
-        "order": 590,
+        "order": 1210,
         "ligatures": "",
         "prevSize": 32,
         "code": 58934,
@@ -1148,12 +1274,15 @@
           "complete-arrow-down"
         ],
         "defaultCode": 58935,
-        "grid": 0
+        "grid": 0,
+        "colorPermutations": {
+          "2172172171220381012481912812552552551": []
+        }
       },
       "attrs": [],
       "properties": {
         "id": 42,
-        "order": 591,
+        "order": 1211,
         "ligatures": "",
         "prevSize": 32,
         "code": 58935,
@@ -1175,12 +1304,15 @@
           "star"
         ],
         "defaultCode": 58937,
-        "grid": 0
+        "grid": 0,
+        "colorPermutations": {
+          "2172172171220381012481912812552552551": []
+        }
       },
       "attrs": [],
       "properties": {
         "id": 43,
-        "order": 592,
+        "order": 1212,
         "ligatures": "",
         "prevSize": 32,
         "code": 58937,
@@ -1202,12 +1334,15 @@
           "close"
         ],
         "defaultCode": 58938,
-        "grid": 0
+        "grid": 0,
+        "colorPermutations": {
+          "2172172171220381012481912812552552551": []
+        }
       },
       "attrs": [],
       "properties": {
         "id": 44,
-        "order": 593,
+        "order": 1213,
         "ligatures": "",
         "prevSize": 32,
         "code": 58938,
@@ -1229,12 +1364,15 @@
           "remove-round"
         ],
         "defaultCode": 58939,
-        "grid": 0
+        "grid": 0,
+        "colorPermutations": {
+          "2172172171220381012481912812552552551": []
+        }
       },
       "attrs": [],
       "properties": {
         "id": 45,
-        "order": 594,
+        "order": 1214,
         "ligatures": "",
         "prevSize": 32,
         "code": 58939,
@@ -1256,12 +1394,15 @@
           "add-round"
         ],
         "defaultCode": 58942,
-        "grid": 0
+        "grid": 0,
+        "colorPermutations": {
+          "2172172171220381012481912812552552551": []
+        }
       },
       "attrs": [],
       "properties": {
         "id": 46,
-        "order": 595,
+        "order": 1215,
         "ligatures": "",
         "prevSize": 32,
         "code": 58942,
@@ -1283,12 +1424,15 @@
           "wishlist"
         ],
         "defaultCode": 58943,
-        "grid": 0
+        "grid": 0,
+        "colorPermutations": {
+          "2172172171220381012481912812552552551": []
+        }
       },
       "attrs": [],
       "properties": {
         "id": 47,
-        "order": 596,
+        "order": 1216,
         "ligatures": "",
         "prevSize": 32,
         "code": 58943,
@@ -1310,12 +1454,15 @@
           "verifiedbyvisa"
         ],
         "defaultCode": 58944,
-        "grid": 0
+        "grid": 0,
+        "colorPermutations": {
+          "2172172171220381012481912812552552551": []
+        }
       },
       "attrs": [],
       "properties": {
         "id": 48,
-        "order": 597,
+        "order": 1217,
         "ligatures": "",
         "prevSize": 32,
         "code": 58944,
@@ -1337,12 +1484,15 @@
           "question-mark"
         ],
         "defaultCode": 58945,
-        "grid": 0
+        "grid": 0,
+        "colorPermutations": {
+          "2172172171220381012481912812552552551": []
+        }
       },
       "attrs": [],
       "properties": {
         "id": 49,
-        "order": 598,
+        "order": 1218,
         "ligatures": "",
         "prevSize": 32,
         "code": 58945,
@@ -1364,12 +1514,15 @@
           "cut"
         ],
         "defaultCode": 58946,
-        "grid": 0
+        "grid": 0,
+        "colorPermutations": {
+          "2172172171220381012481912812552552551": []
+        }
       },
       "attrs": [],
       "properties": {
         "id": 50,
-        "order": 599,
+        "order": 1219,
         "ligatures": "",
         "prevSize": 32,
         "code": 58946,
@@ -1391,12 +1544,15 @@
           "gift"
         ],
         "defaultCode": 58947,
-        "grid": 0
+        "grid": 0,
+        "colorPermutations": {
+          "2172172171220381012481912812552552551": []
+        }
       },
       "attrs": [],
       "properties": {
         "id": 51,
-        "order": 600,
+        "order": 1220,
         "ligatures": "",
         "prevSize": 32,
         "code": 58947,
@@ -1418,12 +1574,15 @@
           "telephone"
         ],
         "defaultCode": 58949,
-        "grid": 0
+        "grid": 0,
+        "colorPermutations": {
+          "2172172171220381012481912812552552551": []
+        }
       },
       "attrs": [],
       "properties": {
         "id": 52,
-        "order": 601,
+        "order": 1221,
         "ligatures": "",
         "prevSize": 32,
         "code": 58949,
@@ -1445,12 +1604,15 @@
           "mastercard"
         ],
         "defaultCode": 58950,
-        "grid": 0
+        "grid": 0,
+        "colorPermutations": {
+          "2172172171220381012481912812552552551": []
+        }
       },
       "attrs": [],
       "properties": {
         "id": 53,
-        "order": 602,
+        "order": 1222,
         "ligatures": "",
         "prevSize": 32,
         "code": 58950,
@@ -1472,12 +1634,15 @@
           "edit"
         ],
         "defaultCode": 58951,
-        "grid": 0
+        "grid": 0,
+        "colorPermutations": {
+          "2172172171220381012481912812552552551": []
+        }
       },
       "attrs": [],
       "properties": {
         "id": 54,
-        "order": 603,
+        "order": 1223,
         "ligatures": "",
         "prevSize": 32,
         "code": 58951,
@@ -1499,12 +1664,15 @@
           "add-image"
         ],
         "defaultCode": 58952,
-        "grid": 0
+        "grid": 0,
+        "colorPermutations": {
+          "2172172171220381012481912812552552551": []
+        }
       },
       "attrs": [],
       "properties": {
         "id": 55,
-        "order": 604,
+        "order": 1224,
         "ligatures": "",
         "prevSize": 32,
         "code": 58952,
@@ -1526,12 +1694,15 @@
           "404"
         ],
         "defaultCode": 58953,
-        "grid": 0
+        "grid": 0,
+        "colorPermutations": {
+          "2172172171220381012481912812552552551": []
+        }
       },
       "attrs": [],
       "properties": {
         "id": 56,
-        "order": 605,
+        "order": 1225,
         "ligatures": "",
         "prevSize": 32,
         "code": 58953,
@@ -1553,12 +1724,15 @@
           "cartaregalo"
         ],
         "defaultCode": 58954,
-        "grid": 0
+        "grid": 0,
+        "colorPermutations": {
+          "2172172171220381012481912812552552551": []
+        }
       },
       "attrs": [],
       "properties": {
         "id": 57,
-        "order": 606,
+        "order": 1226,
         "ligatures": "",
         "prevSize": 32,
         "code": 58954,
@@ -1580,12 +1754,15 @@
           "help-question"
         ],
         "defaultCode": 58956,
-        "grid": 0
+        "grid": 0,
+        "colorPermutations": {
+          "2172172171220381012481912812552552551": []
+        }
       },
       "attrs": [],
       "properties": {
         "id": 58,
-        "order": 607,
+        "order": 1227,
         "ligatures": "",
         "prevSize": 32,
         "code": 58956,
@@ -1607,12 +1784,15 @@
           "timer-white"
         ],
         "defaultCode": 58957,
-        "grid": 0
+        "grid": 0,
+        "colorPermutations": {
+          "2172172171220381012481912812552552551": []
+        }
       },
       "attrs": [],
       "properties": {
         "id": 59,
-        "order": 608,
+        "order": 1228,
         "ligatures": "",
         "prevSize": 32,
         "code": 58957,
@@ -1634,12 +1814,15 @@
           "arredamento-giardino-terrazzo-e-giardinaggio"
         ],
         "defaultCode": 58958,
-        "grid": 0
+        "grid": 0,
+        "colorPermutations": {
+          "2172172171220381012481912812552552551": []
+        }
       },
       "attrs": [],
       "properties": {
         "id": 60,
-        "order": 609,
+        "order": 1229,
         "ligatures": "",
         "prevSize": 32,
         "code": 58958,
@@ -1661,12 +1844,15 @@
           "illuminazione"
         ],
         "defaultCode": 58959,
-        "grid": 0
+        "grid": 0,
+        "colorPermutations": {
+          "2172172171220381012481912812552552551": []
+        }
       },
       "attrs": [],
       "properties": {
         "id": 61,
-        "order": 610,
+        "order": 1230,
         "ligatures": "",
         "prevSize": 32,
         "code": 58959,
@@ -1688,12 +1874,15 @@
           "ordine-e-sistemazione"
         ],
         "defaultCode": 58960,
-        "grid": 0
+        "grid": 0,
+        "colorPermutations": {
+          "2172172171220381012481912812552552551": []
+        }
       },
       "attrs": [],
       "properties": {
         "id": 62,
-        "order": 611,
+        "order": 1231,
         "ligatures": "",
         "prevSize": 32,
         "code": 58960,
@@ -1715,12 +1904,15 @@
           "pavimenti-e-rivestimenti"
         ],
         "defaultCode": 58961,
-        "grid": 0
+        "grid": 0,
+        "colorPermutations": {
+          "2172172171220381012481912812552552551": []
+        }
       },
       "attrs": [],
       "properties": {
         "id": 63,
-        "order": 612,
+        "order": 1232,
         "ligatures": "",
         "prevSize": 32,
         "code": 58961,
@@ -1742,12 +1934,15 @@
           "porte-scale-e-finestre"
         ],
         "defaultCode": 58962,
-        "grid": 0
+        "grid": 0,
+        "colorPermutations": {
+          "2172172171220381012481912812552552551": []
+        }
       },
       "attrs": [],
       "properties": {
         "id": 64,
-        "order": 613,
+        "order": 1233,
         "ligatures": "",
         "prevSize": 32,
         "code": 58962,
@@ -1769,12 +1964,15 @@
           "stufe-clima-e-idraulica"
         ],
         "defaultCode": 58963,
-        "grid": 0
+        "grid": 0,
+        "colorPermutations": {
+          "2172172171220381012481912812552552551": []
+        }
       },
       "attrs": [],
       "properties": {
         "id": 65,
-        "order": 614,
+        "order": 1234,
         "ligatures": "",
         "prevSize": 32,
         "code": 58963,
@@ -1796,12 +1994,15 @@
           "utensileria-e-ferramenta"
         ],
         "defaultCode": 58964,
-        "grid": 0
+        "grid": 0,
+        "colorPermutations": {
+          "2172172171220381012481912812552552551": []
+        }
       },
       "attrs": [],
       "properties": {
         "id": 66,
-        "order": 615,
+        "order": 1235,
         "ligatures": "",
         "prevSize": 32,
         "code": 58964,
@@ -1823,12 +2024,15 @@
           "vernici"
         ],
         "defaultCode": 58965,
-        "grid": 0
+        "grid": 0,
+        "colorPermutations": {
+          "2172172171220381012481912812552552551": []
+        }
       },
       "attrs": [],
       "properties": {
         "id": 67,
-        "order": 616,
+        "order": 1236,
         "ligatures": "",
         "prevSize": 32,
         "code": 58965,
@@ -1850,12 +2054,15 @@
           "falegnameria-e-edilizia"
         ],
         "defaultCode": 58966,
-        "grid": 0
+        "grid": 0,
+        "colorPermutations": {
+          "2172172171220381012481912812552552551": []
+        }
       },
       "attrs": [],
       "properties": {
         "id": 68,
-        "order": 617,
+        "order": 1237,
         "ligatures": "",
         "prevSize": 32,
         "code": 58966,
@@ -1877,12 +2084,15 @@
           "cucina"
         ],
         "defaultCode": 58967,
-        "grid": 0
+        "grid": 0,
+        "colorPermutations": {
+          "2172172171220381012481912812552552551": []
+        }
       },
       "attrs": [],
       "properties": {
         "id": 69,
-        "order": 618,
+        "order": 1238,
         "ligatures": "",
         "prevSize": 32,
         "code": 58967,
@@ -1904,12 +2114,15 @@
           "storelocator-line"
         ],
         "defaultCode": 58973,
-        "grid": 0
+        "grid": 0,
+        "colorPermutations": {
+          "2172172171220381012481912812552552551": []
+        }
       },
       "attrs": [],
       "properties": {
         "id": 70,
-        "order": 619,
+        "order": 1239,
         "ligatures": "",
         "prevSize": 32,
         "code": 58973,
@@ -1931,12 +2144,15 @@
           "help"
         ],
         "defaultCode": 58974,
-        "grid": 0
+        "grid": 0,
+        "colorPermutations": {
+          "2172172171220381012481912812552552551": []
+        }
       },
       "attrs": [],
       "properties": {
         "id": 71,
-        "order": 620,
+        "order": 1240,
         "ligatures": "",
         "prevSize": 32,
         "code": 58974,
@@ -1958,12 +2174,15 @@
           "scheda-montaggio"
         ],
         "defaultCode": 58975,
-        "grid": 0
+        "grid": 0,
+        "colorPermutations": {
+          "2172172171220381012481912812552552551": []
+        }
       },
       "attrs": [],
       "properties": {
         "id": 72,
-        "order": 621,
+        "order": 1241,
         "ligatures": "",
         "prevSize": 32,
         "code": 58975,
@@ -1985,12 +2204,15 @@
           "scheda-sicurezza"
         ],
         "defaultCode": 58976,
-        "grid": 0
+        "grid": 0,
+        "colorPermutations": {
+          "2172172171220381012481912812552552551": []
+        }
       },
       "attrs": [],
       "properties": {
         "id": 73,
-        "order": 622,
+        "order": 1242,
         "ligatures": "",
         "prevSize": 32,
         "code": 58976,
@@ -2012,12 +2234,15 @@
           "disegni-tecnici"
         ],
         "defaultCode": 58977,
-        "grid": 0
+        "grid": 0,
+        "colorPermutations": {
+          "2172172171220381012481912812552552551": []
+        }
       },
       "attrs": [],
       "properties": {
         "id": 74,
-        "order": 623,
+        "order": 1243,
         "ligatures": "",
         "prevSize": 32,
         "code": 58977,
@@ -2039,12 +2264,15 @@
           "diagram"
         ],
         "defaultCode": 59392,
-        "grid": 0
+        "grid": 0,
+        "colorPermutations": {
+          "2172172171220381012481912812552552551": []
+        }
       },
       "attrs": [],
       "properties": {
         "id": 75,
-        "order": 624,
+        "order": 1244,
         "ligatures": "",
         "prevSize": 32,
         "code": 59392,
@@ -2066,12 +2294,15 @@
           "slim-arrow-right"
         ],
         "defaultCode": 59648,
-        "grid": 0
+        "grid": 0,
+        "colorPermutations": {
+          "2172172171220381012481912812552552551": []
+        }
       },
       "attrs": [],
       "properties": {
         "id": 76,
-        "order": 625,
+        "order": 1245,
         "ligatures": "",
         "prevSize": 32,
         "code": 59648,
@@ -2093,12 +2324,15 @@
           "doublepackcart"
         ],
         "defaultCode": 59649,
-        "grid": 0
+        "grid": 0,
+        "colorPermutations": {
+          "2172172171220381012481912812552552551": []
+        }
       },
       "attrs": [],
       "properties": {
         "id": 77,
-        "order": 626,
+        "order": 1246,
         "ligatures": "",
         "prevSize": 32,
         "code": 59649,
@@ -2120,12 +2354,15 @@
           "hammer"
         ],
         "defaultCode": 59650,
-        "grid": 0
+        "grid": 0,
+        "colorPermutations": {
+          "2172172171220381012481912812552552551": []
+        }
       },
       "attrs": [],
       "properties": {
         "id": 78,
-        "order": 627,
+        "order": 1247,
         "ligatures": "",
         "prevSize": 32,
         "code": 59650,
@@ -2147,12 +2384,15 @@
           "label"
         ],
         "defaultCode": 59651,
-        "grid": 0
+        "grid": 0,
+        "colorPermutations": {
+          "2172172171220381012481912812552552551": []
+        }
       },
       "attrs": [],
       "properties": {
         "id": 79,
-        "order": 628,
+        "order": 1248,
         "ligatures": "",
         "prevSize": 32,
         "code": 59651,
@@ -2174,12 +2414,15 @@
           "ruler"
         ],
         "defaultCode": 59652,
-        "grid": 0
+        "grid": 0,
+        "colorPermutations": {
+          "2172172171220381012481912812552552551": []
+        }
       },
       "attrs": [],
       "properties": {
         "id": 80,
-        "order": 629,
+        "order": 1249,
         "ligatures": "",
         "prevSize": 32,
         "code": 59652,
@@ -2201,12 +2444,15 @@
           "screwdriver"
         ],
         "defaultCode": 59653,
-        "grid": 0
+        "grid": 0,
+        "colorPermutations": {
+          "2172172171220381012481912812552552551": []
+        }
       },
       "attrs": [],
       "properties": {
         "id": 81,
-        "order": 630,
+        "order": 1250,
         "ligatures": "",
         "prevSize": 32,
         "code": 59653,
@@ -2228,12 +2474,15 @@
           "wallpaper"
         ],
         "defaultCode": 59654,
-        "grid": 0
+        "grid": 0,
+        "colorPermutations": {
+          "2172172171220381012481912812552552551": []
+        }
       },
       "attrs": [],
       "properties": {
         "id": 82,
-        "order": 631,
+        "order": 1251,
         "ligatures": "",
         "prevSize": 32,
         "code": 59654,
@@ -2255,12 +2504,15 @@
           "trowel"
         ],
         "defaultCode": 59655,
-        "grid": 0
+        "grid": 0,
+        "colorPermutations": {
+          "2172172171220381012481912812552552551": []
+        }
       },
       "attrs": [],
       "properties": {
         "id": 83,
-        "order": 632,
+        "order": 1252,
         "ligatures": "",
         "prevSize": 32,
         "code": 59655,
@@ -2282,12 +2534,15 @@
           "value"
         ],
         "defaultCode": 59656,
-        "grid": 0
+        "grid": 0,
+        "colorPermutations": {
+          "2172172171220381012481912812552552551": []
+        }
       },
       "attrs": [],
       "properties": {
         "id": 84,
-        "order": 633,
+        "order": 1253,
         "ligatures": "",
         "prevSize": 32,
         "code": 59656,
@@ -2309,12 +2564,15 @@
           "bolt"
         ],
         "defaultCode": 59657,
-        "grid": 0
+        "grid": 0,
+        "colorPermutations": {
+          "2172172171220381012481912812552552551": []
+        }
       },
       "attrs": [],
       "properties": {
         "id": 85,
-        "order": 634,
+        "order": 1254,
         "ligatures": "",
         "prevSize": 32,
         "code": 59657,
@@ -2336,12 +2594,15 @@
           "brush"
         ],
         "defaultCode": 59658,
-        "grid": 0
+        "grid": 0,
+        "colorPermutations": {
+          "2172172171220381012481912812552552551": []
+        }
       },
       "attrs": [],
       "properties": {
         "id": 86,
-        "order": 635,
+        "order": 1255,
         "ligatures": "",
         "prevSize": 32,
         "code": 59658,
@@ -2363,12 +2624,15 @@
           "calculette"
         ],
         "defaultCode": 59659,
-        "grid": 0
+        "grid": 0,
+        "colorPermutations": {
+          "2172172171220381012481912812552552551": []
+        }
       },
       "attrs": [],
       "properties": {
         "id": 87,
-        "order": 636,
+        "order": 1256,
         "ligatures": "",
         "prevSize": 32,
         "code": 59659,
@@ -2390,12 +2654,15 @@
           "promessareso"
         ],
         "defaultCode": 59660,
-        "grid": 0
+        "grid": 0,
+        "colorPermutations": {
+          "2172172171220381012481912812552552551": []
+        }
       },
       "attrs": [],
       "properties": {
         "id": 88,
-        "order": 637,
+        "order": 1257,
         "ligatures": "",
         "prevSize": 32,
         "code": 59660,
@@ -2417,12 +2684,15 @@
           "promessaconsegna"
         ],
         "defaultCode": 59661,
-        "grid": 0
+        "grid": 0,
+        "colorPermutations": {
+          "2172172171220381012481912812552552551": []
+        }
       },
       "attrs": [],
       "properties": {
         "id": 89,
-        "order": 638,
+        "order": 1258,
         "ligatures": "",
         "prevSize": 32,
         "code": 59661,
@@ -2444,12 +2714,15 @@
           "promessaclickcollect"
         ],
         "defaultCode": 59662,
-        "grid": 0
+        "grid": 0,
+        "colorPermutations": {
+          "2172172171220381012481912812552552551": []
+        }
       },
       "attrs": [],
       "properties": {
         "id": 90,
-        "order": 639,
+        "order": 1259,
         "ligatures": "",
         "prevSize": 32,
         "code": 59662,
@@ -2471,12 +2744,15 @@
           "agevolazioni-fiscali"
         ],
         "defaultCode": 59663,
-        "grid": 0
+        "grid": 0,
+        "colorPermutations": {
+          "2172172171220381012481912812552552551": []
+        }
       },
       "attrs": [],
       "properties": {
         "id": 91,
-        "order": 640,
+        "order": 1260,
         "ligatures": "",
         "prevSize": 32,
         "code": 59663,
@@ -2498,12 +2774,15 @@
           "diagnosi-energetica"
         ],
         "defaultCode": 59664,
-        "grid": 0
+        "grid": 0,
+        "colorPermutations": {
+          "2172172171220381012481912812552552551": []
+        }
       },
       "attrs": [],
       "properties": {
         "id": 92,
-        "order": 641,
+        "order": 1261,
         "ligatures": "",
         "prevSize": 32,
         "code": 59664,
@@ -2525,12 +2804,15 @@
           "chiavi-su-misura"
         ],
         "defaultCode": 59665,
-        "grid": 0
+        "grid": 0,
+        "colorPermutations": {
+          "2172172171220381012481912812552552551": []
+        }
       },
       "attrs": [],
       "properties": {
         "id": 93,
-        "order": 642,
+        "order": 1262,
         "ligatures": "",
         "prevSize": 32,
         "code": 59665,
@@ -2552,12 +2834,15 @@
           "assistenza-clienti"
         ],
         "defaultCode": 59666,
-        "grid": 0
+        "grid": 0,
+        "colorPermutations": {
+          "2172172171220381012481912812552552551": []
+        }
       },
       "attrs": [],
       "properties": {
         "id": 94,
-        "order": 643,
+        "order": 1263,
         "ligatures": "",
         "prevSize": 32,
         "code": 59666,
@@ -2579,12 +2864,15 @@
           "colori-su-misura"
         ],
         "defaultCode": 59667,
-        "grid": 0
+        "grid": 0,
+        "colorPermutations": {
+          "2172172171220381012481912812552552551": []
+        }
       },
       "attrs": [],
       "properties": {
         "id": 95,
-        "order": 644,
+        "order": 1264,
         "ligatures": "",
         "prevSize": 32,
         "code": 59667,
@@ -2606,12 +2894,15 @@
           "consegna-a-domicilio"
         ],
         "defaultCode": 59668,
-        "grid": 0
+        "grid": 0,
+        "colorPermutations": {
+          "2172172171220381012481912812552552551": []
+        }
       },
       "attrs": [],
       "properties": {
         "id": 96,
-        "order": 645,
+        "order": 1265,
         "ligatures": "",
         "prevSize": 32,
         "code": 59668,
@@ -2633,12 +2924,15 @@
           "consulente-progetto"
         ],
         "defaultCode": 59669,
-        "grid": 0
+        "grid": 0,
+        "colorPermutations": {
+          "2172172171220381012481912812552552551": []
+        }
       },
       "attrs": [],
       "properties": {
         "id": 97,
-        "order": 646,
+        "order": 1266,
         "ligatures": "",
         "prevSize": 32,
         "code": 59669,
@@ -2660,12 +2954,15 @@
           "cornici-su-misura"
         ],
         "defaultCode": 59670,
-        "grid": 0
+        "grid": 0,
+        "colorPermutations": {
+          "2172172171220381012481912812552552551": []
+        }
       },
       "attrs": [],
       "properties": {
         "id": 98,
-        "order": 647,
+        "order": 1267,
         "ligatures": "",
         "prevSize": 32,
         "code": 59670,
@@ -2687,12 +2984,15 @@
           "corsi-fai-da-te"
         ],
         "defaultCode": 59671,
-        "grid": 0
+        "grid": 0,
+        "colorPermutations": {
+          "2172172171220381012481912812552552551": []
+        }
       },
       "attrs": [],
       "properties": {
         "id": 99,
-        "order": 648,
+        "order": 1268,
         "ligatures": "",
         "prevSize": 32,
         "code": 59671,
@@ -2714,12 +3014,15 @@
           "finanziamento"
         ],
         "defaultCode": 59672,
-        "grid": 0
+        "grid": 0,
+        "colorPermutations": {
+          "2172172171220381012481912812552552551": []
+        }
       },
       "attrs": [],
       "properties": {
         "id": 100,
-        "order": 649,
+        "order": 1269,
         "ligatures": "",
         "prevSize": 32,
         "code": 59672,
@@ -2741,12 +3044,15 @@
           "taglio-legno-vetro"
         ],
         "defaultCode": 59673,
-        "grid": 0
+        "grid": 0,
+        "colorPermutations": {
+          "2172172171220381012481912812552552551": []
+        }
       },
       "attrs": [],
       "properties": {
         "id": 101,
-        "order": 650,
+        "order": 1270,
         "ligatures": "",
         "prevSize": 32,
         "code": 59673,
@@ -2768,12 +3074,15 @@
           "noleggio-attrezzature"
         ],
         "defaultCode": 59674,
-        "grid": 0
+        "grid": 0,
+        "colorPermutations": {
+          "2172172171220381012481912812552552551": []
+        }
       },
       "attrs": [],
       "properties": {
         "id": 102,
-        "order": 651,
+        "order": 1271,
         "ligatures": "",
         "prevSize": 32,
         "code": 59674,
@@ -2795,12 +3104,15 @@
           "noleggio-veicoli"
         ],
         "defaultCode": 59675,
-        "grid": 0
+        "grid": 0,
+        "colorPermutations": {
+          "2172172171220381012481912812552552551": []
+        }
       },
       "attrs": [],
       "properties": {
         "id": 103,
-        "order": 652,
+        "order": 1272,
         "ligatures": "",
         "prevSize": 32,
         "code": 59675,
@@ -2822,12 +3134,15 @@
           "posa-installazione"
         ],
         "defaultCode": 59676,
-        "grid": 0
+        "grid": 0,
+        "colorPermutations": {
+          "2172172171220381012481912812552552551": []
+        }
       },
       "attrs": [],
       "properties": {
         "id": 104,
-        "order": 653,
+        "order": 1273,
         "prevSize": 32,
         "code": 59676,
         "name": "posa-installazione"
@@ -2848,12 +3163,15 @@
           "timer-round"
         ],
         "defaultCode": 59677,
-        "grid": 0
+        "grid": 0,
+        "colorPermutations": {
+          "2172172171220381012481912812552552551": []
+        }
       },
       "attrs": [],
       "properties": {
         "id": 105,
-        "order": 654,
+        "order": 1274,
         "ligatures": "",
         "prevSize": 32,
         "code": 59677,
@@ -2875,12 +3193,15 @@
           "post-vendita"
         ],
         "defaultCode": 59678,
-        "grid": 0
+        "grid": 0,
+        "colorPermutations": {
+          "2172172171220381012481912812552552551": []
+        }
       },
       "attrs": [],
       "properties": {
         "id": 106,
-        "order": 655,
+        "order": 1275,
         "ligatures": "",
         "prevSize": 32,
         "code": 59678,
@@ -2902,12 +3223,15 @@
           "assistenza-macchine-giardino"
         ],
         "defaultCode": 59679,
-        "grid": 0
+        "grid": 0,
+        "colorPermutations": {
+          "2172172171220381012481912812552552551": []
+        }
       },
       "attrs": [],
       "properties": {
         "id": 107,
-        "order": 656,
+        "order": 1276,
         "ligatures": "",
         "prevSize": 32,
         "code": 59679,
@@ -2929,12 +3253,15 @@
           "reso-merce"
         ],
         "defaultCode": 59680,
-        "grid": 0
+        "grid": 0,
+        "colorPermutations": {
+          "2172172171220381012481912812552552551": []
+        }
       },
       "attrs": [],
       "properties": {
         "id": 108,
-        "order": 657,
+        "order": 1277,
         "ligatures": "",
         "prevSize": 32,
         "code": 59680,
@@ -2956,12 +3283,15 @@
           "rimborso-differenza"
         ],
         "defaultCode": 59681,
-        "grid": 0
+        "grid": 0,
+        "colorPermutations": {
+          "2172172171220381012481912812552552551": []
+        }
       },
       "attrs": [],
       "properties": {
         "id": 109,
-        "order": 658,
+        "order": 1278,
         "ligatures": "",
         "prevSize": 32,
         "code": 59681,
@@ -2983,12 +3313,15 @@
           "picto-ritiro"
         ],
         "defaultCode": 59682,
-        "grid": 0
+        "grid": 0,
+        "colorPermutations": {
+          "2172172171220381012481912812552552551": []
+        }
       },
       "attrs": [],
       "properties": {
         "id": 110,
-        "order": 659,
+        "order": 1279,
         "ligatures": "",
         "prevSize": 32,
         "code": 59682,
@@ -3010,12 +3343,15 @@
           "sartoria-express"
         ],
         "defaultCode": 59683,
-        "grid": 0
+        "grid": 0,
+        "colorPermutations": {
+          "2172172171220381012481912812552552551": []
+        }
       },
       "attrs": [],
       "properties": {
         "id": 111,
-        "order": 660,
+        "order": 1280,
         "ligatures": "",
         "prevSize": 32,
         "code": 59683,
@@ -3037,12 +3373,15 @@
           "tende-tecniche-su-misura"
         ],
         "defaultCode": 59684,
-        "grid": 0
+        "grid": 0,
+        "colorPermutations": {
+          "2172172171220381012481912812552552551": []
+        }
       },
       "attrs": [],
       "properties": {
         "id": 112,
-        "order": 661,
+        "order": 1281,
         "ligatures": "",
         "prevSize": 32,
         "code": 59684,
@@ -3064,12 +3403,15 @@
           "tende_tessuti-su-misura"
         ],
         "defaultCode": 59685,
-        "grid": 0
+        "grid": 0,
+        "colorPermutations": {
+          "2172172171220381012481912812552552551": []
+        }
       },
       "attrs": [],
       "properties": {
         "id": 113,
-        "order": 662,
+        "order": 1282,
         "ligatures": "",
         "prevSize": 32,
         "code": 59685,
@@ -3091,12 +3433,15 @@
           "wifi"
         ],
         "defaultCode": 59686,
-        "grid": 0
+        "grid": 0,
+        "colorPermutations": {
+          "2172172171220381012481912812552552551": []
+        }
       },
       "attrs": [],
       "properties": {
         "id": 114,
-        "order": 663,
+        "order": 1283,
         "ligatures": "",
         "prevSize": 32,
         "code": 59686,
@@ -3118,12 +3463,15 @@
           "close-round"
         ],
         "defaultCode": 59687,
-        "grid": 0
+        "grid": 0,
+        "colorPermutations": {
+          "2172172171220381012481912812552552551": []
+        }
       },
       "attrs": [],
       "properties": {
         "id": 115,
-        "order": 664,
+        "order": 1284,
         "ligatures": "",
         "prevSize": 32,
         "code": 59687,
@@ -3145,12 +3493,15 @@
           "help-round"
         ],
         "defaultCode": 59688,
-        "grid": 0
+        "grid": 0,
+        "colorPermutations": {
+          "2172172171220381012481912812552552551": []
+        }
       },
       "attrs": [],
       "properties": {
         "id": 116,
-        "order": 665,
+        "order": 1285,
         "ligatures": "",
         "prevSize": 32,
         "code": 59688,
@@ -3172,12 +3523,15 @@
           "assistenza"
         ],
         "defaultCode": 59689,
-        "grid": 0
+        "grid": 0,
+        "colorPermutations": {
+          "2172172171220381012481912812552552551": []
+        }
       },
       "attrs": [],
       "properties": {
         "id": 117,
-        "order": 666,
+        "order": 1286,
         "ligatures": "",
         "prevSize": 32,
         "code": 59689,
@@ -3199,12 +3553,15 @@
           "garanzie"
         ],
         "defaultCode": 59690,
-        "grid": 0
+        "grid": 0,
+        "colorPermutations": {
+          "2172172171220381012481912812552552551": []
+        }
       },
       "attrs": [],
       "properties": {
         "id": 118,
-        "order": 667,
+        "order": 1287,
         "ligatures": "",
         "prevSize": 32,
         "code": 59690,
@@ -3226,12 +3583,15 @@
           "risparmio"
         ],
         "defaultCode": 59691,
-        "grid": 0
+        "grid": 0,
+        "colorPermutations": {
+          "2172172171220381012481912812552552551": []
+        }
       },
       "attrs": [],
       "properties": {
         "id": 119,
-        "order": 668,
+        "order": 1288,
         "ligatures": "",
         "prevSize": 32,
         "code": 59691,
@@ -3253,12 +3613,15 @@
           "servizi"
         ],
         "defaultCode": 59692,
-        "grid": 0
+        "grid": 0,
+        "colorPermutations": {
+          "2172172171220381012481912812552552551": []
+        }
       },
       "attrs": [],
       "properties": {
         "id": 120,
-        "order": 669,
+        "order": 1289,
         "ligatures": "",
         "prevSize": 32,
         "code": 59692,
@@ -3280,12 +3643,15 @@
           "profile-full"
         ],
         "defaultCode": 59693,
-        "grid": 0
+        "grid": 0,
+        "colorPermutations": {
+          "2172172171220381012481912812552552551": []
+        }
       },
       "attrs": [],
       "properties": {
         "id": 121,
-        "order": 670,
+        "order": 1290,
         "ligatures": "",
         "prevSize": 32,
         "code": 59693,
@@ -3307,12 +3673,15 @@
           "clicca-e-ritira"
         ],
         "defaultCode": 59694,
-        "grid": 0
+        "grid": 0,
+        "colorPermutations": {
+          "2172172171220381012481912812552552551": []
+        }
       },
       "attrs": [],
       "properties": {
         "id": 122,
-        "order": 671,
+        "order": 1291,
         "ligatures": "",
         "prevSize": 32,
         "code": 59694,
@@ -3334,12 +3703,15 @@
           "specchi-su-misura"
         ],
         "defaultCode": 59695,
-        "grid": 0
+        "grid": 0,
+        "colorPermutations": {
+          "2172172171220381012481912812552552551": []
+        }
       },
       "attrs": [],
       "properties": {
         "id": 123,
-        "order": 672,
+        "order": 1292,
         "ligatures": "",
         "prevSize": 32,
         "code": 59695,
@@ -3361,12 +3733,15 @@
           "posa-prezzo-fisso"
         ],
         "defaultCode": 59696,
-        "grid": 0
+        "grid": 0,
+        "colorPermutations": {
+          "2172172171220381012481912812552552551": []
+        }
       },
       "attrs": [],
       "properties": {
         "id": 124,
-        "order": 673,
+        "order": 1293,
         "ligatures": "",
         "prevSize": 32,
         "code": 59696,
@@ -3388,12 +3763,15 @@
           "slim-arrow-left"
         ],
         "defaultCode": 59697,
-        "grid": 0
+        "grid": 0,
+        "colorPermutations": {
+          "2172172171220381012481912812552552551": []
+        }
       },
       "attrs": [],
       "properties": {
         "id": 125,
-        "order": 674,
+        "order": 1294,
         "ligatures": "",
         "prevSize": 32,
         "code": 59697,
@@ -3415,12 +3793,15 @@
           "posa-dritta"
         ],
         "defaultCode": 59698,
-        "grid": 0
+        "grid": 0,
+        "colorPermutations": {
+          "2172172171220381012481912812552552551": []
+        }
       },
       "attrs": [],
       "properties": {
         "id": 126,
-        "order": 675,
+        "order": 1295,
         "ligatures": "",
         "prevSize": 32,
         "code": 59698,
@@ -3442,12 +3823,15 @@
           "posa-diagonale"
         ],
         "defaultCode": 59699,
-        "grid": 0
+        "grid": 0,
+        "colorPermutations": {
+          "2172172171220381012481912812552552551": []
+        }
       },
       "attrs": [],
       "properties": {
         "id": 127,
-        "order": 676,
+        "order": 1296,
         "ligatures": "",
         "prevSize": 32,
         "code": 59699,
@@ -3469,12 +3853,15 @@
           "prenota-in-negozio"
         ],
         "defaultCode": 59700,
-        "grid": 0
+        "grid": 0,
+        "colorPermutations": {
+          "2172172171220381012481912812552552551": []
+        }
       },
       "attrs": [],
       "properties": {
         "id": 128,
-        "order": 677,
+        "order": 1297,
         "ligatures": "",
         "prevSize": 32,
         "code": 59700,
@@ -3497,12 +3884,15 @@
           "buoni-sconto"
         ],
         "defaultCode": 59701,
-        "grid": 0
+        "grid": 0,
+        "colorPermutations": {
+          "2172172171220381012481912812552552551": []
+        }
       },
       "attrs": [],
       "properties": {
         "id": 129,
-        "order": 678,
+        "order": 1298,
         "ligatures": "",
         "prevSize": 32,
         "code": 59701,
@@ -3525,12 +3915,15 @@
           "remove-coupon"
         ],
         "defaultCode": 59702,
-        "grid": 0
+        "grid": 0,
+        "colorPermutations": {
+          "2172172171220381012481912812552552551": []
+        }
       },
       "attrs": [],
       "properties": {
         "id": 130,
-        "order": 679,
+        "order": 1299,
         "ligatures": "",
         "prevSize": 32,
         "code": 59702,
@@ -3553,12 +3946,15 @@
           "dallo-store"
         ],
         "defaultCode": 59703,
-        "grid": 0
+        "grid": 0,
+        "colorPermutations": {
+          "2172172171220381012481912812552552551": []
+        }
       },
       "attrs": [],
       "properties": {
         "id": 131,
-        "order": 680,
+        "order": 1300,
         "ligatures": "",
         "prevSize": 32,
         "code": 59703,
@@ -3581,12 +3977,15 @@
           "dalla-nostra-app"
         ],
         "defaultCode": 59704,
-        "grid": 0
+        "grid": 0,
+        "colorPermutations": {
+          "2172172171220381012481912812552552551": []
+        }
       },
       "attrs": [],
       "properties": {
         "id": 132,
-        "order": 681,
+        "order": 1301,
         "ligatures": "",
         "prevSize": 32,
         "code": 59704,
@@ -3609,12 +4008,15 @@
           "dal-nostro-sito"
         ],
         "defaultCode": 59705,
-        "grid": 0
+        "grid": 0,
+        "colorPermutations": {
+          "2172172171220381012481912812552552551": []
+        }
       },
       "attrs": [],
       "properties": {
         "id": 133,
-        "order": 682,
+        "order": 1302,
         "ligatures": "",
         "prevSize": 32,
         "code": 59705,
@@ -3637,12 +4039,15 @@
           "coupon-wallet"
         ],
         "defaultCode": 59706,
-        "grid": 0
+        "grid": 0,
+        "colorPermutations": {
+          "2172172171220381012481912812552552551": []
+        }
       },
       "attrs": [],
       "properties": {
         "id": 134,
-        "order": 683,
+        "order": 1303,
         "ligatures": "",
         "prevSize": 32,
         "code": 59706,
@@ -3665,12 +4070,15 @@
           "disponibilita"
         ],
         "defaultCode": 59707,
-        "grid": 0
+        "grid": 0,
+        "colorPermutations": {
+          "2172172171220381012481912812552552551": []
+        }
       },
       "attrs": [],
       "properties": {
         "id": 135,
-        "order": 684,
+        "order": 1304,
         "ligatures": "",
         "prevSize": 32,
         "code": 59707,
@@ -3693,12 +4101,15 @@
           "revert-arrow"
         ],
         "defaultCode": 59708,
-        "grid": 0
+        "grid": 0,
+        "colorPermutations": {
+          "2172172171220381012481912812552552551": []
+        }
       },
       "attrs": [],
       "properties": {
         "id": 136,
-        "order": 685,
+        "order": 1305,
         "ligatures": "",
         "prevSize": 32,
         "code": 59708,
@@ -3721,12 +4132,15 @@
           "gift-five"
         ],
         "defaultCode": 59709,
-        "grid": 0
+        "grid": 0,
+        "colorPermutations": {
+          "2172172171220381012481912812552552551": []
+        }
       },
       "attrs": [],
       "properties": {
         "id": 137,
-        "order": 686,
+        "order": 1306,
         "ligatures": "",
         "prevSize": 32,
         "code": 59709,
@@ -3749,12 +4163,15 @@
           "send-email"
         ],
         "defaultCode": 59710,
-        "grid": 0
+        "grid": 0,
+        "colorPermutations": {
+          "2172172171220381012481912812552552551": []
+        }
       },
       "attrs": [],
       "properties": {
         "id": 138,
-        "order": 687,
+        "order": 1307,
         "ligatures": "",
         "prevSize": 32,
         "code": 59710,
@@ -3776,12 +4193,15 @@
           "design-lab"
         ],
         "defaultCode": 59711,
-        "grid": 0
+        "grid": 0,
+        "colorPermutations": {
+          "2172172171220381012481912812552552551": []
+        }
       },
       "attrs": [],
       "properties": {
         "id": 139,
-        "order": 688,
+        "order": 1308,
         "ligatures": "",
         "prevSize": 32,
         "code": 59711,
@@ -3803,12 +4223,15 @@
           "Icona_X"
         ],
         "defaultCode": 59712,
-        "grid": 0
+        "grid": 0,
+        "colorPermutations": {
+          "2172172171220381012481912812552552551": []
+        }
       },
       "attrs": [],
       "properties": {
         "id": 140,
-        "order": 689,
+        "order": 1309,
         "ligatures": "",
         "prevSize": 32,
         "code": 59712,
@@ -3830,12 +4253,15 @@
           "social-tw"
         ],
         "defaultCode": 59713,
-        "grid": 0
+        "grid": 0,
+        "colorPermutations": {
+          "2172172171220381012481912812552552551": []
+        }
       },
       "attrs": [],
       "properties": {
         "id": 141,
-        "order": 690,
+        "order": 1310,
         "ligatures": "",
         "prevSize": 32,
         "code": 59713,
@@ -3857,12 +4283,15 @@
           "alert"
         ],
         "defaultCode": 59714,
-        "grid": 0
+        "grid": 0,
+        "colorPermutations": {
+          "2172172171220381012481912812552552551": []
+        }
       },
       "attrs": [],
       "properties": {
         "id": 142,
-        "order": 691,
+        "order": 1311,
         "ligatures": "",
         "prevSize": 32,
         "code": 59714,
@@ -3884,12 +4313,15 @@
           "community"
         ],
         "defaultCode": 59715,
-        "grid": 0
+        "grid": 0,
+        "colorPermutations": {
+          "2172172171220381012481912812552552551": []
+        }
       },
       "attrs": [],
       "properties": {
         "id": 143,
-        "order": 692,
+        "order": 1312,
         "ligatures": "",
         "prevSize": 32,
         "code": 59715,
@@ -3911,12 +4343,15 @@
           "aiuto"
         ],
         "defaultCode": 59716,
-        "grid": 0
+        "grid": 0,
+        "colorPermutations": {
+          "2172172171220381012481912812552552551": []
+        }
       },
       "attrs": [],
       "properties": {
         "id": 144,
-        "order": 693,
+        "order": 1313,
         "ligatures": "",
         "prevSize": 32,
         "code": 59716,
@@ -3939,12 +4374,15 @@
           "idee-progetti-mese"
         ],
         "defaultCode": 59717,
-        "grid": 0
+        "grid": 0,
+        "colorPermutations": {
+          "2172172171220381012481912812552552551": []
+        }
       },
       "attrs": [],
       "properties": {
         "id": 145,
-        "order": 694,
+        "order": 1314,
         "ligatures": "",
         "prevSize": 32,
         "code": 59717,
@@ -3966,12 +4404,15 @@
           "video-corsi"
         ],
         "defaultCode": 59718,
-        "grid": 0
+        "grid": 0,
+        "colorPermutations": {
+          "2172172171220381012481912812552552551": []
+        }
       },
       "attrs": [],
       "properties": {
         "id": 146,
-        "order": 695,
+        "order": 1315,
         "ligatures": "",
         "prevSize": 32,
         "code": 59718,
@@ -3993,12 +4434,15 @@
           "corsi"
         ],
         "defaultCode": 59719,
-        "grid": 0
+        "grid": 0,
+        "colorPermutations": {
+          "2172172171220381012481912812552552551": []
+        }
       },
       "attrs": [],
       "properties": {
         "id": 147,
-        "order": 696,
+        "order": 1316,
         "ligatures": "",
         "prevSize": 32,
         "code": 59719,
@@ -4021,12 +4465,15 @@
           "idee-progetti"
         ],
         "defaultCode": 59720,
-        "grid": 0
+        "grid": 0,
+        "colorPermutations": {
+          "2172172171220381012481912812552552551": []
+        }
       },
       "attrs": [],
       "properties": {
         "id": 148,
-        "order": 697,
+        "order": 1317,
         "ligatures": "",
         "prevSize": 32,
         "code": 59720,
@@ -4048,12 +4495,15 @@
           "social-fb"
         ],
         "defaultCode": 59721,
-        "grid": 0
+        "grid": 0,
+        "colorPermutations": {
+          "2172172171220381012481912812552552551": []
+        }
       },
       "attrs": [],
       "properties": {
         "id": 149,
-        "order": 698,
+        "order": 1318,
         "ligatures": "",
         "prevSize": 32,
         "code": 59721,
@@ -4075,12 +4525,15 @@
           "natale"
         ],
         "defaultCode": 59722,
-        "grid": 0
+        "grid": 0,
+        "colorPermutations": {
+          "2172172171220381012481912812552552551": []
+        }
       },
       "attrs": [],
       "properties": {
         "id": 150,
-        "order": 699,
+        "order": 1319,
         "prevSize": 32,
         "code": 59722,
         "name": "natale"
@@ -4101,12 +4554,15 @@
           "decorare-casa-natale"
         ],
         "defaultCode": 59723,
-        "grid": 0
+        "grid": 0,
+        "colorPermutations": {
+          "2172172171220381012481912812552552551": []
+        }
       },
       "attrs": [],
       "properties": {
         "id": 151,
-        "order": 700,
+        "order": 1320,
         "ligatures": "",
         "prevSize": 32,
         "code": 59723,
@@ -4128,12 +4584,15 @@
           "social-wa"
         ],
         "defaultCode": 59724,
-        "grid": 0
+        "grid": 0,
+        "colorPermutations": {
+          "2172172171220381012481912812552552551": []
+        }
       },
       "attrs": [],
       "properties": {
         "id": 152,
-        "order": 701,
+        "order": 1321,
         "ligatures": "",
         "prevSize": 32,
         "code": 59724,
@@ -4155,12 +4614,15 @@
           "social-g"
         ],
         "defaultCode": 59725,
-        "grid": 0
+        "grid": 0,
+        "colorPermutations": {
+          "2172172171220381012481912812552552551": []
+        }
       },
       "attrs": [],
       "properties": {
         "id": 153,
-        "order": 702,
+        "order": 1322,
         "ligatures": "",
         "prevSize": 32,
         "code": 59725,
@@ -4183,12 +4645,15 @@
           "ee-A\\+\\+\\+"
         ],
         "defaultCode": 59726,
-        "grid": 0
+        "grid": 0,
+        "colorPermutations": {
+          "2172172171220381012481912812552552551": []
+        }
       },
       "attrs": [],
       "properties": {
         "id": 154,
-        "order": 703,
+        "order": 1323,
         "ligatures": "",
         "prevSize": 32,
         "code": 59726,
@@ -4211,12 +4676,15 @@
           "ee-A\\+\\+"
         ],
         "defaultCode": 59727,
-        "grid": 0
+        "grid": 0,
+        "colorPermutations": {
+          "2172172171220381012481912812552552551": []
+        }
       },
       "attrs": [],
       "properties": {
         "id": 155,
-        "order": 704,
+        "order": 1324,
         "ligatures": "",
         "prevSize": 32,
         "code": 59727,
@@ -4239,12 +4707,15 @@
           "ee-A\\+"
         ],
         "defaultCode": 59728,
-        "grid": 0
+        "grid": 0,
+        "colorPermutations": {
+          "2172172171220381012481912812552552551": []
+        }
       },
       "attrs": [],
       "properties": {
         "id": 156,
-        "order": 705,
+        "order": 1325,
         "ligatures": "",
         "prevSize": 32,
         "code": 59728,
@@ -4267,12 +4738,15 @@
           "ee-A"
         ],
         "defaultCode": 59729,
-        "grid": 0
+        "grid": 0,
+        "colorPermutations": {
+          "2172172171220381012481912812552552551": []
+        }
       },
       "attrs": [],
       "properties": {
         "id": 157,
-        "order": 706,
+        "order": 1326,
         "ligatures": "",
         "prevSize": 32,
         "code": 59729,
@@ -4295,12 +4769,15 @@
           "ee-B"
         ],
         "defaultCode": 59730,
-        "grid": 0
+        "grid": 0,
+        "colorPermutations": {
+          "2172172171220381012481912812552552551": []
+        }
       },
       "attrs": [],
       "properties": {
         "id": 158,
-        "order": 707,
+        "order": 1327,
         "ligatures": "",
         "prevSize": 32,
         "code": 59730,
@@ -4323,12 +4800,15 @@
           "ee-C"
         ],
         "defaultCode": 59731,
-        "grid": 0
+        "grid": 0,
+        "colorPermutations": {
+          "2172172171220381012481912812552552551": []
+        }
       },
       "attrs": [],
       "properties": {
         "id": 159,
-        "order": 708,
+        "order": 1328,
         "ligatures": "",
         "prevSize": 32,
         "code": 59731,
@@ -4351,12 +4831,15 @@
           "ee-D"
         ],
         "defaultCode": 59732,
-        "grid": 0
+        "grid": 0,
+        "colorPermutations": {
+          "2172172171220381012481912812552552551": []
+        }
       },
       "attrs": [],
       "properties": {
         "id": 160,
-        "order": 709,
+        "order": 1329,
         "ligatures": "",
         "prevSize": 32,
         "code": 59732,
@@ -4379,12 +4862,15 @@
           "squadra"
         ],
         "defaultCode": 59733,
-        "grid": 0
+        "grid": 0,
+        "colorPermutations": {
+          "2172172171220381012481912812552552551": []
+        }
       },
       "attrs": [],
       "properties": {
         "id": 161,
-        "order": 710,
+        "order": 1330,
         "ligatures": "",
         "prevSize": 32,
         "code": 59733,
@@ -4406,12 +4892,15 @@
           "pagamento"
         ],
         "defaultCode": 59734,
-        "grid": 0
+        "grid": 0,
+        "colorPermutations": {
+          "2172172171220381012481912812552552551": []
+        }
       },
       "attrs": [],
       "properties": {
         "id": 162,
-        "order": 711,
+        "order": 1331,
         "ligatures": "",
         "prevSize": 32,
         "code": 59734,
@@ -4434,12 +4923,15 @@
           "scheda_montaggio"
         ],
         "defaultCode": 59735,
-        "grid": 0
+        "grid": 0,
+        "colorPermutations": {
+          "2172172171220381012481912812552552551": []
+        }
       },
       "attrs": [],
       "properties": {
         "id": 163,
-        "order": 712,
+        "order": 1332,
         "ligatures": "",
         "prevSize": 32,
         "code": 59735,
@@ -4462,12 +4954,15 @@
           "scheda"
         ],
         "defaultCode": 59736,
-        "grid": 0
+        "grid": 0,
+        "colorPermutations": {
+          "2172172171220381012481912812552552551": []
+        }
       },
       "attrs": [],
       "properties": {
         "id": 164,
-        "order": 713,
+        "order": 1333,
         "ligatures": "",
         "prevSize": 32,
         "code": 59736,
@@ -4490,12 +4985,15 @@
           "gift-20"
         ],
         "defaultCode": 59737,
-        "grid": 0
+        "grid": 0,
+        "colorPermutations": {
+          "2172172171220381012481912812552552551": []
+        }
       },
       "attrs": [],
       "properties": {
         "id": 165,
-        "order": 714,
+        "order": 1334,
         "ligatures": "",
         "prevSize": 32,
         "code": 59737,
@@ -4518,12 +5016,15 @@
           "vendite-flash"
         ],
         "defaultCode": 59738,
-        "grid": 0
+        "grid": 0,
+        "colorPermutations": {
+          "2172172171220381012481912812552552551": []
+        }
       },
       "attrs": [],
       "properties": {
         "id": 166,
-        "order": 715,
+        "order": 1335,
         "ligatures": "",
         "prevSize": 32,
         "code": 59738,
@@ -4545,12 +5046,15 @@
           "offerte-mese"
         ],
         "defaultCode": 59739,
-        "grid": 0
+        "grid": 0,
+        "colorPermutations": {
+          "2172172171220381012481912812552552551": []
+        }
       },
       "attrs": [],
       "properties": {
         "id": 167,
-        "order": 716,
+        "order": 1336,
         "ligatures": "",
         "prevSize": 32,
         "code": 59739,
@@ -4573,12 +5077,15 @@
           "promo-web"
         ],
         "defaultCode": 59740,
-        "grid": 0
+        "grid": 0,
+        "colorPermutations": {
+          "2172172171220381012481912812552552551": []
+        }
       },
       "attrs": [],
       "properties": {
         "id": 168,
-        "order": 717,
+        "order": 1337,
         "ligatures": "",
         "prevSize": 32,
         "code": 59740,
@@ -4600,12 +5107,15 @@
           "black-friday"
         ],
         "defaultCode": 59741,
-        "grid": 0
+        "grid": 0,
+        "colorPermutations": {
+          "2172172171220381012481912812552552551": []
+        }
       },
       "attrs": [],
       "properties": {
         "id": 169,
-        "order": 718,
+        "order": 1338,
         "ligatures": "",
         "prevSize": 32,
         "code": 59741,
@@ -4628,12 +5138,15 @@
           "proposte"
         ],
         "defaultCode": 59742,
-        "grid": 0
+        "grid": 0,
+        "colorPermutations": {
+          "2172172171220381012481912812552552551": []
+        }
       },
       "attrs": [],
       "properties": {
         "id": 170,
-        "order": 719,
+        "order": 1339,
         "ligatures": "",
         "prevSize": 32,
         "code": 59742,
@@ -4655,12 +5168,15 @@
           "speciale-consegna"
         ],
         "defaultCode": 59743,
-        "grid": 0
+        "grid": 0,
+        "colorPermutations": {
+          "2172172171220381012481912812552552551": []
+        }
       },
       "attrs": [],
       "properties": {
         "id": 171,
-        "order": 720,
+        "order": 1340,
         "ligatures": "",
         "prevSize": 32,
         "code": 59743,
@@ -4682,12 +5198,15 @@
           "megafono"
         ],
         "defaultCode": 59744,
-        "grid": 0
+        "grid": 0,
+        "colorPermutations": {
+          "2172172171220381012481912812552552551": []
+        }
       },
       "attrs": [],
       "properties": {
         "id": 172,
-        "order": 721,
+        "order": 1341,
         "ligatures": "",
         "prevSize": 32,
         "code": 59744,
@@ -4709,12 +5228,15 @@
           "PayPal"
         ],
         "defaultCode": 59745,
-        "grid": 0
+        "grid": 0,
+        "colorPermutations": {
+          "2172172171220381012481912812552552551": []
+        }
       },
       "attrs": [],
       "properties": {
         "id": 173,
-        "order": 722,
+        "order": 1342,
         "ligatures": "",
         "prevSize": 32,
         "code": 59745,
@@ -4737,12 +5259,15 @@
           "ee-2-A"
         ],
         "defaultCode": 59746,
-        "grid": 0
+        "grid": 0,
+        "colorPermutations": {
+          "2172172171220381012481912812552552551": []
+        }
       },
       "attrs": [],
       "properties": {
         "id": 174,
-        "order": 723,
+        "order": 1343,
         "ligatures": "",
         "prevSize": 32,
         "code": 59746,
@@ -4765,12 +5290,15 @@
           "ee-2-A\\+"
         ],
         "defaultCode": 59747,
-        "grid": 0
+        "grid": 0,
+        "colorPermutations": {
+          "2172172171220381012481912812552552551": []
+        }
       },
       "attrs": [],
       "properties": {
         "id": 175,
-        "order": 724,
+        "order": 1344,
         "ligatures": "",
         "prevSize": 32,
         "code": 59747,
@@ -4793,12 +5321,15 @@
           "ee-2-A\\+\\+"
         ],
         "defaultCode": 59748,
-        "grid": 0
+        "grid": 0,
+        "colorPermutations": {
+          "2172172171220381012481912812552552551": []
+        }
       },
       "attrs": [],
       "properties": {
         "id": 176,
-        "order": 725,
+        "order": 1345,
         "ligatures": "",
         "prevSize": 32,
         "code": 59748,
@@ -4821,12 +5352,15 @@
           "ee-2-A\\+\\+\\+"
         ],
         "defaultCode": 59749,
-        "grid": 0
+        "grid": 0,
+        "colorPermutations": {
+          "2172172171220381012481912812552552551": []
+        }
       },
       "attrs": [],
       "properties": {
         "id": 177,
-        "order": 726,
+        "order": 1346,
         "ligatures": "",
         "prevSize": 32,
         "code": 59749,
@@ -4849,12 +5383,15 @@
           "ee-2-B"
         ],
         "defaultCode": 59750,
-        "grid": 0
+        "grid": 0,
+        "colorPermutations": {
+          "2172172171220381012481912812552552551": []
+        }
       },
       "attrs": [],
       "properties": {
         "id": 178,
-        "order": 727,
+        "order": 1347,
         "ligatures": "",
         "prevSize": 32,
         "code": 59750,
@@ -4877,12 +5414,15 @@
           "ee-2-C"
         ],
         "defaultCode": 59751,
-        "grid": 0
+        "grid": 0,
+        "colorPermutations": {
+          "2172172171220381012481912812552552551": []
+        }
       },
       "attrs": [],
       "properties": {
         "id": 179,
-        "order": 728,
+        "order": 1348,
         "ligatures": "",
         "prevSize": 32,
         "code": 59751,
@@ -4905,12 +5445,15 @@
           "ee-2-D"
         ],
         "defaultCode": 59752,
-        "grid": 0
+        "grid": 0,
+        "colorPermutations": {
+          "2172172171220381012481912812552552551": []
+        }
       },
       "attrs": [],
       "properties": {
         "id": 180,
-        "order": 729,
+        "order": 1349,
         "ligatures": "",
         "prevSize": 32,
         "code": 59752,
@@ -4933,12 +5476,15 @@
           "new-iconafiltro"
         ],
         "defaultCode": 59753,
-        "grid": 0
+        "grid": 0,
+        "colorPermutations": {
+          "2172172171220381012481912812552552551": []
+        }
       },
       "attrs": [],
       "properties": {
         "id": 181,
-        "order": 730,
+        "order": 1350,
         "ligatures": "",
         "prevSize": 32,
         "code": 59753,
@@ -4961,12 +5507,15 @@
           "new"
         ],
         "defaultCode": 59754,
-        "grid": 0
+        "grid": 0,
+        "colorPermutations": {
+          "2172172171220381012481912812552552551": []
+        }
       },
       "attrs": [],
       "properties": {
         "id": 182,
-        "order": 731,
+        "order": 1351,
         "ligatures": "",
         "prevSize": 32,
         "code": 59754,
@@ -4988,12 +5537,15 @@
           "catalogue"
         ],
         "defaultCode": 59755,
-        "grid": 0
+        "grid": 0,
+        "colorPermutations": {
+          "2172172171220381012481912812552552551": []
+        }
       },
       "attrs": [],
       "properties": {
         "id": 183,
-        "order": 732,
+        "order": 1352,
         "ligatures": "",
         "prevSize": 32,
         "code": 59755,
@@ -5015,12 +5567,15 @@
           "pellet"
         ],
         "defaultCode": 59756,
-        "grid": 0
+        "grid": 0,
+        "colorPermutations": {
+          "2172172171220381012481912812552552551": []
+        }
       },
       "attrs": [],
       "properties": {
         "id": 184,
-        "order": 733,
+        "order": 1353,
         "ligatures": "",
         "prevSize": 32,
         "code": 59756,
@@ -5042,12 +5597,15 @@
           "cards"
         ],
         "defaultCode": 59757,
-        "grid": 0
+        "grid": 0,
+        "colorPermutations": {
+          "2172172171220381012481912812552552551": []
+        }
       },
       "attrs": [],
       "properties": {
         "id": 185,
-        "order": 734,
+        "order": 1354,
         "ligatures": "",
         "prevSize": 32,
         "code": 59757,
@@ -5069,12 +5627,15 @@
           "sconti-idea"
         ],
         "defaultCode": 59758,
-        "grid": 0
+        "grid": 0,
+        "colorPermutations": {
+          "2172172171220381012481912812552552551": []
+        }
       },
       "attrs": [],
       "properties": {
         "id": 186,
-        "order": 735,
+        "order": 1355,
         "ligatures": "",
         "prevSize": 32,
         "code": 59758,
@@ -5096,12 +5657,15 @@
           "fatturazione"
         ],
         "defaultCode": 59759,
-        "grid": 0
+        "grid": 0,
+        "colorPermutations": {
+          "2172172171220381012481912812552552551": []
+        }
       },
       "attrs": [],
       "properties": {
         "id": 187,
-        "order": 736,
+        "order": 1356,
         "ligatures": "",
         "prevSize": 32,
         "code": 59759,
@@ -5123,12 +5687,15 @@
           "calendario"
         ],
         "defaultCode": 59760,
-        "grid": 0
+        "grid": 0,
+        "colorPermutations": {
+          "2172172171220381012481912812552552551": []
+        }
       },
       "attrs": [],
       "properties": {
         "id": 188,
-        "order": 737,
+        "order": 1357,
         "ligatures": "",
         "prevSize": 32,
         "code": 59760,
@@ -5150,12 +5717,15 @@
           "modifica"
         ],
         "defaultCode": 59761,
-        "grid": 0
+        "grid": 0,
+        "colorPermutations": {
+          "2172172171220381012481912812552552551": []
+        }
       },
       "attrs": [],
       "properties": {
         "id": 189,
-        "order": 738,
+        "order": 1358,
         "ligatures": "",
         "prevSize": 32,
         "code": 59761,
@@ -5177,12 +5747,15 @@
           "generale"
         ],
         "defaultCode": 59762,
-        "grid": 0
+        "grid": 0,
+        "colorPermutations": {
+          "2172172171220381012481912812552552551": []
+        }
       },
       "attrs": [],
       "properties": {
         "id": 190,
-        "order": 739,
+        "order": 1359,
         "ligatures": "",
         "prevSize": 32,
         "code": 59762,
@@ -5204,12 +5777,15 @@
           "uniE973"
         ],
         "defaultCode": 59763,
-        "grid": 0
+        "grid": 0,
+        "colorPermutations": {
+          "2172172171220381012481912812552552551": []
+        }
       },
       "attrs": [],
       "properties": {
         "id": 191,
-        "order": 740,
+        "order": 1360,
         "ligatures": "",
         "prevSize": 32,
         "code": 59763,
@@ -5231,12 +5807,15 @@
           "uniE974"
         ],
         "defaultCode": 59764,
-        "grid": 0
+        "grid": 0,
+        "colorPermutations": {
+          "2172172171220381012481912812552552551": []
+        }
       },
       "attrs": [],
       "properties": {
         "id": 192,
-        "order": 741,
+        "order": 1361,
         "ligatures": "",
         "prevSize": 32,
         "code": 59764,
@@ -5258,12 +5837,15 @@
           "posa-prezzo-fisso_new"
         ],
         "defaultCode": 59765,
-        "grid": 0
+        "grid": 0,
+        "colorPermutations": {
+          "2172172171220381012481912812552552551": []
+        }
       },
       "attrs": [],
       "properties": {
         "id": 193,
-        "order": 742,
+        "order": 1362,
         "ligatures": "",
         "prevSize": 32,
         "code": 59765,
@@ -5286,12 +5868,15 @@
           "ispirati_impara"
         ],
         "defaultCode": 59766,
-        "grid": 0
+        "grid": 0,
+        "colorPermutations": {
+          "2172172171220381012481912812552552551": []
+        }
       },
       "attrs": [],
       "properties": {
         "id": 194,
-        "order": 743,
+        "order": 1363,
         "ligatures": "",
         "prevSize": 32,
         "code": 59766,
@@ -5314,12 +5899,15 @@
           "offerte_proposte"
         ],
         "defaultCode": 59767,
-        "grid": 0
+        "grid": 0,
+        "colorPermutations": {
+          "2172172171220381012481912812552552551": []
+        }
       },
       "attrs": [],
       "properties": {
         "id": 195,
-        "order": 744,
+        "order": 1364,
         "ligatures": "",
         "prevSize": 32,
         "code": 59767,
@@ -5342,12 +5930,15 @@
           "arrow-big-left"
         ],
         "defaultCode": 59768,
-        "grid": 0
+        "grid": 0,
+        "colorPermutations": {
+          "2172172171220381012481912812552552551": []
+        }
       },
       "attrs": [],
       "properties": {
         "id": 196,
-        "order": 745,
+        "order": 1365,
         "ligatures": "",
         "prevSize": 32,
         "code": 59768,
@@ -5370,12 +5961,15 @@
           "plus"
         ],
         "defaultCode": 61533,
-        "grid": 0
+        "grid": 0,
+        "colorPermutations": {
+          "2172172171220381012481912812552552551": []
+        }
       },
       "attrs": [],
       "properties": {
         "id": 197,
-        "order": 746,
+        "order": 1366,
         "ligatures": "",
         "prevSize": 32,
         "code": 61533,
@@ -5398,13 +5992,18 @@
         "tags": [
           "stili-icon"
         ],
-        "grid": 0
+        "grid": 0,
+        "colorPermutations": {
+          "2172172171220381012481912812552552551": [
+            {}
+          ]
+        }
       },
       "attrs": [
         {}
       ],
       "properties": {
-        "order": 747,
+        "order": 1367,
         "id": 198,
         "name": "stili-icon",
         "prevSize": 32,
@@ -5417,18 +6016,55 @@
     {
       "icon": {
         "paths": [
-          "M512 0c-282.77 0-512 229.23-512 512s229.23 512 512 512v0c282.77 0 512-229.23 512-512s-229.23-512-512-512v0z",
-          "M444.416 617.131c13.739 14.848 33.024 22.272 57.856 22.272 24.917 0 40.875-7.424 47.957-22.272v-25.941c0-74.411 116.736-87.381 116.736-174.080 0-87.381-76.459-132.437-155.648-132.437-92.16 0-148.821 43.008-171.349 115.371-7.339 28.245 2.56 48.811 29.696 61.525 27.051 12.8 51.029 1.792 72.021-32.853 11.605-31.403 33.451-51.2 64.853-51.2 29.355 0 52.565 17.749 52.565 46.421 0 58.709-114.688 53.931-114.688 165.205v27.989zM496.981 772.096c29.355 0 55.979-18.432 55.979-54.613 0-36.864-26.624-55.979-55.979-55.979-28.672 0-55.296 19.115-55.296 55.979 0 36.181 26.624 54.613 55.296 54.613z"
+          "M48.128 768h1536v-512h-1536v512zM3632.128 768h1536v-512h-1536v512zM7216.128 768h1536v-512h-1536v512zM10800.128 768h1536v-512h-1536v512zM14384.128 768h1536v-512h-1536v512zM17968.128 768h1536v-512h-1536v512zM21552.128 768h1536v-512h-1536v512zM25136.128 768h1536v-512h-1536v512zM28720.128 768h1536v-512h-1536v512zM32304.128 768h1536v-512h-1536v512zM35888.128 768h1536v-512h-1536v512zM39472.128 768h1536v-512h-1536v512zM43056.128 768h1536v-512h-1536v512zM46640.128 768h1536v-512h-1536v512zM50224.128 768h1536v-512h-1536v512zM53808.128 768h1536v-512h-1536v512zM57392.128 768h1536v-512h-1536v512zM60976.128 768h1536v-512h-1536v512zM64560.128 768h1536v-512h-1536v512zM68144.128 768h1536v-512h-1536v512zM71728.128 768h1536v-512h-1536v512zM75312.128 768h1536v-512h-1536v512zM78896.128 768h1536v-512h-1536v512zM82480.128 768h1536v-512h-1536v512zM86064.128 768h1536v-512h-1536v512zM89648.128 768h1536v-512h-1536v512zM93232.128 768h1536v-512h-1536v512zM96816.128 768h1536v-512h-1536v512zM100400.128 768h1536v-512h-1536v512zM103984.128 768h1536v-512h-1536v512zM107568.128 768h1536v-512h-1536v512zM111152.128 768h1536v-512h-1536v512zM114736.128 768h1536v-512h-1536v512zM118320.128 768h1536v-512h-1536v512zM121904.128 768h1536v-512h-1536v512zM125488.128 768h1536v-512h-1536v512zM129072.128 768h1536v-512h-1536v512zM132656.128 768h1536v-512h-1536v512zM136240.128 768h1536v-512h-1536v512z"
+        ],
+        "attrs": [
+          {
+            "fill": "rgb(217, 217, 217)"
+          }
+        ],
+        "width": 138240,
+        "isMulticolor": false,
+        "isMulticolor2": false,
+        "grid": 0,
+        "tags": [
+          "dashed-separator"
+        ],
+        "colorPermutations": {
+          "2172172171220381012481912812552552551": [
+            {
+              "f": 2
+            }
+          ]
+        }
+      },
+      "attrs": [
+        {
+          "fill": "rgb(217, 217, 217)"
+        }
+      ],
+      "properties": {
+        "order": 1368,
+        "id": 199,
+        "name": "dashed-separator",
+        "prevSize": 32,
+        "code": 59770
+      },
+      "setIdx": 0,
+      "setId": 0,
+      "iconIdx": 199
+    },
+    {
+      "icon": {
+        "paths": [
+          "M511.98 0.020c282.778 0 512 229.222 512 512 0 282.726-229.222 512-512 512-282.726 0-512-229.274-512-512 0-282.778 229.274-512 512-512zM444.416 617.131c13.735 14.862 33.030 22.293 57.884 22.293s40.831-7.431 47.929-22.293v-25.941c0-74.411 116.736-87.381 116.736-174.080 0-87.381-76.459-132.437-155.648-132.437-92.16 0-148.821 43.008-171.349 115.371-7.314 28.275 2.572 48.786 29.659 61.532s51.106 1.793 72.059-32.86c11.605-31.403 33.451-51.2 64.853-51.2 29.355 0 52.565 17.749 52.565 46.421 0 58.709-114.688 53.931-114.688 165.205v27.989zM496.981 772.096c29.355 0 55.979-18.432 55.979-54.613 0-36.864-26.624-55.979-55.979-55.979-28.672 0-55.296 19.115-55.296 55.979 0 36.181 26.624 54.613 55.296 54.613z"
         ],
         "attrs": [
           {
             "fill": "rgb(248, 191, 28)"
-          },
-          {
-            "fill": "rgb(255, 255, 255)"
           }
         ],
-        "isMulticolor": true,
+        "isMulticolor": false,
         "isMulticolor2": false,
         "grid": 0,
         "tags": [
@@ -5438,9 +6074,6 @@
           "2172172171220381012481912812552552551": [
             {
               "f": 1
-            },
-            {
-              "f": 3
             }
           ]
         }
@@ -5448,41 +6081,30 @@
       "attrs": [
         {
           "fill": "rgb(248, 191, 28)"
-        },
-        {
-          "fill": "rgb(255, 255, 255)"
         }
       ],
       "properties": {
-        "order": 748,
+        "order": 1369,
         "id": 200,
         "name": "check-question",
         "prevSize": 32,
-        "code": 59770,
-        "codes": [
-          59770,
-          59771
-        ]
+        "code": 59771
       },
       "setIdx": 0,
       "setId": 0,
-      "iconIdx": 199
+      "iconIdx": 200
     },
     {
       "icon": {
         "paths": [
-          "M512 0c-282.77 0-512 229.23-512 512s229.23 512 512 512v0c282.77 0 512-229.23 512-512s-229.23-512-512-512v0z",
-          "M512.171 256c41.563 0.006 75.254 33.7 75.254 75.264 0 3.309-0.214 6.568-0.628 9.764l0.040-0.377-26.88 214.357c0.217 1.721 0.341 3.712 0.341 5.732 0 26.675-21.624 48.299-48.299 48.299s-48.299-21.624-48.299-48.299c0-2.020 0.124-4.011 0.365-5.966l-0.024 0.234-26.709-214.357c-0.367-2.793-0.576-6.023-0.576-9.301 0-41.614 33.735-75.349 75.349-75.349 0.023 0 0.045 0 0.068 0l-0.004-0zM508.587 768c30.037 0 57.344-19.371 57.344-57.344 0-38.741-27.307-58.88-57.344-58.88-29.355 0-56.576 20.139-56.576 58.88 0 37.973 27.307 57.344 56.576 57.344z"
+          "M512 0c282.77 0 512 229.23 512 512s-229.23 512-512 512c-282.77 0-512-229.23-512-512s229.23-512 512-512zM512.171 256c-21.616-0.018-42.199 9.247-56.516 25.442s-20.99 37.758-18.321 59.209l26.709 214.357c-2.211 18.5 6.416 36.622 22.169 46.57s35.824 9.948 51.577 0c15.753-9.948 24.38-28.070 22.169-46.57l26.88-214.357c2.693-21.427-3.947-42.978-18.232-59.174s-34.839-25.474-56.434-25.477zM508.587 768c30.037 0 57.344-19.371 57.344-57.344 0-38.741-27.307-58.88-57.344-58.88-29.355 0-56.576 20.139-56.576 58.88 0 37.973 27.307 57.344 56.576 57.344z"
         ],
         "attrs": [
           {
             "fill": "rgb(248, 191, 28)"
-          },
-          {
-            "fill": "rgb(255, 255, 255)"
           }
         ],
-        "isMulticolor": true,
+        "isMulticolor": false,
         "isMulticolor2": false,
         "grid": 0,
         "tags": [
@@ -5492,9 +6114,6 @@
           "2172172171220381012481912812552552551": [
             {
               "f": 1
-            },
-            {
-              "f": 3
             }
           ]
         }
@@ -5502,45 +6121,30 @@
       "attrs": [
         {
           "fill": "rgb(248, 191, 28)"
-        },
-        {
-          "fill": "rgb(255, 255, 255)"
         }
       ],
       "properties": {
-        "order": 749,
+        "order": 1370,
         "id": 202,
         "name": "check-attention",
         "prevSize": 32,
-        "code": 59772,
-        "codes": [
-          59772,
-          59773
-        ]
+        "code": 59772
       },
       "setIdx": 0,
       "setId": 0,
-      "iconIdx": 200
+      "iconIdx": 201
     },
     {
       "icon": {
         "paths": [
-          "M0 512c0 282.77 229.23 512 512 512s512-229.23 512-512v0c0-282.77-229.23-512-512-512s-512 229.23-512 512v0z",
-          "M662.849 361.151c16.662 16.662 16.662 43.677 0 60.34l-241.359 241.359c-16.662 16.662-43.677 16.662-60.34 0s-16.662-43.677 0-60.34l241.359-241.359c16.662-16.662 43.677-16.662 60.34 0z",
-          "M361.151 361.151c16.662-16.662 43.677-16.662 60.34 0l241.359 241.359c16.662 16.662 16.662 43.677 0 60.34s-43.677 16.662-60.34 0l-241.359-241.359c-16.662-16.662-16.662-43.677 0-60.34z"
+          "M572.34 512l90.649-90.649c17.067-17.067 16.524-43.539-0.139-60.201-16.175-16.175-43.615-16.725-60.201-0.139l-90.649 90.649-90.649-90.649c-17.067-17.067-43.539-16.524-60.201 0.139-16.175 16.175-16.725 43.615-0.139 60.201l90.649 90.649-90.649 90.649c-17.067 17.067-16.524 43.539 0.139 60.201 16.175 16.175 43.615 16.725 60.201 0.139l90.649-90.649 90.649 90.649c17.067 17.067 43.539 16.524 60.201-0.139 16.175-16.175 16.725-43.615 0.139-60.201l-90.649-90.649zM0 512v0c0-282.77 229.23-512 512-512s512 229.23 512 512c0 282.77-229.23 512-512 512s-512-229.23-512-512z"
         ],
         "attrs": [
           {
             "fill": "rgb(220, 38, 10)"
-          },
-          {
-            "fill": "rgb(255, 255, 255)"
-          },
-          {
-            "fill": "rgb(255, 255, 255)"
           }
         ],
-        "isMulticolor": true,
+        "isMulticolor": false,
         "isMulticolor2": false,
         "grid": 0,
         "tags": [
@@ -5550,12 +6154,6 @@
           "2172172171220381012481912812552552551": [
             {
               "f": 0
-            },
-            {
-              "f": 3
-            },
-            {
-              "f": 3
             }
           ]
         }
@@ -5563,29 +6161,18 @@
       "attrs": [
         {
           "fill": "rgb(220, 38, 10)"
-        },
-        {
-          "fill": "rgb(255, 255, 255)"
-        },
-        {
-          "fill": "rgb(255, 255, 255)"
         }
       ],
       "properties": {
-        "order": 750,
+        "order": 1371,
         "id": 201,
         "name": "check-no",
         "prevSize": 32,
-        "code": 59774,
-        "codes": [
-          59774,
-          59775,
-          59776
-        ]
+        "code": 59773
       },
       "setIdx": 0,
       "setId": 0,
-      "iconIdx": 201
+      "iconIdx": 202
     }
   ],
   "height": 1024,

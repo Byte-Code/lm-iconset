@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'icomoon';
-  src:  url('fonts/icomoon.eot?w8b53z');
-  src:  url('fonts/icomoon.eot?w8b53z#iefix') format('embedded-opentype'),
-    url('fonts/icomoon.ttf?w8b53z') format('truetype'),
-    url('fonts/icomoon.woff?w8b53z') format('woff'),
-    url('fonts/icomoon.svg?w8b53z#icomoon') format('svg');
+  src:  url('fonts/icomoon.eot?8efbdu');
+  src:  url('fonts/icomoon.eot?8efbdu#iefix') format('embedded-opentype'),
+    url('fonts/icomoon.ttf?8efbdu') format('truetype'),
+    url('fonts/icomoon.woff?8efbdu') format('woff'),
+    url('fonts/icomoon.svg?8efbdu#icomoon') format('svg');
   font-weight: normal;
   font-style: normal;
 }
@@ -622,35 +622,15 @@
 .icon-stili-icon:before {
   content: "\e979";
 }
-.icon-check-question .path1:before {
+.icon-dashed-separator:before {
   content: "\e97a";
-  color: rgb(248, 191, 28);
 }
-.icon-check-question .path2:before {
+.icon-check-question:before {
   content: "\e97b";
-  margin-left: -1em;
-  color: rgb(255, 255, 255);
 }
-.icon-check-attention .path1:before {
+.icon-check-attention:before {
   content: "\e97c";
-  color: rgb(248, 191, 28);
 }
-.icon-check-attention .path2:before {
+.icon-check-no:before {
   content: "\e97d";
-  margin-left: -1em;
-  color: rgb(255, 255, 255);
-}
-.icon-check-no .path1:before {
-  content: "\e97e";
-  color: rgb(220, 38, 10);
-}
-.icon-check-no .path2:before {
-  content: "\e97f";
-  margin-left: -1em;
-  color: rgb(255, 255, 255);
-}
-.icon-check-no .path3:before {
-  content: "\e980";
-  margin-left: -1em;
-  color: rgb(255, 255, 255);
 }
