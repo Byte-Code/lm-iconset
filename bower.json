@@ -1,6 +1,6 @@
 {
   "name": "lm-iconset",
-  "version": "1.8.0",
+  "version": "1.9.0",
   "homepage": "https://github.com/Byte-Code/lm-iconset",
   "description": "",
   "main": ["style.css", "fonts/icomoon.svg", "fonts/icomoon.eot", "fonts/icomoon.ttf", "fonts/icomoon.woff"],

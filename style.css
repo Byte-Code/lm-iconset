@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'icomoon';
-  src:  url('fonts/icomoon.eot?uqfx47');
-  src:  url('fonts/icomoon.eot?uqfx47#iefix') format('embedded-opentype'),
-    url('fonts/icomoon.ttf?uqfx47') format('truetype'),
-    url('fonts/icomoon.woff?uqfx47') format('woff'),
-    url('fonts/icomoon.svg?uqfx47#icomoon') format('svg');
+  src:  url('fonts/icomoon.eot?1hal51');
+  src:  url('fonts/icomoon.eot?1hal51#iefix') format('embedded-opentype'),
+    url('fonts/icomoon.ttf?1hal51') format('truetype'),
+    url('fonts/icomoon.woff?1hal51') format('woff'),
+    url('fonts/icomoon.svg?1hal51#icomoon') format('svg');
   font-weight: normal;
   font-style: normal;
 }
@@ -598,17 +598,11 @@
 .icon-generale:before {
   content: "\e972";
 }
-.icon-check-add:before {
-  content: "\e973";
-}
 .icon-uniE974:before {
   content: "\e974";
 }
 .icon-posa-prezzo-fisso_new:before {
   content: "\e975";
-}
-.icon-plus:before {
-  content: "\f05d";
 }
 .icon-ispirati_impara:before {
   content: "\e976";
@@ -619,12 +613,25 @@
 .icon-arrow-big-left:before {
   content: "\e978";
 }
-.icon-stili:before {
+.icon-plus:before {
+  content: "\f05d";
+}
+.icon-stili-icon:before {
   content: "\e979";
 }
-.icon-arrow-down-big:before {
-  content: "\e97a";
+.icon-check-ok:before {
+  content: "\e973";
+  color: #6c3;
 }
-.icon-arrow-up-big:before {
+.icon-check-no:before {
+  content: "\e97a";
+  color: #dc260a;
+}
+.icon-check-attention:before {
   content: "\e97b";
+  color: #f8bf1c;
+}
+.icon-check-question:before {
+  content: "\e97c";
+  color: #f8bf1c;
 }
