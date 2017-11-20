@@ -9,19 +9,19 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
+        "colorPermutations": {
+          "2172172171220381012481912812552552551": []
+        },
         "tags": [
           "arrow-down"
         ],
         "defaultCode": 58880,
-        "grid": 0,
-        "colorPermutations": {
-          "2172172171220381012481912812552552551": []
-        }
+        "grid": 0
       },
       "attrs": [],
       "properties": {
         "id": 0,
-        "order": 1169,
+        "order": 4,
         "ligatures": "",
         "prevSize": 32,
         "code": 58880,
@@ -39,19 +39,19 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
+        "colorPermutations": {
+          "2172172171220381012481912812552552551": []
+        },
         "tags": [
           "clickcollect"
         ],
         "defaultCode": 58881,
-        "grid": 0,
-        "colorPermutations": {
-          "2172172171220381012481912812552552551": []
-        }
+        "grid": 0
       },
       "attrs": [],
       "properties": {
         "id": 1,
-        "order": 1170,
+        "order": 5,
         "ligatures": "",
         "prevSize": 32,
         "code": 58881,
@@ -69,19 +69,19 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
+        "colorPermutations": {
+          "2172172171220381012481912812552552551": []
+        },
         "tags": [
           "contacts"
         ],
         "defaultCode": 58882,
-        "grid": 0,
-        "colorPermutations": {
-          "2172172171220381012481912812552552551": []
-        }
+        "grid": 0
       },
       "attrs": [],
       "properties": {
         "id": 2,
-        "order": 1171,
+        "order": 6,
         "ligatures": "",
         "prevSize": 32,
         "code": 58882,
@@ -99,19 +99,19 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
+        "colorPermutations": {
+          "2172172171220381012481912812552552551": []
+        },
         "tags": [
           "share"
         ],
         "defaultCode": 58883,
-        "grid": 0,
-        "colorPermutations": {
-          "2172172171220381012481912812552552551": []
-        }
+        "grid": 0
       },
       "attrs": [],
       "properties": {
         "id": 3,
-        "order": 1172,
+        "order": 7,
         "ligatures": "",
         "prevSize": 32,
         "code": 58883,
@@ -129,19 +129,19 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
+        "colorPermutations": {
+          "2172172171220381012481912812552552551": []
+        },
         "tags": [
           "cart"
         ],
         "defaultCode": 58884,
-        "grid": 0,
-        "colorPermutations": {
-          "2172172171220381012481912812552552551": []
-        }
+        "grid": 0
       },
       "attrs": [],
       "properties": {
         "id": 4,
-        "order": 1173,
+        "order": 8,
         "ligatures": "",
         "prevSize": 32,
         "code": 58884,
@@ -159,19 +159,19 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
+        "colorPermutations": {
+          "2172172171220381012481912812552552551": []
+        },
         "tags": [
           "arrow-left"
         ],
         "defaultCode": 58885,
-        "grid": 0,
-        "colorPermutations": {
-          "2172172171220381012481912812552552551": []
-        }
+        "grid": 0
       },
       "attrs": [],
       "properties": {
         "id": 5,
-        "order": 1174,
+        "order": 9,
         "ligatures": "",
         "prevSize": 32,
         "code": 58885,
@@ -189,19 +189,19 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
+        "colorPermutations": {
+          "2172172171220381012481912812552552551": []
+        },
         "tags": [
           "check"
         ],
         "defaultCode": 58886,
-        "grid": 0,
-        "colorPermutations": {
-          "2172172171220381012481912812552552551": []
-        }
+        "grid": 0
       },
       "attrs": [],
       "properties": {
         "id": 6,
-        "order": 1175,
+        "order": 10,
         "ligatures": "",
         "prevSize": 32,
         "code": 58886,
@@ -219,19 +219,19 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
+        "colorPermutations": {
+          "2172172171220381012481912812552552551": []
+        },
         "tags": [
           "lesson"
         ],
         "defaultCode": 58887,
-        "grid": 0,
-        "colorPermutations": {
-          "2172172171220381012481912812552552551": []
-        }
+        "grid": 0
       },
       "attrs": [],
       "properties": {
         "id": 7,
-        "order": 1176,
+        "order": 11,
         "ligatures": "",
         "prevSize": 32,
         "code": 58887,
@@ -249,19 +249,19 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
+        "colorPermutations": {
+          "2172172171220381012481912812552552551": []
+        },
         "tags": [
           "print"
         ],
         "defaultCode": 58889,
-        "grid": 0,
-        "colorPermutations": {
-          "2172172171220381012481912812552552551": []
-        }
+        "grid": 0
       },
       "attrs": [],
       "properties": {
         "id": 8,
-        "order": 1177,
+        "order": 12,
         "ligatures": "",
         "prevSize": 32,
         "code": 58889,
@@ -279,19 +279,19 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
+        "colorPermutations": {
+          "2172172171220381012481912812552552551": []
+        },
         "tags": [
           "goal"
         ],
         "defaultCode": 58890,
-        "grid": 0,
-        "colorPermutations": {
-          "2172172171220381012481912812552552551": []
-        }
+        "grid": 0
       },
       "attrs": [],
       "properties": {
         "id": 9,
-        "order": 1178,
+        "order": 13,
         "ligatures": "",
         "prevSize": 32,
         "code": 58890,
@@ -309,19 +309,19 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
+        "colorPermutations": {
+          "2172172171220381012481912812552552551": []
+        },
         "tags": [
           "wait"
         ],
         "defaultCode": 58891,
-        "grid": 0,
-        "colorPermutations": {
-          "2172172171220381012481912812552552551": []
-        }
+        "grid": 0
       },
       "attrs": [],
       "properties": {
         "id": 10,
-        "order": 1179,
+        "order": 14,
         "ligatures": "",
         "prevSize": 32,
         "code": 58891,
@@ -339,19 +339,19 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
+        "colorPermutations": {
+          "2172172171220381012481912812552552551": []
+        },
         "tags": [
           "download"
         ],
         "defaultCode": 58892,
-        "grid": 0,
-        "colorPermutations": {
-          "2172172171220381012481912812552552551": []
-        }
+        "grid": 0
       },
       "attrs": [],
       "properties": {
         "id": 11,
-        "order": 1180,
+        "order": 15,
         "ligatures": "",
         "prevSize": 32,
         "code": 58892,
@@ -369,19 +369,19 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
+        "colorPermutations": {
+          "2172172171220381012481912812552552551": []
+        },
         "tags": [
           "tools"
         ],
         "defaultCode": 58893,
-        "grid": 0,
-        "colorPermutations": {
-          "2172172171220381012481912812552552551": []
-        }
+        "grid": 0
       },
       "attrs": [],
       "properties": {
         "id": 12,
-        "order": 1181,
+        "order": 16,
         "ligatures": "",
         "prevSize": 32,
         "code": 58893,
@@ -399,19 +399,19 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
+        "colorPermutations": {
+          "2172172171220381012481912812552552551": []
+        },
         "tags": [
           "lock"
         ],
         "defaultCode": 58895,
-        "grid": 0,
-        "colorPermutations": {
-          "2172172171220381012481912812552552551": []
-        }
+        "grid": 0
       },
       "attrs": [],
       "properties": {
         "id": 13,
-        "order": 1182,
+        "order": 17,
         "ligatures": "",
         "prevSize": 32,
         "code": 58895,
@@ -429,19 +429,19 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
+        "colorPermutations": {
+          "2172172171220381012481912812552552551": []
+        },
         "tags": [
           "together"
         ],
         "defaultCode": 58896,
-        "grid": 0,
-        "colorPermutations": {
-          "2172172171220381012481912812552552551": []
-        }
+        "grid": 0
       },
       "attrs": [],
       "properties": {
         "id": 14,
-        "order": 1183,
+        "order": 18,
         "ligatures": "",
         "prevSize": 32,
         "code": 58896,
@@ -459,19 +459,19 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
+        "colorPermutations": {
+          "2172172171220381012481912812552552551": []
+        },
         "tags": [
           "search"
         ],
         "defaultCode": 58897,
-        "grid": 0,
-        "colorPermutations": {
-          "2172172171220381012481912812552552551": []
-        }
+        "grid": 0
       },
       "attrs": [],
       "properties": {
         "id": 15,
-        "order": 1184,
+        "order": 19,
         "ligatures": "",
         "prevSize": 32,
         "code": 58897,
@@ -489,19 +489,19 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
+        "colorPermutations": {
+          "2172172171220381012481912812552552551": []
+        },
         "tags": [
           "shop"
         ],
         "defaultCode": 58898,
-        "grid": 0,
-        "colorPermutations": {
-          "2172172171220381012481912812552552551": []
-        }
+        "grid": 0
       },
       "attrs": [],
       "properties": {
         "id": 16,
-        "order": 1185,
+        "order": 20,
         "ligatures": "",
         "prevSize": 32,
         "code": 58898,
@@ -519,19 +519,19 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
+        "colorPermutations": {
+          "2172172171220381012481912812552552551": []
+        },
         "tags": [
           "logout"
         ],
         "defaultCode": 58899,
-        "grid": 0,
-        "colorPermutations": {
-          "2172172171220381012481912812552552551": []
-        }
+        "grid": 0
       },
       "attrs": [],
       "properties": {
         "id": 17,
-        "order": 1186,
+        "order": 21,
         "ligatures": "",
         "prevSize": 32,
         "code": 58899,
@@ -549,19 +549,19 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
+        "colorPermutations": {
+          "2172172171220381012481912812552552551": []
+        },
         "tags": [
           "wishlist-full"
         ],
         "defaultCode": 58900,
-        "grid": 0,
-        "colorPermutations": {
-          "2172172171220381012481912812552552551": []
-        }
+        "grid": 0
       },
       "attrs": [],
       "properties": {
         "id": 18,
-        "order": 1187,
+        "order": 22,
         "ligatures": "",
         "prevSize": 32,
         "code": 58900,
@@ -579,19 +579,19 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
+        "colorPermutations": {
+          "2172172171220381012481912812552552551": []
+        },
         "tags": [
           "profile"
         ],
         "defaultCode": 58904,
-        "grid": 0,
-        "colorPermutations": {
-          "2172172171220381012481912812552552551": []
-        }
+        "grid": 0
       },
       "attrs": [],
       "properties": {
         "id": 19,
-        "order": 1188,
+        "order": 23,
         "ligatures": "",
         "prevSize": 32,
         "code": 58904,
@@ -609,19 +609,19 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
+        "colorPermutations": {
+          "2172172171220381012481912812552552551": []
+        },
         "tags": [
           "rounder"
         ],
         "defaultCode": 58905,
-        "grid": 0,
-        "colorPermutations": {
-          "2172172171220381012481912812552552551": []
-        }
+        "grid": 0
       },
       "attrs": [],
       "properties": {
         "id": 20,
-        "order": 1189,
+        "order": 24,
         "ligatures": "",
         "prevSize": 32,
         "code": 58905,
@@ -639,19 +639,19 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
+        "colorPermutations": {
+          "2172172171220381012481912812552552551": []
+        },
         "tags": [
           "delivery"
         ],
         "defaultCode": 58906,
-        "grid": 0,
-        "colorPermutations": {
-          "2172172171220381012481912812552552551": []
-        }
+        "grid": 0
       },
       "attrs": [],
       "properties": {
         "id": 21,
-        "order": 1190,
+        "order": 25,
         "ligatures": "",
         "prevSize": 32,
         "code": 58906,
@@ -669,19 +669,19 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
+        "colorPermutations": {
+          "2172172171220381012481912812552552551": []
+        },
         "tags": [
           "pay"
         ],
         "defaultCode": 58907,
-        "grid": 0,
-        "colorPermutations": {
-          "2172172171220381012481912812552552551": []
-        }
+        "grid": 0
       },
       "attrs": [],
       "properties": {
         "id": 22,
-        "order": 1191,
+        "order": 26,
         "ligatures": "",
         "prevSize": 32,
         "code": 58907,
@@ -699,19 +699,19 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
+        "colorPermutations": {
+          "2172172171220381012481912812552552551": []
+        },
         "tags": [
           "bagno"
         ],
         "defaultCode": 58909,
-        "grid": 0,
-        "colorPermutations": {
-          "2172172171220381012481912812552552551": []
-        }
+        "grid": 0
       },
       "attrs": [],
       "properties": {
         "id": 23,
-        "order": 1192,
+        "order": 27,
         "ligatures": "",
         "prevSize": 32,
         "code": 58909,
@@ -729,19 +729,19 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
+        "colorPermutations": {
+          "2172172171220381012481912812552552551": []
+        },
         "tags": [
           "video"
         ],
         "defaultCode": 58913,
-        "grid": 0,
-        "colorPermutations": {
-          "2172172171220381012481912812552552551": []
-        }
+        "grid": 0
       },
       "attrs": [],
       "properties": {
         "id": 24,
-        "order": 1193,
+        "order": 28,
         "ligatures": "",
         "prevSize": 32,
         "code": 58913,
@@ -759,19 +759,19 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
+        "colorPermutations": {
+          "2172172171220381012481912812552552551": []
+        },
         "tags": [
           "order"
         ],
         "defaultCode": 58914,
-        "grid": 0,
-        "colorPermutations": {
-          "2172172171220381012481912812552552551": []
-        }
+        "grid": 0
       },
       "attrs": [],
       "properties": {
         "id": 25,
-        "order": 1194,
+        "order": 29,
         "ligatures": "",
         "prevSize": 32,
         "code": 58914,
@@ -790,19 +790,19 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
+        "colorPermutations": {
+          "2172172171220381012481912812552552551": []
+        },
         "tags": [
           "preference"
         ],
         "defaultCode": 58915,
-        "grid": 0,
-        "colorPermutations": {
-          "2172172171220381012481912812552552551": []
-        }
+        "grid": 0
       },
       "attrs": [],
       "properties": {
         "id": 26,
-        "order": 1195,
+        "order": 30,
         "ligatures": "",
         "prevSize": 32,
         "code": 58915,
@@ -820,19 +820,19 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
+        "colorPermutations": {
+          "2172172171220381012481912812552552551": []
+        },
         "tags": [
           "interest"
         ],
         "defaultCode": 58916,
-        "grid": 0,
-        "colorPermutations": {
-          "2172172171220381012481912812552552551": []
-        }
+        "grid": 0
       },
       "attrs": [],
       "properties": {
         "id": 27,
-        "order": 1196,
+        "order": 31,
         "ligatures": "",
         "prevSize": 32,
         "code": 58916,
@@ -850,19 +850,19 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
+        "colorPermutations": {
+          "2172172171220381012481912812552552551": []
+        },
         "tags": [
           "mylm"
         ],
         "defaultCode": 58918,
-        "grid": 0,
-        "colorPermutations": {
-          "2172172171220381012481912812552552551": []
-        }
+        "grid": 0
       },
       "attrs": [],
       "properties": {
         "id": 28,
-        "order": 1197,
+        "order": 32,
         "ligatures": "",
         "prevSize": 32,
         "code": 58918,
@@ -880,19 +880,19 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
+        "colorPermutations": {
+          "2172172171220381012481912812552552551": []
+        },
         "tags": [
           "card"
         ],
         "defaultCode": 58920,
-        "grid": 0,
-        "colorPermutations": {
-          "2172172171220381012481912812552552551": []
-        }
+        "grid": 0
       },
       "attrs": [],
       "properties": {
         "id": 29,
-        "order": 1198,
+        "order": 33,
         "ligatures": "",
         "prevSize": 32,
         "code": 58920,
@@ -910,19 +910,19 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
+        "colorPermutations": {
+          "2172172171220381012481912812552552551": []
+        },
         "tags": [
           "locator"
         ],
         "defaultCode": 58921,
-        "grid": 0,
-        "colorPermutations": {
-          "2172172171220381012481912812552552551": []
-        }
+        "grid": 0
       },
       "attrs": [],
       "properties": {
         "id": 30,
-        "order": 1199,
+        "order": 34,
         "ligatures": "",
         "prevSize": 32,
         "code": 58921,
@@ -940,19 +940,19 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
+        "colorPermutations": {
+          "2172172171220381012481912812552552551": []
+        },
         "tags": [
           "address"
         ],
         "defaultCode": 58922,
-        "grid": 0,
-        "colorPermutations": {
-          "2172172171220381012481912812552552551": []
-        }
+        "grid": 0
       },
       "attrs": [],
       "properties": {
         "id": 31,
-        "order": 1200,
+        "order": 35,
         "ligatures": "",
         "prevSize": 32,
         "code": 58922,
@@ -970,19 +970,19 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
+        "colorPermutations": {
+          "2172172171220381012481912812552552551": []
+        },
         "tags": [
           "man-together"
         ],
         "defaultCode": 58924,
-        "grid": 0,
-        "colorPermutations": {
-          "2172172171220381012481912812552552551": []
-        }
+        "grid": 0
       },
       "attrs": [],
       "properties": {
         "id": 32,
-        "order": 1201,
+        "order": 36,
         "ligatures": "",
         "prevSize": 32,
         "code": 58924,
@@ -1000,19 +1000,19 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
+        "colorPermutations": {
+          "2172172171220381012481912812552552551": []
+        },
         "tags": [
           "elettricita-e-domotica"
         ],
         "defaultCode": 58925,
-        "grid": 0,
-        "colorPermutations": {
-          "2172172171220381012481912812552552551": []
-        }
+        "grid": 0
       },
       "attrs": [],
       "properties": {
         "id": 33,
-        "order": 1202,
+        "order": 37,
         "ligatures": "",
         "prevSize": 32,
         "code": 58925,
@@ -1030,19 +1030,19 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
+        "colorPermutations": {
+          "2172172171220381012481912812552552551": []
+        },
         "tags": [
           "decorazione"
         ],
         "defaultCode": 58926,
-        "grid": 0,
-        "colorPermutations": {
-          "2172172171220381012481912812552552551": []
-        }
+        "grid": 0
       },
       "attrs": [],
       "properties": {
         "id": 34,
-        "order": 1203,
+        "order": 38,
         "ligatures": "",
         "prevSize": 32,
         "code": 58926,
@@ -1060,19 +1060,19 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
+        "colorPermutations": {
+          "2172172171220381012481912812552552551": []
+        },
         "tags": [
           "project"
         ],
         "defaultCode": 58927,
-        "grid": 0,
-        "colorPermutations": {
-          "2172172171220381012481912812552552551": []
-        }
+        "grid": 0
       },
       "attrs": [],
       "properties": {
         "id": 35,
-        "order": 1204,
+        "order": 39,
         "ligatures": "",
         "prevSize": 32,
         "code": 58927,
@@ -1090,19 +1090,19 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
+        "colorPermutations": {
+          "2172172171220381012481912812552552551": []
+        },
         "tags": [
           "complete-arrow-right"
         ],
         "defaultCode": 58928,
-        "grid": 0,
-        "colorPermutations": {
-          "2172172171220381012481912812552552551": []
-        }
+        "grid": 0
       },
       "attrs": [],
       "properties": {
         "id": 36,
-        "order": 1205,
+        "order": 40,
         "ligatures": "",
         "prevSize": 32,
         "code": 58928,
@@ -1120,19 +1120,19 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
+        "colorPermutations": {
+          "2172172171220381012481912812552552551": []
+        },
         "tags": [
           "calendar"
         ],
         "defaultCode": 58930,
-        "grid": 0,
-        "colorPermutations": {
-          "2172172171220381012481912812552552551": []
-        }
+        "grid": 0
       },
       "attrs": [],
       "properties": {
         "id": 37,
-        "order": 1206,
+        "order": 41,
         "ligatures": "",
         "prevSize": 32,
         "code": 58930,
@@ -1150,19 +1150,19 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
+        "colorPermutations": {
+          "2172172171220381012481912812552552551": []
+        },
         "tags": [
           "arrow-right"
         ],
         "defaultCode": 58931,
-        "grid": 0,
-        "colorPermutations": {
-          "2172172171220381012481912812552552551": []
-        }
+        "grid": 0
       },
       "attrs": [],
       "properties": {
         "id": 38,
-        "order": 1207,
+        "order": 42,
         "ligatures": "",
         "prevSize": 32,
         "code": 58931,
@@ -1180,19 +1180,19 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
+        "colorPermutations": {
+          "2172172171220381012481912812552552551": []
+        },
         "tags": [
           "arrow-up"
         ],
         "defaultCode": 58932,
-        "grid": 0,
-        "colorPermutations": {
-          "2172172171220381012481912812552552551": []
-        }
+        "grid": 0
       },
       "attrs": [],
       "properties": {
         "id": 39,
-        "order": 1208,
+        "order": 43,
         "ligatures": "",
         "prevSize": 32,
         "code": 58932,
@@ -1210,19 +1210,19 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
+        "colorPermutations": {
+          "2172172171220381012481912812552552551": []
+        },
         "tags": [
           "complete-arrow-up"
         ],
         "defaultCode": 58933,
-        "grid": 0,
-        "colorPermutations": {
-          "2172172171220381012481912812552552551": []
-        }
+        "grid": 0
       },
       "attrs": [],
       "properties": {
         "id": 40,
-        "order": 1209,
+        "order": 44,
         "ligatures": "",
         "prevSize": 32,
         "code": 58933,
@@ -1240,19 +1240,19 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
+        "colorPermutations": {
+          "2172172171220381012481912812552552551": []
+        },
         "tags": [
           "complete-arrow-left"
         ],
         "defaultCode": 58934,
-        "grid": 0,
-        "colorPermutations": {
-          "2172172171220381012481912812552552551": []
-        }
+        "grid": 0
       },
       "attrs": [],
       "properties": {
         "id": 41,
-        "order": 1210,
+        "order": 45,
         "ligatures": "",
         "prevSize": 32,
         "code": 58934,
@@ -1270,19 +1270,19 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
+        "colorPermutations": {
+          "2172172171220381012481912812552552551": []
+        },
         "tags": [
           "complete-arrow-down"
         ],
         "defaultCode": 58935,
-        "grid": 0,
-        "colorPermutations": {
-          "2172172171220381012481912812552552551": []
-        }
+        "grid": 0
       },
       "attrs": [],
       "properties": {
         "id": 42,
-        "order": 1211,
+        "order": 46,
         "ligatures": "",
         "prevSize": 32,
         "code": 58935,
@@ -1300,19 +1300,19 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
+        "colorPermutations": {
+          "2172172171220381012481912812552552551": []
+        },
         "tags": [
           "star"
         ],
         "defaultCode": 58937,
-        "grid": 0,
-        "colorPermutations": {
-          "2172172171220381012481912812552552551": []
-        }
+        "grid": 0
       },
       "attrs": [],
       "properties": {
         "id": 43,
-        "order": 1212,
+        "order": 47,
         "ligatures": "",
         "prevSize": 32,
         "code": 58937,
@@ -1330,19 +1330,19 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
+        "colorPermutations": {
+          "2172172171220381012481912812552552551": []
+        },
         "tags": [
           "close"
         ],
         "defaultCode": 58938,
-        "grid": 0,
-        "colorPermutations": {
-          "2172172171220381012481912812552552551": []
-        }
+        "grid": 0
       },
       "attrs": [],
       "properties": {
         "id": 44,
-        "order": 1213,
+        "order": 48,
         "ligatures": "",
         "prevSize": 32,
         "code": 58938,
@@ -1360,19 +1360,19 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
+        "colorPermutations": {
+          "2172172171220381012481912812552552551": []
+        },
         "tags": [
           "remove-round"
         ],
         "defaultCode": 58939,
-        "grid": 0,
-        "colorPermutations": {
-          "2172172171220381012481912812552552551": []
-        }
+        "grid": 0
       },
       "attrs": [],
       "properties": {
         "id": 45,
-        "order": 1214,
+        "order": 49,
         "ligatures": "",
         "prevSize": 32,
         "code": 58939,
@@ -1390,19 +1390,19 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
+        "colorPermutations": {
+          "2172172171220381012481912812552552551": []
+        },
         "tags": [
           "add-round"
         ],
         "defaultCode": 58942,
-        "grid": 0,
-        "colorPermutations": {
-          "2172172171220381012481912812552552551": []
-        }
+        "grid": 0
       },
       "attrs": [],
       "properties": {
         "id": 46,
-        "order": 1215,
+        "order": 50,
         "ligatures": "",
         "prevSize": 32,
         "code": 58942,
@@ -1420,19 +1420,19 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
+        "colorPermutations": {
+          "2172172171220381012481912812552552551": []
+        },
         "tags": [
           "wishlist"
         ],
         "defaultCode": 58943,
-        "grid": 0,
-        "colorPermutations": {
-          "2172172171220381012481912812552552551": []
-        }
+        "grid": 0
       },
       "attrs": [],
       "properties": {
         "id": 47,
-        "order": 1216,
+        "order": 51,
         "ligatures": "",
         "prevSize": 32,
         "code": 58943,
@@ -1450,19 +1450,19 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
+        "colorPermutations": {
+          "2172172171220381012481912812552552551": []
+        },
         "tags": [
           "verifiedbyvisa"
         ],
         "defaultCode": 58944,
-        "grid": 0,
-        "colorPermutations": {
-          "2172172171220381012481912812552552551": []
-        }
+        "grid": 0
       },
       "attrs": [],
       "properties": {
         "id": 48,
-        "order": 1217,
+        "order": 52,
         "ligatures": "",
         "prevSize": 32,
         "code": 58944,
@@ -1480,19 +1480,19 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
+        "colorPermutations": {
+          "2172172171220381012481912812552552551": []
+        },
         "tags": [
           "question-mark"
         ],
         "defaultCode": 58945,
-        "grid": 0,
-        "colorPermutations": {
-          "2172172171220381012481912812552552551": []
-        }
+        "grid": 0
       },
       "attrs": [],
       "properties": {
         "id": 49,
-        "order": 1218,
+        "order": 53,
         "ligatures": "",
         "prevSize": 32,
         "code": 58945,
@@ -1510,19 +1510,19 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
+        "colorPermutations": {
+          "2172172171220381012481912812552552551": []
+        },
         "tags": [
           "cut"
         ],
         "defaultCode": 58946,
-        "grid": 0,
-        "colorPermutations": {
-          "2172172171220381012481912812552552551": []
-        }
+        "grid": 0
       },
       "attrs": [],
       "properties": {
         "id": 50,
-        "order": 1219,
+        "order": 54,
         "ligatures": "",
         "prevSize": 32,
         "code": 58946,
@@ -1540,19 +1540,19 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
+        "colorPermutations": {
+          "2172172171220381012481912812552552551": []
+        },
         "tags": [
           "gift"
         ],
         "defaultCode": 58947,
-        "grid": 0,
-        "colorPermutations": {
-          "2172172171220381012481912812552552551": []
-        }
+        "grid": 0
       },
       "attrs": [],
       "properties": {
         "id": 51,
-        "order": 1220,
+        "order": 55,
         "ligatures": "",
         "prevSize": 32,
         "code": 58947,
@@ -1570,19 +1570,19 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
+        "colorPermutations": {
+          "2172172171220381012481912812552552551": []
+        },
         "tags": [
           "telephone"
         ],
         "defaultCode": 58949,
-        "grid": 0,
-        "colorPermutations": {
-          "2172172171220381012481912812552552551": []
-        }
+        "grid": 0
       },
       "attrs": [],
       "properties": {
         "id": 52,
-        "order": 1221,
+        "order": 56,
         "ligatures": "",
         "prevSize": 32,
         "code": 58949,
@@ -1600,19 +1600,19 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
+        "colorPermutations": {
+          "2172172171220381012481912812552552551": []
+        },
         "tags": [
           "mastercard"
         ],
         "defaultCode": 58950,
-        "grid": 0,
-        "colorPermutations": {
-          "2172172171220381012481912812552552551": []
-        }
+        "grid": 0
       },
       "attrs": [],
       "properties": {
         "id": 53,
-        "order": 1222,
+        "order": 57,
         "ligatures": "",
         "prevSize": 32,
         "code": 58950,
@@ -1630,19 +1630,19 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
+        "colorPermutations": {
+          "2172172171220381012481912812552552551": []
+        },
         "tags": [
           "edit"
         ],
         "defaultCode": 58951,
-        "grid": 0,
-        "colorPermutations": {
-          "2172172171220381012481912812552552551": []
-        }
+        "grid": 0
       },
       "attrs": [],
       "properties": {
         "id": 54,
-        "order": 1223,
+        "order": 58,
         "ligatures": "",
         "prevSize": 32,
         "code": 58951,
@@ -1660,19 +1660,19 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
+        "colorPermutations": {
+          "2172172171220381012481912812552552551": []
+        },
         "tags": [
           "add-image"
         ],
         "defaultCode": 58952,
-        "grid": 0,
-        "colorPermutations": {
-          "2172172171220381012481912812552552551": []
-        }
+        "grid": 0
       },
       "attrs": [],
       "properties": {
         "id": 55,
-        "order": 1224,
+        "order": 59,
         "ligatures": "",
         "prevSize": 32,
         "code": 58952,
@@ -1690,19 +1690,19 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
+        "colorPermutations": {
+          "2172172171220381012481912812552552551": []
+        },
         "tags": [
           "404"
         ],
         "defaultCode": 58953,
-        "grid": 0,
-        "colorPermutations": {
-          "2172172171220381012481912812552552551": []
-        }
+        "grid": 0
       },
       "attrs": [],
       "properties": {
         "id": 56,
-        "order": 1225,
+        "order": 60,
         "ligatures": "",
         "prevSize": 32,
         "code": 58953,
@@ -1720,19 +1720,19 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
+        "colorPermutations": {
+          "2172172171220381012481912812552552551": []
+        },
         "tags": [
           "cartaregalo"
         ],
         "defaultCode": 58954,
-        "grid": 0,
-        "colorPermutations": {
-          "2172172171220381012481912812552552551": []
-        }
+        "grid": 0
       },
       "attrs": [],
       "properties": {
         "id": 57,
-        "order": 1226,
+        "order": 61,
         "ligatures": "",
         "prevSize": 32,
         "code": 58954,
@@ -1750,19 +1750,19 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
+        "colorPermutations": {
+          "2172172171220381012481912812552552551": []
+        },
         "tags": [
           "help-question"
         ],
         "defaultCode": 58956,
-        "grid": 0,
-        "colorPermutations": {
-          "2172172171220381012481912812552552551": []
-        }
+        "grid": 0
       },
       "attrs": [],
       "properties": {
         "id": 58,
-        "order": 1227,
+        "order": 62,
         "ligatures": "",
         "prevSize": 32,
         "code": 58956,
@@ -1780,19 +1780,19 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
+        "colorPermutations": {
+          "2172172171220381012481912812552552551": []
+        },
         "tags": [
           "timer-white"
         ],
         "defaultCode": 58957,
-        "grid": 0,
-        "colorPermutations": {
-          "2172172171220381012481912812552552551": []
-        }
+        "grid": 0
       },
       "attrs": [],
       "properties": {
         "id": 59,
-        "order": 1228,
+        "order": 63,
         "ligatures": "",
         "prevSize": 32,
         "code": 58957,
@@ -1810,19 +1810,19 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
+        "colorPermutations": {
+          "2172172171220381012481912812552552551": []
+        },
         "tags": [
           "arredamento-giardino-terrazzo-e-giardinaggio"
         ],
         "defaultCode": 58958,
-        "grid": 0,
-        "colorPermutations": {
-          "2172172171220381012481912812552552551": []
-        }
+        "grid": 0
       },
       "attrs": [],
       "properties": {
         "id": 60,
-        "order": 1229,
+        "order": 64,
         "ligatures": "",
         "prevSize": 32,
         "code": 58958,
@@ -1840,19 +1840,19 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
+        "colorPermutations": {
+          "2172172171220381012481912812552552551": []
+        },
         "tags": [
           "illuminazione"
         ],
         "defaultCode": 58959,
-        "grid": 0,
-        "colorPermutations": {
-          "2172172171220381012481912812552552551": []
-        }
+        "grid": 0
       },
       "attrs": [],
       "properties": {
         "id": 61,
-        "order": 1230,
+        "order": 65,
         "ligatures": "",
         "prevSize": 32,
         "code": 58959,
@@ -1870,19 +1870,19 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
+        "colorPermutations": {
+          "2172172171220381012481912812552552551": []
+        },
         "tags": [
           "ordine-e-sistemazione"
         ],
         "defaultCode": 58960,
-        "grid": 0,
-        "colorPermutations": {
-          "2172172171220381012481912812552552551": []
-        }
+        "grid": 0
       },
       "attrs": [],
       "properties": {
         "id": 62,
-        "order": 1231,
+        "order": 66,
         "ligatures": "",
         "prevSize": 32,
         "code": 58960,
@@ -1900,19 +1900,19 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
+        "colorPermutations": {
+          "2172172171220381012481912812552552551": []
+        },
         "tags": [
           "pavimenti-e-rivestimenti"
         ],
         "defaultCode": 58961,
-        "grid": 0,
-        "colorPermutations": {
-          "2172172171220381012481912812552552551": []
-        }
+        "grid": 0
       },
       "attrs": [],
       "properties": {
         "id": 63,
-        "order": 1232,
+        "order": 67,
         "ligatures": "",
         "prevSize": 32,
         "code": 58961,
@@ -1930,19 +1930,19 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
+        "colorPermutations": {
+          "2172172171220381012481912812552552551": []
+        },
         "tags": [
           "porte-scale-e-finestre"
         ],
         "defaultCode": 58962,
-        "grid": 0,
-        "colorPermutations": {
-          "2172172171220381012481912812552552551": []
-        }
+        "grid": 0
       },
       "attrs": [],
       "properties": {
         "id": 64,
-        "order": 1233,
+        "order": 68,
         "ligatures": "",
         "prevSize": 32,
         "code": 58962,
@@ -1960,19 +1960,19 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
+        "colorPermutations": {
+          "2172172171220381012481912812552552551": []
+        },
         "tags": [
           "stufe-clima-e-idraulica"
         ],
         "defaultCode": 58963,
-        "grid": 0,
-        "colorPermutations": {
-          "2172172171220381012481912812552552551": []
-        }
+        "grid": 0
       },
       "attrs": [],
       "properties": {
         "id": 65,
-        "order": 1234,
+        "order": 69,
         "ligatures": "",
         "prevSize": 32,
         "code": 58963,
@@ -1990,19 +1990,19 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
+        "colorPermutations": {
+          "2172172171220381012481912812552552551": []
+        },
         "tags": [
           "utensileria-e-ferramenta"
         ],
         "defaultCode": 58964,
-        "grid": 0,
-        "colorPermutations": {
-          "2172172171220381012481912812552552551": []
-        }
+        "grid": 0
       },
       "attrs": [],
       "properties": {
         "id": 66,
-        "order": 1235,
+        "order": 70,
         "ligatures": "",
         "prevSize": 32,
         "code": 58964,
@@ -2020,19 +2020,19 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
+        "colorPermutations": {
+          "2172172171220381012481912812552552551": []
+        },
         "tags": [
           "vernici"
         ],
         "defaultCode": 58965,
-        "grid": 0,
-        "colorPermutations": {
-          "2172172171220381012481912812552552551": []
-        }
+        "grid": 0
       },
       "attrs": [],
       "properties": {
         "id": 67,
-        "order": 1236,
+        "order": 71,
         "ligatures": "",
         "prevSize": 32,
         "code": 58965,
@@ -2050,19 +2050,19 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
+        "colorPermutations": {
+          "2172172171220381012481912812552552551": []
+        },
         "tags": [
           "falegnameria-e-edilizia"
         ],
         "defaultCode": 58966,
-        "grid": 0,
-        "colorPermutations": {
-          "2172172171220381012481912812552552551": []
-        }
+        "grid": 0
       },
       "attrs": [],
       "properties": {
         "id": 68,
-        "order": 1237,
+        "order": 72,
         "ligatures": "",
         "prevSize": 32,
         "code": 58966,
@@ -2080,19 +2080,19 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
+        "colorPermutations": {
+          "2172172171220381012481912812552552551": []
+        },
         "tags": [
           "cucina"
         ],
         "defaultCode": 58967,
-        "grid": 0,
-        "colorPermutations": {
-          "2172172171220381012481912812552552551": []
-        }
+        "grid": 0
       },
       "attrs": [],
       "properties": {
         "id": 69,
-        "order": 1238,
+        "order": 73,
         "ligatures": "",
         "prevSize": 32,
         "code": 58967,
@@ -2110,19 +2110,19 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
+        "colorPermutations": {
+          "2172172171220381012481912812552552551": []
+        },
         "tags": [
           "storelocator-line"
         ],
         "defaultCode": 58973,
-        "grid": 0,
-        "colorPermutations": {
-          "2172172171220381012481912812552552551": []
-        }
+        "grid": 0
       },
       "attrs": [],
       "properties": {
         "id": 70,
-        "order": 1239,
+        "order": 74,
         "ligatures": "",
         "prevSize": 32,
         "code": 58973,
@@ -2140,19 +2140,19 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
+        "colorPermutations": {
+          "2172172171220381012481912812552552551": []
+        },
         "tags": [
           "help"
         ],
         "defaultCode": 58974,
-        "grid": 0,
-        "colorPermutations": {
-          "2172172171220381012481912812552552551": []
-        }
+        "grid": 0
       },
       "attrs": [],
       "properties": {
         "id": 71,
-        "order": 1240,
+        "order": 75,
         "ligatures": "",
         "prevSize": 32,
         "code": 58974,
@@ -2170,19 +2170,19 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
+        "colorPermutations": {
+          "2172172171220381012481912812552552551": []
+        },
         "tags": [
           "scheda-montaggio"
         ],
         "defaultCode": 58975,
-        "grid": 0,
-        "colorPermutations": {
-          "2172172171220381012481912812552552551": []
-        }
+        "grid": 0
       },
       "attrs": [],
       "properties": {
         "id": 72,
-        "order": 1241,
+        "order": 76,
         "ligatures": "",
         "prevSize": 32,
         "code": 58975,
@@ -2200,19 +2200,19 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
+        "colorPermutations": {
+          "2172172171220381012481912812552552551": []
+        },
         "tags": [
           "scheda-sicurezza"
         ],
         "defaultCode": 58976,
-        "grid": 0,
-        "colorPermutations": {
-          "2172172171220381012481912812552552551": []
-        }
+        "grid": 0
       },
       "attrs": [],
       "properties": {
         "id": 73,
-        "order": 1242,
+        "order": 77,
         "ligatures": "",
         "prevSize": 32,
         "code": 58976,
@@ -2230,19 +2230,19 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
+        "colorPermutations": {
+          "2172172171220381012481912812552552551": []
+        },
         "tags": [
           "disegni-tecnici"
         ],
         "defaultCode": 58977,
-        "grid": 0,
-        "colorPermutations": {
-          "2172172171220381012481912812552552551": []
-        }
+        "grid": 0
       },
       "attrs": [],
       "properties": {
         "id": 74,
-        "order": 1243,
+        "order": 78,
         "ligatures": "",
         "prevSize": 32,
         "code": 58977,
@@ -2260,19 +2260,19 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
+        "colorPermutations": {
+          "2172172171220381012481912812552552551": []
+        },
         "tags": [
           "diagram"
         ],
         "defaultCode": 59392,
-        "grid": 0,
-        "colorPermutations": {
-          "2172172171220381012481912812552552551": []
-        }
+        "grid": 0
       },
       "attrs": [],
       "properties": {
         "id": 75,
-        "order": 1244,
+        "order": 79,
         "ligatures": "",
         "prevSize": 32,
         "code": 59392,
@@ -2290,19 +2290,19 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
+        "colorPermutations": {
+          "2172172171220381012481912812552552551": []
+        },
         "tags": [
           "slim-arrow-right"
         ],
         "defaultCode": 59648,
-        "grid": 0,
-        "colorPermutations": {
-          "2172172171220381012481912812552552551": []
-        }
+        "grid": 0
       },
       "attrs": [],
       "properties": {
         "id": 76,
-        "order": 1245,
+        "order": 80,
         "ligatures": "",
         "prevSize": 32,
         "code": 59648,
@@ -2320,19 +2320,19 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
+        "colorPermutations": {
+          "2172172171220381012481912812552552551": []
+        },
         "tags": [
           "doublepackcart"
         ],
         "defaultCode": 59649,
-        "grid": 0,
-        "colorPermutations": {
-          "2172172171220381012481912812552552551": []
-        }
+        "grid": 0
       },
       "attrs": [],
       "properties": {
         "id": 77,
-        "order": 1246,
+        "order": 81,
         "ligatures": "",
         "prevSize": 32,
         "code": 59649,
@@ -2350,19 +2350,19 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
+        "colorPermutations": {
+          "2172172171220381012481912812552552551": []
+        },
         "tags": [
           "hammer"
         ],
         "defaultCode": 59650,
-        "grid": 0,
-        "colorPermutations": {
-          "2172172171220381012481912812552552551": []
-        }
+        "grid": 0
       },
       "attrs": [],
       "properties": {
         "id": 78,
-        "order": 1247,
+        "order": 82,
         "ligatures": "",
         "prevSize": 32,
         "code": 59650,
@@ -2380,19 +2380,19 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
+        "colorPermutations": {
+          "2172172171220381012481912812552552551": []
+        },
         "tags": [
           "label"
         ],
         "defaultCode": 59651,
-        "grid": 0,
-        "colorPermutations": {
-          "2172172171220381012481912812552552551": []
-        }
+        "grid": 0
       },
       "attrs": [],
       "properties": {
         "id": 79,
-        "order": 1248,
+        "order": 83,
         "ligatures": "",
         "prevSize": 32,
         "code": 59651,
@@ -2410,19 +2410,19 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
+        "colorPermutations": {
+          "2172172171220381012481912812552552551": []
+        },
         "tags": [
           "ruler"
         ],
         "defaultCode": 59652,
-        "grid": 0,
-        "colorPermutations": {
-          "2172172171220381012481912812552552551": []
-        }
+        "grid": 0
       },
       "attrs": [],
       "properties": {
         "id": 80,
-        "order": 1249,
+        "order": 84,
         "ligatures": "",
         "prevSize": 32,
         "code": 59652,
@@ -2440,19 +2440,19 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
+        "colorPermutations": {
+          "2172172171220381012481912812552552551": []
+        },
         "tags": [
           "screwdriver"
         ],
         "defaultCode": 59653,
-        "grid": 0,
-        "colorPermutations": {
-          "2172172171220381012481912812552552551": []
-        }
+        "grid": 0
       },
       "attrs": [],
       "properties": {
         "id": 81,
-        "order": 1250,
+        "order": 85,
         "ligatures": "",
         "prevSize": 32,
         "code": 59653,
@@ -2470,19 +2470,19 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
+        "colorPermutations": {
+          "2172172171220381012481912812552552551": []
+        },
         "tags": [
           "wallpaper"
         ],
         "defaultCode": 59654,
-        "grid": 0,
-        "colorPermutations": {
-          "2172172171220381012481912812552552551": []
-        }
+        "grid": 0
       },
       "attrs": [],
       "properties": {
         "id": 82,
-        "order": 1251,
+        "order": 86,
         "ligatures": "",
         "prevSize": 32,
         "code": 59654,
@@ -2500,19 +2500,19 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
+        "colorPermutations": {
+          "2172172171220381012481912812552552551": []
+        },
         "tags": [
           "trowel"
         ],
         "defaultCode": 59655,
-        "grid": 0,
-        "colorPermutations": {
-          "2172172171220381012481912812552552551": []
-        }
+        "grid": 0
       },
       "attrs": [],
       "properties": {
         "id": 83,
-        "order": 1252,
+        "order": 87,
         "ligatures": "",
         "prevSize": 32,
         "code": 59655,
@@ -2530,19 +2530,19 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
+        "colorPermutations": {
+          "2172172171220381012481912812552552551": []
+        },
         "tags": [
           "value"
         ],
         "defaultCode": 59656,
-        "grid": 0,
-        "colorPermutations": {
-          "2172172171220381012481912812552552551": []
-        }
+        "grid": 0
       },
       "attrs": [],
       "properties": {
         "id": 84,
-        "order": 1253,
+        "order": 88,
         "ligatures": "",
         "prevSize": 32,
         "code": 59656,
@@ -2560,19 +2560,19 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
+        "colorPermutations": {
+          "2172172171220381012481912812552552551": []
+        },
         "tags": [
           "bolt"
         ],
         "defaultCode": 59657,
-        "grid": 0,
-        "colorPermutations": {
-          "2172172171220381012481912812552552551": []
-        }
+        "grid": 0
       },
       "attrs": [],
       "properties": {
         "id": 85,
-        "order": 1254,
+        "order": 89,
         "ligatures": "",
         "prevSize": 32,
         "code": 59657,
@@ -2590,19 +2590,19 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
+        "colorPermutations": {
+          "2172172171220381012481912812552552551": []
+        },
         "tags": [
           "brush"
         ],
         "defaultCode": 59658,
-        "grid": 0,
-        "colorPermutations": {
-          "2172172171220381012481912812552552551": []
-        }
+        "grid": 0
       },
       "attrs": [],
       "properties": {
         "id": 86,
-        "order": 1255,
+        "order": 90,
         "ligatures": "",
         "prevSize": 32,
         "code": 59658,
@@ -2620,19 +2620,19 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
+        "colorPermutations": {
+          "2172172171220381012481912812552552551": []
+        },
         "tags": [
           "calculette"
         ],
         "defaultCode": 59659,
-        "grid": 0,
-        "colorPermutations": {
-          "2172172171220381012481912812552552551": []
-        }
+        "grid": 0
       },
       "attrs": [],
       "properties": {
         "id": 87,
-        "order": 1256,
+        "order": 91,
         "ligatures": "",
         "prevSize": 32,
         "code": 59659,
@@ -2650,19 +2650,19 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
+        "colorPermutations": {
+          "2172172171220381012481912812552552551": []
+        },
         "tags": [
           "promessareso"
         ],
         "defaultCode": 59660,
-        "grid": 0,
-        "colorPermutations": {
-          "2172172171220381012481912812552552551": []
-        }
+        "grid": 0
       },
       "attrs": [],
       "properties": {
         "id": 88,
-        "order": 1257,
+        "order": 92,
         "ligatures": "",
         "prevSize": 32,
         "code": 59660,
@@ -2680,19 +2680,19 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
+        "colorPermutations": {
+          "2172172171220381012481912812552552551": []
+        },
         "tags": [
           "promessaconsegna"
         ],
         "defaultCode": 59661,
-        "grid": 0,
-        "colorPermutations": {
-          "2172172171220381012481912812552552551": []
-        }
+        "grid": 0
       },
       "attrs": [],
       "properties": {
         "id": 89,
-        "order": 1258,
+        "order": 93,
         "ligatures": "",
         "prevSize": 32,
         "code": 59661,
@@ -2710,19 +2710,19 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
+        "colorPermutations": {
+          "2172172171220381012481912812552552551": []
+        },
         "tags": [
           "promessaclickcollect"
         ],
         "defaultCode": 59662,
-        "grid": 0,
-        "colorPermutations": {
-          "2172172171220381012481912812552552551": []
-        }
+        "grid": 0
       },
       "attrs": [],
       "properties": {
         "id": 90,
-        "order": 1259,
+        "order": 94,
         "ligatures": "",
         "prevSize": 32,
         "code": 59662,
@@ -2740,19 +2740,19 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
+        "colorPermutations": {
+          "2172172171220381012481912812552552551": []
+        },
         "tags": [
           "agevolazioni-fiscali"
         ],
         "defaultCode": 59663,
-        "grid": 0,
-        "colorPermutations": {
-          "2172172171220381012481912812552552551": []
-        }
+        "grid": 0
       },
       "attrs": [],
       "properties": {
         "id": 91,
-        "order": 1260,
+        "order": 95,
         "ligatures": "",
         "prevSize": 32,
         "code": 59663,
@@ -2770,19 +2770,19 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
+        "colorPermutations": {
+          "2172172171220381012481912812552552551": []
+        },
         "tags": [
           "diagnosi-energetica"
         ],
         "defaultCode": 59664,
-        "grid": 0,
-        "colorPermutations": {
-          "2172172171220381012481912812552552551": []
-        }
+        "grid": 0
       },
       "attrs": [],
       "properties": {
         "id": 92,
-        "order": 1261,
+        "order": 96,
         "ligatures": "",
         "prevSize": 32,
         "code": 59664,
@@ -2800,19 +2800,19 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
+        "colorPermutations": {
+          "2172172171220381012481912812552552551": []
+        },
         "tags": [
           "chiavi-su-misura"
         ],
         "defaultCode": 59665,
-        "grid": 0,
-        "colorPermutations": {
-          "2172172171220381012481912812552552551": []
-        }
+        "grid": 0
       },
       "attrs": [],
       "properties": {
         "id": 93,
-        "order": 1262,
+        "order": 97,
         "ligatures": "",
         "prevSize": 32,
         "code": 59665,
@@ -2830,19 +2830,19 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
+        "colorPermutations": {
+          "2172172171220381012481912812552552551": []
+        },
         "tags": [
           "assistenza-clienti"
         ],
         "defaultCode": 59666,
-        "grid": 0,
-        "colorPermutations": {
-          "2172172171220381012481912812552552551": []
-        }
+        "grid": 0
       },
       "attrs": [],
       "properties": {
         "id": 94,
-        "order": 1263,
+        "order": 98,
         "ligatures": "",
         "prevSize": 32,
         "code": 59666,
@@ -2860,19 +2860,19 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
+        "colorPermutations": {
+          "2172172171220381012481912812552552551": []
+        },
         "tags": [
           "colori-su-misura"
         ],
         "defaultCode": 59667,
-        "grid": 0,
-        "colorPermutations": {
-          "2172172171220381012481912812552552551": []
-        }
+        "grid": 0
       },
       "attrs": [],
       "properties": {
         "id": 95,
-        "order": 1264,
+        "order": 99,
         "ligatures": "",
         "prevSize": 32,
         "code": 59667,
@@ -2890,19 +2890,19 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
+        "colorPermutations": {
+          "2172172171220381012481912812552552551": []
+        },
         "tags": [
           "consegna-a-domicilio"
         ],
         "defaultCode": 59668,
-        "grid": 0,
-        "colorPermutations": {
-          "2172172171220381012481912812552552551": []
-        }
+        "grid": 0
       },
       "attrs": [],
       "properties": {
         "id": 96,
-        "order": 1265,
+        "order": 100,
         "ligatures": "",
         "prevSize": 32,
         "code": 59668,
@@ -2920,19 +2920,19 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
+        "colorPermutations": {
+          "2172172171220381012481912812552552551": []
+        },
         "tags": [
           "consulente-progetto"
         ],
         "defaultCode": 59669,
-        "grid": 0,
-        "colorPermutations": {
-          "2172172171220381012481912812552552551": []
-        }
+        "grid": 0
       },
       "attrs": [],
       "properties": {
         "id": 97,
-        "order": 1266,
+        "order": 101,
         "ligatures": "",
         "prevSize": 32,
         "code": 59669,
@@ -2950,19 +2950,19 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
+        "colorPermutations": {
+          "2172172171220381012481912812552552551": []
+        },
         "tags": [
           "cornici-su-misura"
         ],
         "defaultCode": 59670,
-        "grid": 0,
-        "colorPermutations": {
-          "2172172171220381012481912812552552551": []
-        }
+        "grid": 0
       },
       "attrs": [],
       "properties": {
         "id": 98,
-        "order": 1267,
+        "order": 102,
         "ligatures": "",
         "prevSize": 32,
         "code": 59670,
@@ -2980,19 +2980,19 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
+        "colorPermutations": {
+          "2172172171220381012481912812552552551": []
+        },
         "tags": [
           "corsi-fai-da-te"
         ],
         "defaultCode": 59671,
-        "grid": 0,
-        "colorPermutations": {
-          "2172172171220381012481912812552552551": []
-        }
+        "grid": 0
       },
       "attrs": [],
       "properties": {
         "id": 99,
-        "order": 1268,
+        "order": 103,
         "ligatures": "",
         "prevSize": 32,
         "code": 59671,
@@ -3010,19 +3010,19 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
+        "colorPermutations": {
+          "2172172171220381012481912812552552551": []
+        },
         "tags": [
           "finanziamento"
         ],
         "defaultCode": 59672,
-        "grid": 0,
-        "colorPermutations": {
-          "2172172171220381012481912812552552551": []
-        }
+        "grid": 0
       },
       "attrs": [],
       "properties": {
         "id": 100,
-        "order": 1269,
+        "order": 104,
         "ligatures": "",
         "prevSize": 32,
         "code": 59672,
@@ -3040,19 +3040,19 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
+        "colorPermutations": {
+          "2172172171220381012481912812552552551": []
+        },
         "tags": [
           "taglio-legno-vetro"
         ],
         "defaultCode": 59673,
-        "grid": 0,
-        "colorPermutations": {
-          "2172172171220381012481912812552552551": []
-        }
+        "grid": 0
       },
       "attrs": [],
       "properties": {
         "id": 101,
-        "order": 1270,
+        "order": 105,
         "ligatures": "",
         "prevSize": 32,
         "code": 59673,
@@ -3070,19 +3070,19 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
+        "colorPermutations": {
+          "2172172171220381012481912812552552551": []
+        },
         "tags": [
           "noleggio-attrezzature"
         ],
         "defaultCode": 59674,
-        "grid": 0,
-        "colorPermutations": {
-          "2172172171220381012481912812552552551": []
-        }
+        "grid": 0
       },
       "attrs": [],
       "properties": {
         "id": 102,
-        "order": 1271,
+        "order": 106,
         "ligatures": "",
         "prevSize": 32,
         "code": 59674,
@@ -3100,19 +3100,19 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
+        "colorPermutations": {
+          "2172172171220381012481912812552552551": []
+        },
         "tags": [
           "noleggio-veicoli"
         ],
         "defaultCode": 59675,
-        "grid": 0,
-        "colorPermutations": {
-          "2172172171220381012481912812552552551": []
-        }
+        "grid": 0
       },
       "attrs": [],
       "properties": {
         "id": 103,
-        "order": 1272,
+        "order": 107,
         "ligatures": "",
         "prevSize": 32,
         "code": 59675,
@@ -3130,19 +3130,19 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
+        "colorPermutations": {
+          "2172172171220381012481912812552552551": []
+        },
         "tags": [
           "posa-installazione"
         ],
         "defaultCode": 59676,
-        "grid": 0,
-        "colorPermutations": {
-          "2172172171220381012481912812552552551": []
-        }
+        "grid": 0
       },
       "attrs": [],
       "properties": {
         "id": 104,
-        "order": 1273,
+        "order": 108,
         "prevSize": 32,
         "code": 59676,
         "name": "posa-installazione"
@@ -3159,19 +3159,19 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
+        "colorPermutations": {
+          "2172172171220381012481912812552552551": []
+        },
         "tags": [
           "timer-round"
         ],
         "defaultCode": 59677,
-        "grid": 0,
-        "colorPermutations": {
-          "2172172171220381012481912812552552551": []
-        }
+        "grid": 0
       },
       "attrs": [],
       "properties": {
         "id": 105,
-        "order": 1274,
+        "order": 109,
         "ligatures": "",
         "prevSize": 32,
         "code": 59677,
@@ -3189,19 +3189,19 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
+        "colorPermutations": {
+          "2172172171220381012481912812552552551": []
+        },
         "tags": [
           "post-vendita"
         ],
         "defaultCode": 59678,
-        "grid": 0,
-        "colorPermutations": {
-          "2172172171220381012481912812552552551": []
-        }
+        "grid": 0
       },
       "attrs": [],
       "properties": {
         "id": 106,
-        "order": 1275,
+        "order": 110,
         "ligatures": "",
         "prevSize": 32,
         "code": 59678,
@@ -3219,19 +3219,19 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
+        "colorPermutations": {
+          "2172172171220381012481912812552552551": []
+        },
         "tags": [
           "assistenza-macchine-giardino"
         ],
         "defaultCode": 59679,
-        "grid": 0,
-        "colorPermutations": {
-          "2172172171220381012481912812552552551": []
-        }
+        "grid": 0
       },
       "attrs": [],
       "properties": {
         "id": 107,
-        "order": 1276,
+        "order": 111,
         "ligatures": "",
         "prevSize": 32,
         "code": 59679,
@@ -3249,19 +3249,19 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
+        "colorPermutations": {
+          "2172172171220381012481912812552552551": []
+        },
         "tags": [
           "reso-merce"
         ],
         "defaultCode": 59680,
-        "grid": 0,
-        "colorPermutations": {
-          "2172172171220381012481912812552552551": []
-        }
+        "grid": 0
       },
       "attrs": [],
       "properties": {
         "id": 108,
-        "order": 1277,
+        "order": 112,
         "ligatures": "",
         "prevSize": 32,
         "code": 59680,
@@ -3279,19 +3279,19 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
+        "colorPermutations": {
+          "2172172171220381012481912812552552551": []
+        },
         "tags": [
           "rimborso-differenza"
         ],
         "defaultCode": 59681,
-        "grid": 0,
-        "colorPermutations": {
-          "2172172171220381012481912812552552551": []
-        }
+        "grid": 0
       },
       "attrs": [],
       "properties": {
         "id": 109,
-        "order": 1278,
+        "order": 113,
         "ligatures": "",
         "prevSize": 32,
         "code": 59681,
@@ -3309,19 +3309,19 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
+        "colorPermutations": {
+          "2172172171220381012481912812552552551": []
+        },
         "tags": [
           "picto-ritiro"
         ],
         "defaultCode": 59682,
-        "grid": 0,
-        "colorPermutations": {
-          "2172172171220381012481912812552552551": []
-        }
+        "grid": 0
       },
       "attrs": [],
       "properties": {
         "id": 110,
-        "order": 1279,
+        "order": 114,
         "ligatures": "",
         "prevSize": 32,
         "code": 59682,
@@ -3339,19 +3339,19 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
+        "colorPermutations": {
+          "2172172171220381012481912812552552551": []
+        },
         "tags": [
           "sartoria-express"
         ],
         "defaultCode": 59683,
-        "grid": 0,
-        "colorPermutations": {
-          "2172172171220381012481912812552552551": []
-        }
+        "grid": 0
       },
       "attrs": [],
       "properties": {
         "id": 111,
-        "order": 1280,
+        "order": 115,
         "ligatures": "",
         "prevSize": 32,
         "code": 59683,
@@ -3369,19 +3369,19 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
+        "colorPermutations": {
+          "2172172171220381012481912812552552551": []
+        },
         "tags": [
           "tende-tecniche-su-misura"
         ],
         "defaultCode": 59684,
-        "grid": 0,
-        "colorPermutations": {
-          "2172172171220381012481912812552552551": []
-        }
+        "grid": 0
       },
       "attrs": [],
       "properties": {
         "id": 112,
-        "order": 1281,
+        "order": 116,
         "ligatures": "",
         "prevSize": 32,
         "code": 59684,
@@ -3399,19 +3399,19 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
+        "colorPermutations": {
+          "2172172171220381012481912812552552551": []
+        },
         "tags": [
           "tende_tessuti-su-misura"
         ],
         "defaultCode": 59685,
-        "grid": 0,
-        "colorPermutations": {
-          "2172172171220381012481912812552552551": []
-        }
+        "grid": 0
       },
       "attrs": [],
       "properties": {
         "id": 113,
-        "order": 1282,
+        "order": 117,
         "ligatures": "",
         "prevSize": 32,
         "code": 59685,
@@ -3429,19 +3429,19 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
+        "colorPermutations": {
+          "2172172171220381012481912812552552551": []
+        },
         "tags": [
           "wifi"
         ],
         "defaultCode": 59686,
-        "grid": 0,
-        "colorPermutations": {
-          "2172172171220381012481912812552552551": []
-        }
+        "grid": 0
       },
       "attrs": [],
       "properties": {
         "id": 114,
-        "order": 1283,
+        "order": 118,
         "ligatures": "",
         "prevSize": 32,
         "code": 59686,
@@ -3459,19 +3459,19 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
+        "colorPermutations": {
+          "2172172171220381012481912812552552551": []
+        },
         "tags": [
           "close-round"
         ],
         "defaultCode": 59687,
-        "grid": 0,
-        "colorPermutations": {
-          "2172172171220381012481912812552552551": []
-        }
+        "grid": 0
       },
       "attrs": [],
       "properties": {
         "id": 115,
-        "order": 1284,
+        "order": 119,
         "ligatures": "",
         "prevSize": 32,
         "code": 59687,
@@ -3489,19 +3489,19 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
+        "colorPermutations": {
+          "2172172171220381012481912812552552551": []
+        },
         "tags": [
           "help-round"
         ],
         "defaultCode": 59688,
-        "grid": 0,
-        "colorPermutations": {
-          "2172172171220381012481912812552552551": []
-        }
+        "grid": 0
       },
       "attrs": [],
       "properties": {
         "id": 116,
-        "order": 1285,
+        "order": 120,
         "ligatures": "",
         "prevSize": 32,
         "code": 59688,
@@ -3519,19 +3519,19 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
+        "colorPermutations": {
+          "2172172171220381012481912812552552551": []
+        },
         "tags": [
           "assistenza"
         ],
         "defaultCode": 59689,
-        "grid": 0,
-        "colorPermutations": {
-          "2172172171220381012481912812552552551": []
-        }
+        "grid": 0
       },
       "attrs": [],
       "properties": {
         "id": 117,
-        "order": 1286,
+        "order": 121,
         "ligatures": "",
         "prevSize": 32,
         "code": 59689,
@@ -3549,19 +3549,19 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
+        "colorPermutations": {
+          "2172172171220381012481912812552552551": []
+        },
         "tags": [
           "garanzie"
         ],
         "defaultCode": 59690,
-        "grid": 0,
-        "colorPermutations": {
-          "2172172171220381012481912812552552551": []
-        }
+        "grid": 0
       },
       "attrs": [],
       "properties": {
         "id": 118,
-        "order": 1287,
+        "order": 122,
         "ligatures": "",
         "prevSize": 32,
         "code": 59690,
@@ -3579,19 +3579,19 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
+        "colorPermutations": {
+          "2172172171220381012481912812552552551": []
+        },
         "tags": [
           "risparmio"
         ],
         "defaultCode": 59691,
-        "grid": 0,
-        "colorPermutations": {
-          "2172172171220381012481912812552552551": []
-        }
+        "grid": 0
       },
       "attrs": [],
       "properties": {
         "id": 119,
-        "order": 1288,
+        "order": 123,
         "ligatures": "",
         "prevSize": 32,
         "code": 59691,
@@ -3609,19 +3609,19 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
+        "colorPermutations": {
+          "2172172171220381012481912812552552551": []
+        },
         "tags": [
           "servizi"
         ],
         "defaultCode": 59692,
-        "grid": 0,
-        "colorPermutations": {
-          "2172172171220381012481912812552552551": []
-        }
+        "grid": 0
       },
       "attrs": [],
       "properties": {
         "id": 120,
-        "order": 1289,
+        "order": 124,
         "ligatures": "",
         "prevSize": 32,
         "code": 59692,
@@ -3639,19 +3639,19 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
+        "colorPermutations": {
+          "2172172171220381012481912812552552551": []
+        },
         "tags": [
           "profile-full"
         ],
         "defaultCode": 59693,
-        "grid": 0,
-        "colorPermutations": {
-          "2172172171220381012481912812552552551": []
-        }
+        "grid": 0
       },
       "attrs": [],
       "properties": {
         "id": 121,
-        "order": 1290,
+        "order": 125,
         "ligatures": "",
         "prevSize": 32,
         "code": 59693,
@@ -3669,19 +3669,19 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
+        "colorPermutations": {
+          "2172172171220381012481912812552552551": []
+        },
         "tags": [
           "clicca-e-ritira"
         ],
         "defaultCode": 59694,
-        "grid": 0,
-        "colorPermutations": {
-          "2172172171220381012481912812552552551": []
-        }
+        "grid": 0
       },
       "attrs": [],
       "properties": {
         "id": 122,
-        "order": 1291,
+        "order": 126,
         "ligatures": "",
         "prevSize": 32,
         "code": 59694,
@@ -3699,19 +3699,19 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
+        "colorPermutations": {
+          "2172172171220381012481912812552552551": []
+        },
         "tags": [
           "specchi-su-misura"
         ],
         "defaultCode": 59695,
-        "grid": 0,
-        "colorPermutations": {
-          "2172172171220381012481912812552552551": []
-        }
+        "grid": 0
       },
       "attrs": [],
       "properties": {
         "id": 123,
-        "order": 1292,
+        "order": 127,
         "ligatures": "",
         "prevSize": 32,
         "code": 59695,
@@ -3729,19 +3729,19 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
+        "colorPermutations": {
+          "2172172171220381012481912812552552551": []
+        },
         "tags": [
           "posa-prezzo-fisso"
         ],
         "defaultCode": 59696,
-        "grid": 0,
-        "colorPermutations": {
-          "2172172171220381012481912812552552551": []
-        }
+        "grid": 0
       },
       "attrs": [],
       "properties": {
         "id": 124,
-        "order": 1293,
+        "order": 128,
         "ligatures": "",
         "prevSize": 32,
         "code": 59696,
@@ -3759,19 +3759,19 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
+        "colorPermutations": {
+          "2172172171220381012481912812552552551": []
+        },
         "tags": [
           "slim-arrow-left"
         ],
         "defaultCode": 59697,
-        "grid": 0,
-        "colorPermutations": {
-          "2172172171220381012481912812552552551": []
-        }
+        "grid": 0
       },
       "attrs": [],
       "properties": {
         "id": 125,
-        "order": 1294,
+        "order": 129,
         "ligatures": "",
         "prevSize": 32,
         "code": 59697,
@@ -3789,19 +3789,19 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
+        "colorPermutations": {
+          "2172172171220381012481912812552552551": []
+        },
         "tags": [
           "posa-dritta"
         ],
         "defaultCode": 59698,
-        "grid": 0,
-        "colorPermutations": {
-          "2172172171220381012481912812552552551": []
-        }
+        "grid": 0
       },
       "attrs": [],
       "properties": {
         "id": 126,
-        "order": 1295,
+        "order": 130,
         "ligatures": "",
         "prevSize": 32,
         "code": 59698,
@@ -3819,19 +3819,19 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
+        "colorPermutations": {
+          "2172172171220381012481912812552552551": []
+        },
         "tags": [
           "posa-diagonale"
         ],
         "defaultCode": 59699,
-        "grid": 0,
-        "colorPermutations": {
-          "2172172171220381012481912812552552551": []
-        }
+        "grid": 0
       },
       "attrs": [],
       "properties": {
         "id": 127,
-        "order": 1296,
+        "order": 131,
         "ligatures": "",
         "prevSize": 32,
         "code": 59699,
@@ -3849,19 +3849,19 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
+        "colorPermutations": {
+          "2172172171220381012481912812552552551": []
+        },
         "tags": [
           "prenota-in-negozio"
         ],
         "defaultCode": 59700,
-        "grid": 0,
-        "colorPermutations": {
-          "2172172171220381012481912812552552551": []
-        }
+        "grid": 0
       },
       "attrs": [],
       "properties": {
         "id": 128,
-        "order": 1297,
+        "order": 132,
         "ligatures": "",
         "prevSize": 32,
         "code": 59700,
@@ -3880,19 +3880,19 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
+        "colorPermutations": {
+          "2172172171220381012481912812552552551": []
+        },
         "tags": [
           "buoni-sconto"
         ],
         "defaultCode": 59701,
-        "grid": 0,
-        "colorPermutations": {
-          "2172172171220381012481912812552552551": []
-        }
+        "grid": 0
       },
       "attrs": [],
       "properties": {
         "id": 129,
-        "order": 1298,
+        "order": 133,
         "ligatures": "",
         "prevSize": 32,
         "code": 59701,
@@ -3911,19 +3911,19 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
+        "colorPermutations": {
+          "2172172171220381012481912812552552551": []
+        },
         "tags": [
           "remove-coupon"
         ],
         "defaultCode": 59702,
-        "grid": 0,
-        "colorPermutations": {
-          "2172172171220381012481912812552552551": []
-        }
+        "grid": 0
       },
       "attrs": [],
       "properties": {
         "id": 130,
-        "order": 1299,
+        "order": 134,
         "ligatures": "",
         "prevSize": 32,
         "code": 59702,
@@ -3942,19 +3942,19 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
+        "colorPermutations": {
+          "2172172171220381012481912812552552551": []
+        },
         "tags": [
           "dallo-store"
         ],
         "defaultCode": 59703,
-        "grid": 0,
-        "colorPermutations": {
-          "2172172171220381012481912812552552551": []
-        }
+        "grid": 0
       },
       "attrs": [],
       "properties": {
         "id": 131,
-        "order": 1300,
+        "order": 135,
         "ligatures": "",
         "prevSize": 32,
         "code": 59703,
@@ -3973,19 +3973,19 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
+        "colorPermutations": {
+          "2172172171220381012481912812552552551": []
+        },
         "tags": [
           "dalla-nostra-app"
         ],
         "defaultCode": 59704,
-        "grid": 0,
-        "colorPermutations": {
-          "2172172171220381012481912812552552551": []
-        }
+        "grid": 0
       },
       "attrs": [],
       "properties": {
         "id": 132,
-        "order": 1301,
+        "order": 136,
         "ligatures": "",
         "prevSize": 32,
         "code": 59704,
@@ -4004,19 +4004,19 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
+        "colorPermutations": {
+          "2172172171220381012481912812552552551": []
+        },
         "tags": [
           "dal-nostro-sito"
         ],
         "defaultCode": 59705,
-        "grid": 0,
-        "colorPermutations": {
-          "2172172171220381012481912812552552551": []
-        }
+        "grid": 0
       },
       "attrs": [],
       "properties": {
         "id": 133,
-        "order": 1302,
+        "order": 137,
         "ligatures": "",
         "prevSize": 32,
         "code": 59705,
@@ -4035,19 +4035,19 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
+        "colorPermutations": {
+          "2172172171220381012481912812552552551": []
+        },
         "tags": [
           "coupon-wallet"
         ],
         "defaultCode": 59706,
-        "grid": 0,
-        "colorPermutations": {
-          "2172172171220381012481912812552552551": []
-        }
+        "grid": 0
       },
       "attrs": [],
       "properties": {
         "id": 134,
-        "order": 1303,
+        "order": 138,
         "ligatures": "",
         "prevSize": 32,
         "code": 59706,
@@ -4066,19 +4066,19 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
+        "colorPermutations": {
+          "2172172171220381012481912812552552551": []
+        },
         "tags": [
           "disponibilita"
         ],
         "defaultCode": 59707,
-        "grid": 0,
-        "colorPermutations": {
-          "2172172171220381012481912812552552551": []
-        }
+        "grid": 0
       },
       "attrs": [],
       "properties": {
         "id": 135,
-        "order": 1304,
+        "order": 139,
         "ligatures": "",
         "prevSize": 32,
         "code": 59707,
@@ -4097,19 +4097,19 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
+        "colorPermutations": {
+          "2172172171220381012481912812552552551": []
+        },
         "tags": [
           "revert-arrow"
         ],
         "defaultCode": 59708,
-        "grid": 0,
-        "colorPermutations": {
-          "2172172171220381012481912812552552551": []
-        }
+        "grid": 0
       },
       "attrs": [],
       "properties": {
         "id": 136,
-        "order": 1305,
+        "order": 140,
         "ligatures": "",
         "prevSize": 32,
         "code": 59708,
@@ -4128,19 +4128,19 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
+        "colorPermutations": {
+          "2172172171220381012481912812552552551": []
+        },
         "tags": [
           "gift-five"
         ],
         "defaultCode": 59709,
-        "grid": 0,
-        "colorPermutations": {
-          "2172172171220381012481912812552552551": []
-        }
+        "grid": 0
       },
       "attrs": [],
       "properties": {
         "id": 137,
-        "order": 1306,
+        "order": 141,
         "ligatures": "",
         "prevSize": 32,
         "code": 59709,
@@ -4159,19 +4159,19 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
+        "colorPermutations": {
+          "2172172171220381012481912812552552551": []
+        },
         "tags": [
           "send-email"
         ],
         "defaultCode": 59710,
-        "grid": 0,
-        "colorPermutations": {
-          "2172172171220381012481912812552552551": []
-        }
+        "grid": 0
       },
       "attrs": [],
       "properties": {
         "id": 138,
-        "order": 1307,
+        "order": 142,
         "ligatures": "",
         "prevSize": 32,
         "code": 59710,
@@ -4189,19 +4189,19 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
+        "colorPermutations": {
+          "2172172171220381012481912812552552551": []
+        },
         "tags": [
           "design-lab"
         ],
         "defaultCode": 59711,
-        "grid": 0,
-        "colorPermutations": {
-          "2172172171220381012481912812552552551": []
-        }
+        "grid": 0
       },
       "attrs": [],
       "properties": {
         "id": 139,
-        "order": 1308,
+        "order": 143,
         "ligatures": "",
         "prevSize": 32,
         "code": 59711,
@@ -4219,19 +4219,19 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
+        "colorPermutations": {
+          "2172172171220381012481912812552552551": []
+        },
         "tags": [
           "Icona_X"
         ],
         "defaultCode": 59712,
-        "grid": 0,
-        "colorPermutations": {
-          "2172172171220381012481912812552552551": []
-        }
+        "grid": 0
       },
       "attrs": [],
       "properties": {
         "id": 140,
-        "order": 1309,
+        "order": 144,
         "ligatures": "",
         "prevSize": 32,
         "code": 59712,
@@ -4249,19 +4249,19 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
+        "colorPermutations": {
+          "2172172171220381012481912812552552551": []
+        },
         "tags": [
           "social-tw"
         ],
         "defaultCode": 59713,
-        "grid": 0,
-        "colorPermutations": {
-          "2172172171220381012481912812552552551": []
-        }
+        "grid": 0
       },
       "attrs": [],
       "properties": {
         "id": 141,
-        "order": 1310,
+        "order": 145,
         "ligatures": "",
         "prevSize": 32,
         "code": 59713,
@@ -4279,19 +4279,19 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
+        "colorPermutations": {
+          "2172172171220381012481912812552552551": []
+        },
         "tags": [
           "alert"
         ],
         "defaultCode": 59714,
-        "grid": 0,
-        "colorPermutations": {
-          "2172172171220381012481912812552552551": []
-        }
+        "grid": 0
       },
       "attrs": [],
       "properties": {
         "id": 142,
-        "order": 1311,
+        "order": 146,
         "ligatures": "",
         "prevSize": 32,
         "code": 59714,
@@ -4309,19 +4309,19 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
+        "colorPermutations": {
+          "2172172171220381012481912812552552551": []
+        },
         "tags": [
           "community"
         ],
         "defaultCode": 59715,
-        "grid": 0,
-        "colorPermutations": {
-          "2172172171220381012481912812552552551": []
-        }
+        "grid": 0
       },
       "attrs": [],
       "properties": {
         "id": 143,
-        "order": 1312,
+        "order": 147,
         "ligatures": "",
         "prevSize": 32,
         "code": 59715,
@@ -4339,19 +4339,19 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
+        "colorPermutations": {
+          "2172172171220381012481912812552552551": []
+        },
         "tags": [
           "aiuto"
         ],
         "defaultCode": 59716,
-        "grid": 0,
-        "colorPermutations": {
-          "2172172171220381012481912812552552551": []
-        }
+        "grid": 0
       },
       "attrs": [],
       "properties": {
         "id": 144,
-        "order": 1313,
+        "order": 148,
         "ligatures": "",
         "prevSize": 32,
         "code": 59716,
@@ -4370,19 +4370,19 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
+        "colorPermutations": {
+          "2172172171220381012481912812552552551": []
+        },
         "tags": [
           "idee-progetti-mese"
         ],
         "defaultCode": 59717,
-        "grid": 0,
-        "colorPermutations": {
-          "2172172171220381012481912812552552551": []
-        }
+        "grid": 0
       },
       "attrs": [],
       "properties": {
         "id": 145,
-        "order": 1314,
+        "order": 149,
         "ligatures": "",
         "prevSize": 32,
         "code": 59717,
@@ -4400,19 +4400,19 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
+        "colorPermutations": {
+          "2172172171220381012481912812552552551": []
+        },
         "tags": [
           "video-corsi"
         ],
         "defaultCode": 59718,
-        "grid": 0,
-        "colorPermutations": {
-          "2172172171220381012481912812552552551": []
-        }
+        "grid": 0
       },
       "attrs": [],
       "properties": {
         "id": 146,
-        "order": 1315,
+        "order": 150,
         "ligatures": "",
         "prevSize": 32,
         "code": 59718,
@@ -4430,19 +4430,19 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
+        "colorPermutations": {
+          "2172172171220381012481912812552552551": []
+        },
         "tags": [
           "corsi"
         ],
         "defaultCode": 59719,
-        "grid": 0,
-        "colorPermutations": {
-          "2172172171220381012481912812552552551": []
-        }
+        "grid": 0
       },
       "attrs": [],
       "properties": {
         "id": 147,
-        "order": 1316,
+        "order": 151,
         "ligatures": "",
         "prevSize": 32,
         "code": 59719,
@@ -4461,19 +4461,19 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
+        "colorPermutations": {
+          "2172172171220381012481912812552552551": []
+        },
         "tags": [
           "idee-progetti"
         ],
         "defaultCode": 59720,
-        "grid": 0,
-        "colorPermutations": {
-          "2172172171220381012481912812552552551": []
-        }
+        "grid": 0
       },
       "attrs": [],
       "properties": {
         "id": 148,
-        "order": 1317,
+        "order": 152,
         "ligatures": "",
         "prevSize": 32,
         "code": 59720,
@@ -4491,19 +4491,19 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
+        "colorPermutations": {
+          "2172172171220381012481912812552552551": []
+        },
         "tags": [
           "social-fb"
         ],
         "defaultCode": 59721,
-        "grid": 0,
-        "colorPermutations": {
-          "2172172171220381012481912812552552551": []
-        }
+        "grid": 0
       },
       "attrs": [],
       "properties": {
         "id": 149,
-        "order": 1318,
+        "order": 153,
         "ligatures": "",
         "prevSize": 32,
         "code": 59721,
@@ -4521,19 +4521,19 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
+        "colorPermutations": {
+          "2172172171220381012481912812552552551": []
+        },
         "tags": [
           "natale"
         ],
         "defaultCode": 59722,
-        "grid": 0,
-        "colorPermutations": {
-          "2172172171220381012481912812552552551": []
-        }
+        "grid": 0
       },
       "attrs": [],
       "properties": {
         "id": 150,
-        "order": 1319,
+        "order": 154,
         "prevSize": 32,
         "code": 59722,
         "name": "natale"
@@ -4550,19 +4550,19 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
+        "colorPermutations": {
+          "2172172171220381012481912812552552551": []
+        },
         "tags": [
           "decorare-casa-natale"
         ],
         "defaultCode": 59723,
-        "grid": 0,
-        "colorPermutations": {
-          "2172172171220381012481912812552552551": []
-        }
+        "grid": 0
       },
       "attrs": [],
       "properties": {
         "id": 151,
-        "order": 1320,
+        "order": 155,
         "ligatures": "",
         "prevSize": 32,
         "code": 59723,
@@ -4580,19 +4580,19 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
+        "colorPermutations": {
+          "2172172171220381012481912812552552551": []
+        },
         "tags": [
           "social-wa"
         ],
         "defaultCode": 59724,
-        "grid": 0,
-        "colorPermutations": {
-          "2172172171220381012481912812552552551": []
-        }
+        "grid": 0
       },
       "attrs": [],
       "properties": {
         "id": 152,
-        "order": 1321,
+        "order": 156,
         "ligatures": "",
         "prevSize": 32,
         "code": 59724,
@@ -4610,19 +4610,19 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
+        "colorPermutations": {
+          "2172172171220381012481912812552552551": []
+        },
         "tags": [
           "social-g"
         ],
         "defaultCode": 59725,
-        "grid": 0,
-        "colorPermutations": {
-          "2172172171220381012481912812552552551": []
-        }
+        "grid": 0
       },
       "attrs": [],
       "properties": {
         "id": 153,
-        "order": 1322,
+        "order": 157,
         "ligatures": "",
         "prevSize": 32,
         "code": 59725,
@@ -4641,19 +4641,19 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
+        "colorPermutations": {
+          "2172172171220381012481912812552552551": []
+        },
         "tags": [
           "ee-A\\+\\+\\+"
         ],
         "defaultCode": 59726,
-        "grid": 0,
-        "colorPermutations": {
-          "2172172171220381012481912812552552551": []
-        }
+        "grid": 0
       },
       "attrs": [],
       "properties": {
         "id": 154,
-        "order": 1323,
+        "order": 158,
         "ligatures": "",
         "prevSize": 32,
         "code": 59726,
@@ -4672,19 +4672,19 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
+        "colorPermutations": {
+          "2172172171220381012481912812552552551": []
+        },
         "tags": [
           "ee-A\\+\\+"
         ],
         "defaultCode": 59727,
-        "grid": 0,
-        "colorPermutations": {
-          "2172172171220381012481912812552552551": []
-        }
+        "grid": 0
       },
       "attrs": [],
       "properties": {
         "id": 155,
-        "order": 1324,
+        "order": 159,
         "ligatures": "",
         "prevSize": 32,
         "code": 59727,
@@ -4703,19 +4703,19 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
+        "colorPermutations": {
+          "2172172171220381012481912812552552551": []
+        },
         "tags": [
           "ee-A\\+"
         ],
         "defaultCode": 59728,
-        "grid": 0,
-        "colorPermutations": {
-          "2172172171220381012481912812552552551": []
-        }
+        "grid": 0
       },
       "attrs": [],
       "properties": {
         "id": 156,
-        "order": 1325,
+        "order": 160,
         "ligatures": "",
         "prevSize": 32,
         "code": 59728,
@@ -4734,19 +4734,19 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
+        "colorPermutations": {
+          "2172172171220381012481912812552552551": []
+        },
         "tags": [
           "ee-A"
         ],
         "defaultCode": 59729,
-        "grid": 0,
-        "colorPermutations": {
-          "2172172171220381012481912812552552551": []
-        }
+        "grid": 0
       },
       "attrs": [],
       "properties": {
         "id": 157,
-        "order": 1326,
+        "order": 161,
         "ligatures": "",
         "prevSize": 32,
         "code": 59729,
@@ -4765,19 +4765,19 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
+        "colorPermutations": {
+          "2172172171220381012481912812552552551": []
+        },
         "tags": [
           "ee-B"
         ],
         "defaultCode": 59730,
-        "grid": 0,
-        "colorPermutations": {
-          "2172172171220381012481912812552552551": []
-        }
+        "grid": 0
       },
       "attrs": [],
       "properties": {
         "id": 158,
-        "order": 1327,
+        "order": 162,
         "ligatures": "",
         "prevSize": 32,
         "code": 59730,
@@ -4796,19 +4796,19 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
+        "colorPermutations": {
+          "2172172171220381012481912812552552551": []
+        },
         "tags": [
           "ee-C"
         ],
         "defaultCode": 59731,
-        "grid": 0,
-        "colorPermutations": {
-          "2172172171220381012481912812552552551": []
-        }
+        "grid": 0
       },
       "attrs": [],
       "properties": {
         "id": 159,
-        "order": 1328,
+        "order": 163,
         "ligatures": "",
         "prevSize": 32,
         "code": 59731,
@@ -4827,19 +4827,19 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
+        "colorPermutations": {
+          "2172172171220381012481912812552552551": []
+        },
         "tags": [
           "ee-D"
         ],
         "defaultCode": 59732,
-        "grid": 0,
-        "colorPermutations": {
-          "2172172171220381012481912812552552551": []
-        }
+        "grid": 0
       },
       "attrs": [],
       "properties": {
         "id": 160,
-        "order": 1329,
+        "order": 164,
         "ligatures": "",
         "prevSize": 32,
         "code": 59732,
@@ -4858,19 +4858,19 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
+        "colorPermutations": {
+          "2172172171220381012481912812552552551": []
+        },
         "tags": [
           "squadra"
         ],
         "defaultCode": 59733,
-        "grid": 0,
-        "colorPermutations": {
-          "2172172171220381012481912812552552551": []
-        }
+        "grid": 0
       },
       "attrs": [],
       "properties": {
         "id": 161,
-        "order": 1330,
+        "order": 165,
         "ligatures": "",
         "prevSize": 32,
         "code": 59733,
@@ -4888,19 +4888,19 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
+        "colorPermutations": {
+          "2172172171220381012481912812552552551": []
+        },
         "tags": [
           "pagamento"
         ],
         "defaultCode": 59734,
-        "grid": 0,
-        "colorPermutations": {
-          "2172172171220381012481912812552552551": []
-        }
+        "grid": 0
       },
       "attrs": [],
       "properties": {
         "id": 162,
-        "order": 1331,
+        "order": 166,
         "ligatures": "",
         "prevSize": 32,
         "code": 59734,
@@ -4919,19 +4919,19 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
+        "colorPermutations": {
+          "2172172171220381012481912812552552551": []
+        },
         "tags": [
           "scheda_montaggio"
         ],
         "defaultCode": 59735,
-        "grid": 0,
-        "colorPermutations": {
-          "2172172171220381012481912812552552551": []
-        }
+        "grid": 0
       },
       "attrs": [],
       "properties": {
         "id": 163,
-        "order": 1332,
+        "order": 167,
         "ligatures": "",
         "prevSize": 32,
         "code": 59735,
@@ -4950,19 +4950,19 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
+        "colorPermutations": {
+          "2172172171220381012481912812552552551": []
+        },
         "tags": [
           "scheda"
         ],
         "defaultCode": 59736,
-        "grid": 0,
-        "colorPermutations": {
-          "2172172171220381012481912812552552551": []
-        }
+        "grid": 0
       },
       "attrs": [],
       "properties": {
         "id": 164,
-        "order": 1333,
+        "order": 168,
         "ligatures": "",
         "prevSize": 32,
         "code": 59736,
@@ -4981,19 +4981,19 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
+        "colorPermutations": {
+          "2172172171220381012481912812552552551": []
+        },
         "tags": [
           "gift-20"
         ],
         "defaultCode": 59737,
-        "grid": 0,
-        "colorPermutations": {
-          "2172172171220381012481912812552552551": []
-        }
+        "grid": 0
       },
       "attrs": [],
       "properties": {
         "id": 165,
-        "order": 1334,
+        "order": 169,
         "ligatures": "",
         "prevSize": 32,
         "code": 59737,
@@ -5012,19 +5012,19 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
+        "colorPermutations": {
+          "2172172171220381012481912812552552551": []
+        },
         "tags": [
           "vendite-flash"
         ],
         "defaultCode": 59738,
-        "grid": 0,
-        "colorPermutations": {
-          "2172172171220381012481912812552552551": []
-        }
+        "grid": 0
       },
       "attrs": [],
       "properties": {
         "id": 166,
-        "order": 1335,
+        "order": 170,
         "ligatures": "",
         "prevSize": 32,
         "code": 59738,
@@ -5042,19 +5042,19 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
+        "colorPermutations": {
+          "2172172171220381012481912812552552551": []
+        },
         "tags": [
           "offerte-mese"
         ],
         "defaultCode": 59739,
-        "grid": 0,
-        "colorPermutations": {
-          "2172172171220381012481912812552552551": []
-        }
+        "grid": 0
       },
       "attrs": [],
       "properties": {
         "id": 167,
-        "order": 1336,
+        "order": 171,
         "ligatures": "",
         "prevSize": 32,
         "code": 59739,
@@ -5073,19 +5073,19 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
+        "colorPermutations": {
+          "2172172171220381012481912812552552551": []
+        },
         "tags": [
           "promo-web"
         ],
         "defaultCode": 59740,
-        "grid": 0,
-        "colorPermutations": {
-          "2172172171220381012481912812552552551": []
-        }
+        "grid": 0
       },
       "attrs": [],
       "properties": {
         "id": 168,
-        "order": 1337,
+        "order": 172,
         "ligatures": "",
         "prevSize": 32,
         "code": 59740,
@@ -5103,19 +5103,19 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
+        "colorPermutations": {
+          "2172172171220381012481912812552552551": []
+        },
         "tags": [
           "black-friday"
         ],
         "defaultCode": 59741,
-        "grid": 0,
-        "colorPermutations": {
-          "2172172171220381012481912812552552551": []
-        }
+        "grid": 0
       },
       "attrs": [],
       "properties": {
         "id": 169,
-        "order": 1338,
+        "order": 173,
         "ligatures": "",
         "prevSize": 32,
         "code": 59741,
@@ -5134,19 +5134,19 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
+        "colorPermutations": {
+          "2172172171220381012481912812552552551": []
+        },
         "tags": [
           "proposte"
         ],
         "defaultCode": 59742,
-        "grid": 0,
-        "colorPermutations": {
-          "2172172171220381012481912812552552551": []
-        }
+        "grid": 0
       },
       "attrs": [],
       "properties": {
         "id": 170,
-        "order": 1339,
+        "order": 174,
         "ligatures": "",
         "prevSize": 32,
         "code": 59742,
@@ -5164,19 +5164,19 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
+        "colorPermutations": {
+          "2172172171220381012481912812552552551": []
+        },
         "tags": [
           "speciale-consegna"
         ],
         "defaultCode": 59743,
-        "grid": 0,
-        "colorPermutations": {
-          "2172172171220381012481912812552552551": []
-        }
+        "grid": 0
       },
       "attrs": [],
       "properties": {
         "id": 171,
-        "order": 1340,
+        "order": 175,
         "ligatures": "",
         "prevSize": 32,
         "code": 59743,
@@ -5194,19 +5194,19 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
+        "colorPermutations": {
+          "2172172171220381012481912812552552551": []
+        },
         "tags": [
           "megafono"
         ],
         "defaultCode": 59744,
-        "grid": 0,
-        "colorPermutations": {
-          "2172172171220381012481912812552552551": []
-        }
+        "grid": 0
       },
       "attrs": [],
       "properties": {
         "id": 172,
-        "order": 1341,
+        "order": 176,
         "ligatures": "",
         "prevSize": 32,
         "code": 59744,
@@ -5224,19 +5224,19 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
+        "colorPermutations": {
+          "2172172171220381012481912812552552551": []
+        },
         "tags": [
           "PayPal"
         ],
         "defaultCode": 59745,
-        "grid": 0,
-        "colorPermutations": {
-          "2172172171220381012481912812552552551": []
-        }
+        "grid": 0
       },
       "attrs": [],
       "properties": {
         "id": 173,
-        "order": 1342,
+        "order": 177,
         "ligatures": "",
         "prevSize": 32,
         "code": 59745,
@@ -5255,19 +5255,19 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
+        "colorPermutations": {
+          "2172172171220381012481912812552552551": []
+        },
         "tags": [
           "ee-2-A"
         ],
         "defaultCode": 59746,
-        "grid": 0,
-        "colorPermutations": {
-          "2172172171220381012481912812552552551": []
-        }
+        "grid": 0
       },
       "attrs": [],
       "properties": {
         "id": 174,
-        "order": 1343,
+        "order": 178,
         "ligatures": "",
         "prevSize": 32,
         "code": 59746,
@@ -5286,19 +5286,19 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
+        "colorPermutations": {
+          "2172172171220381012481912812552552551": []
+        },
         "tags": [
           "ee-2-A\\+"
         ],
         "defaultCode": 59747,
-        "grid": 0,
-        "colorPermutations": {
-          "2172172171220381012481912812552552551": []
-        }
+        "grid": 0
       },
       "attrs": [],
       "properties": {
         "id": 175,
-        "order": 1344,
+        "order": 179,
         "ligatures": "",
         "prevSize": 32,
         "code": 59747,
@@ -5317,19 +5317,19 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
+        "colorPermutations": {
+          "2172172171220381012481912812552552551": []
+        },
         "tags": [
           "ee-2-A\\+\\+"
         ],
         "defaultCode": 59748,
-        "grid": 0,
-        "colorPermutations": {
-          "2172172171220381012481912812552552551": []
-        }
+        "grid": 0
       },
       "attrs": [],
       "properties": {
         "id": 176,
-        "order": 1345,
+        "order": 180,
         "ligatures": "",
         "prevSize": 32,
         "code": 59748,
@@ -5348,19 +5348,19 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
+        "colorPermutations": {
+          "2172172171220381012481912812552552551": []
+        },
         "tags": [
           "ee-2-A\\+\\+\\+"
         ],
         "defaultCode": 59749,
-        "grid": 0,
-        "colorPermutations": {
-          "2172172171220381012481912812552552551": []
-        }
+        "grid": 0
       },
       "attrs": [],
       "properties": {
         "id": 177,
-        "order": 1346,
+        "order": 181,
         "ligatures": "",
         "prevSize": 32,
         "code": 59749,
@@ -5379,19 +5379,19 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
+        "colorPermutations": {
+          "2172172171220381012481912812552552551": []
+        },
         "tags": [
           "ee-2-B"
         ],
         "defaultCode": 59750,
-        "grid": 0,
-        "colorPermutations": {
-          "2172172171220381012481912812552552551": []
-        }
+        "grid": 0
       },
       "attrs": [],
       "properties": {
         "id": 178,
-        "order": 1347,
+        "order": 182,
         "ligatures": "",
         "prevSize": 32,
         "code": 59750,
@@ -5410,19 +5410,19 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
+        "colorPermutations": {
+          "2172172171220381012481912812552552551": []
+        },
         "tags": [
           "ee-2-C"
         ],
         "defaultCode": 59751,
-        "grid": 0,
-        "colorPermutations": {
-          "2172172171220381012481912812552552551": []
-        }
+        "grid": 0
       },
       "attrs": [],
       "properties": {
         "id": 179,
-        "order": 1348,
+        "order": 183,
         "ligatures": "",
         "prevSize": 32,
         "code": 59751,
@@ -5441,19 +5441,19 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
+        "colorPermutations": {
+          "2172172171220381012481912812552552551": []
+        },
         "tags": [
           "ee-2-D"
         ],
         "defaultCode": 59752,
-        "grid": 0,
-        "colorPermutations": {
-          "2172172171220381012481912812552552551": []
-        }
+        "grid": 0
       },
       "attrs": [],
       "properties": {
         "id": 180,
-        "order": 1349,
+        "order": 184,
         "ligatures": "",
         "prevSize": 32,
         "code": 59752,
@@ -5472,19 +5472,19 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
+        "colorPermutations": {
+          "2172172171220381012481912812552552551": []
+        },
         "tags": [
           "new-iconafiltro"
         ],
         "defaultCode": 59753,
-        "grid": 0,
-        "colorPermutations": {
-          "2172172171220381012481912812552552551": []
-        }
+        "grid": 0
       },
       "attrs": [],
       "properties": {
         "id": 181,
-        "order": 1350,
+        "order": 185,
         "ligatures": "",
         "prevSize": 32,
         "code": 59753,
@@ -5503,19 +5503,19 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
+        "colorPermutations": {
+          "2172172171220381012481912812552552551": []
+        },
         "tags": [
           "new"
         ],
         "defaultCode": 59754,
-        "grid": 0,
-        "colorPermutations": {
-          "2172172171220381012481912812552552551": []
-        }
+        "grid": 0
       },
       "attrs": [],
       "properties": {
         "id": 182,
-        "order": 1351,
+        "order": 186,
         "ligatures": "",
         "prevSize": 32,
         "code": 59754,
@@ -5533,19 +5533,19 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
+        "colorPermutations": {
+          "2172172171220381012481912812552552551": []
+        },
         "tags": [
           "catalogue"
         ],
         "defaultCode": 59755,
-        "grid": 0,
-        "colorPermutations": {
-          "2172172171220381012481912812552552551": []
-        }
+        "grid": 0
       },
       "attrs": [],
       "properties": {
         "id": 183,
-        "order": 1352,
+        "order": 187,
         "ligatures": "",
         "prevSize": 32,
         "code": 59755,
@@ -5563,19 +5563,19 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
+        "colorPermutations": {
+          "2172172171220381012481912812552552551": []
+        },
         "tags": [
           "pellet"
         ],
         "defaultCode": 59756,
-        "grid": 0,
-        "colorPermutations": {
-          "2172172171220381012481912812552552551": []
-        }
+        "grid": 0
       },
       "attrs": [],
       "properties": {
         "id": 184,
-        "order": 1353,
+        "order": 188,
         "ligatures": "",
         "prevSize": 32,
         "code": 59756,
@@ -5593,19 +5593,19 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
+        "colorPermutations": {
+          "2172172171220381012481912812552552551": []
+        },
         "tags": [
           "cards"
         ],
         "defaultCode": 59757,
-        "grid": 0,
-        "colorPermutations": {
-          "2172172171220381012481912812552552551": []
-        }
+        "grid": 0
       },
       "attrs": [],
       "properties": {
         "id": 185,
-        "order": 1354,
+        "order": 189,
         "ligatures": "",
         "prevSize": 32,
         "code": 59757,
@@ -5623,19 +5623,19 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
+        "colorPermutations": {
+          "2172172171220381012481912812552552551": []
+        },
         "tags": [
           "sconti-idea"
         ],
         "defaultCode": 59758,
-        "grid": 0,
-        "colorPermutations": {
-          "2172172171220381012481912812552552551": []
-        }
+        "grid": 0
       },
       "attrs": [],
       "properties": {
         "id": 186,
-        "order": 1355,
+        "order": 190,
         "ligatures": "",
         "prevSize": 32,
         "code": 59758,
@@ -5653,19 +5653,19 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
+        "colorPermutations": {
+          "2172172171220381012481912812552552551": []
+        },
         "tags": [
           "fatturazione"
         ],
         "defaultCode": 59759,
-        "grid": 0,
-        "colorPermutations": {
-          "2172172171220381012481912812552552551": []
-        }
+        "grid": 0
       },
       "attrs": [],
       "properties": {
         "id": 187,
-        "order": 1356,
+        "order": 191,
         "ligatures": "",
         "prevSize": 32,
         "code": 59759,
@@ -5683,19 +5683,19 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
+        "colorPermutations": {
+          "2172172171220381012481912812552552551": []
+        },
         "tags": [
           "calendario"
         ],
         "defaultCode": 59760,
-        "grid": 0,
-        "colorPermutations": {
-          "2172172171220381012481912812552552551": []
-        }
+        "grid": 0
       },
       "attrs": [],
       "properties": {
         "id": 188,
-        "order": 1357,
+        "order": 192,
         "ligatures": "",
         "prevSize": 32,
         "code": 59760,
@@ -5713,19 +5713,19 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
+        "colorPermutations": {
+          "2172172171220381012481912812552552551": []
+        },
         "tags": [
           "modifica"
         ],
         "defaultCode": 59761,
-        "grid": 0,
-        "colorPermutations": {
-          "2172172171220381012481912812552552551": []
-        }
+        "grid": 0
       },
       "attrs": [],
       "properties": {
         "id": 189,
-        "order": 1358,
+        "order": 193,
         "ligatures": "",
         "prevSize": 32,
         "code": 59761,
@@ -5743,19 +5743,19 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
+        "colorPermutations": {
+          "2172172171220381012481912812552552551": []
+        },
         "tags": [
           "generale"
         ],
         "defaultCode": 59762,
-        "grid": 0,
-        "colorPermutations": {
-          "2172172171220381012481912812552552551": []
-        }
+        "grid": 0
       },
       "attrs": [],
       "properties": {
         "id": 190,
-        "order": 1359,
+        "order": 194,
         "ligatures": "",
         "prevSize": 32,
         "code": 59762,
@@ -5768,54 +5768,24 @@
     {
       "icon": {
         "paths": [
-          "M677.202 448.020l-187.494 198.349c-9.728 10.24-23.142 16.026-37.222 16.026-0.358 0-0.717 0-1.126-0.051-14.49-0.307-28.16-6.758-37.632-17.715l-68.454-79.309c-18.534-21.402-16.128-53.76 5.274-72.243 21.299-18.432 53.76-16.179 72.192 5.274l31.488 36.454 148.582-157.133c19.354-20.531 51.866-21.453 72.346-2.048 20.531 19.456 21.504 51.866 2.048 72.397zM511.98 0.020c-282.726 0-512 229.222-512 512 0 282.726 229.274 512 512 512 282.778 0 512-229.274 512-512 0-282.778-229.222-512-512-512z"
-        ],
-        "attrs": [],
-        "isMulticolor": false,
-        "isMulticolor2": false,
-        "tags": [
-          "uniE973"
-        ],
-        "defaultCode": 59763,
-        "grid": 0,
-        "colorPermutations": {
-          "2172172171220381012481912812552552551": []
-        }
-      },
-      "attrs": [],
-      "properties": {
-        "id": 191,
-        "order": 1360,
-        "ligatures": "",
-        "prevSize": 32,
-        "code": 59763,
-        "name": "uniE973"
-      },
-      "setIdx": 0,
-      "setId": 0,
-      "iconIdx": 191
-    },
-    {
-      "icon": {
-        "paths": [
           "M602.803 377.672l-148.582 157.133-31.488-36.454c-18.432-21.453-50.893-23.706-72.192-5.274-21.402 18.483-23.808 50.842-5.274 72.243l68.506 79.309c9.421 10.957 23.091 17.408 37.581 17.715 0.41 0.051 0.768 0.051 1.126 0.051 14.080 0 27.546-5.786 37.222-16.026l187.494-198.349c19.456-20.531 18.483-52.941-2.048-72.397-20.48-19.405-52.992-18.483-72.346 2.048z"
         ],
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
+        "colorPermutations": {
+          "2172172171220381012481912812552552551": []
+        },
         "tags": [
           "uniE974"
         ],
         "defaultCode": 59764,
-        "grid": 0,
-        "colorPermutations": {
-          "2172172171220381012481912812552552551": []
-        }
+        "grid": 0
       },
       "attrs": [],
       "properties": {
         "id": 192,
-        "order": 1361,
+        "order": 195,
         "ligatures": "",
         "prevSize": 32,
         "code": 59764,
@@ -5823,7 +5793,7 @@
       },
       "setIdx": 0,
       "setId": 0,
-      "iconIdx": 192
+      "iconIdx": 191
     },
     {
       "icon": {
@@ -5833,19 +5803,19 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
+        "colorPermutations": {
+          "2172172171220381012481912812552552551": []
+        },
         "tags": [
           "posa-prezzo-fisso_new"
         ],
         "defaultCode": 59765,
-        "grid": 0,
-        "colorPermutations": {
-          "2172172171220381012481912812552552551": []
-        }
+        "grid": 0
       },
       "attrs": [],
       "properties": {
         "id": 193,
-        "order": 1362,
+        "order": 196,
         "ligatures": "",
         "prevSize": 32,
         "code": 59765,
@@ -5853,7 +5823,7 @@
       },
       "setIdx": 0,
       "setId": 0,
-      "iconIdx": 193
+      "iconIdx": 192
     },
     {
       "icon": {
@@ -5864,19 +5834,19 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
+        "colorPermutations": {
+          "2172172171220381012481912812552552551": []
+        },
         "tags": [
           "ispirati_impara"
         ],
         "defaultCode": 59766,
-        "grid": 0,
-        "colorPermutations": {
-          "2172172171220381012481912812552552551": []
-        }
+        "grid": 0
       },
       "attrs": [],
       "properties": {
         "id": 194,
-        "order": 1363,
+        "order": 197,
         "ligatures": "",
         "prevSize": 32,
         "code": 59766,
@@ -5884,7 +5854,7 @@
       },
       "setIdx": 0,
       "setId": 0,
-      "iconIdx": 194
+      "iconIdx": 193
     },
     {
       "icon": {
@@ -5895,19 +5865,19 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
+        "colorPermutations": {
+          "2172172171220381012481912812552552551": []
+        },
         "tags": [
           "offerte_proposte"
         ],
         "defaultCode": 59767,
-        "grid": 0,
-        "colorPermutations": {
-          "2172172171220381012481912812552552551": []
-        }
+        "grid": 0
       },
       "attrs": [],
       "properties": {
         "id": 195,
-        "order": 1364,
+        "order": 198,
         "ligatures": "",
         "prevSize": 32,
         "code": 59767,
@@ -5915,7 +5885,7 @@
       },
       "setIdx": 0,
       "setId": 0,
-      "iconIdx": 195
+      "iconIdx": 194
     },
     {
       "icon": {
@@ -5926,19 +5896,19 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
+        "colorPermutations": {
+          "2172172171220381012481912812552552551": []
+        },
         "tags": [
           "arrow-big-left"
         ],
         "defaultCode": 59768,
-        "grid": 0,
-        "colorPermutations": {
-          "2172172171220381012481912812552552551": []
-        }
+        "grid": 0
       },
       "attrs": [],
       "properties": {
         "id": 196,
-        "order": 1365,
+        "order": 199,
         "ligatures": "",
         "prevSize": 32,
         "code": 59768,
@@ -5946,7 +5916,7 @@
       },
       "setIdx": 0,
       "setId": 0,
-      "iconIdx": 196
+      "iconIdx": 195
     },
     {
       "icon": {
@@ -5957,19 +5927,19 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
+        "colorPermutations": {
+          "2172172171220381012481912812552552551": []
+        },
         "tags": [
           "plus"
         ],
         "defaultCode": 61533,
-        "grid": 0,
-        "colorPermutations": {
-          "2172172171220381012481912812552552551": []
-        }
+        "grid": 0
       },
       "attrs": [],
       "properties": {
         "id": 197,
-        "order": 1366,
+        "order": 200,
         "ligatures": "",
         "prevSize": 32,
         "code": 61533,
@@ -5977,7 +5947,7 @@
       },
       "setIdx": 0,
       "setId": 0,
-      "iconIdx": 197
+      "iconIdx": 196
     },
     {
       "icon": {
@@ -5989,21 +5959,21 @@
         ],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": [
-          "stili-icon"
-        ],
-        "grid": 0,
         "colorPermutations": {
           "2172172171220381012481912812552552551": [
             {}
           ]
-        }
+        },
+        "tags": [
+          "stili-icon"
+        ],
+        "grid": 0
       },
       "attrs": [
         {}
       ],
       "properties": {
-        "order": 1367,
+        "order": 201,
         "id": 198,
         "name": "stili-icon",
         "prevSize": 32,
@@ -6011,67 +5981,26 @@
       },
       "setIdx": 0,
       "setId": 0,
-      "iconIdx": 198
+      "iconIdx": 197
     },
     {
       "icon": {
         "paths": [
-          "M48.128 768h1536v-512h-1536v512zM3632.128 768h1536v-512h-1536v512zM7216.128 768h1536v-512h-1536v512zM10800.128 768h1536v-512h-1536v512zM14384.128 768h1536v-512h-1536v512zM17968.128 768h1536v-512h-1536v512zM21552.128 768h1536v-512h-1536v512zM25136.128 768h1536v-512h-1536v512zM28720.128 768h1536v-512h-1536v512zM32304.128 768h1536v-512h-1536v512zM35888.128 768h1536v-512h-1536v512zM39472.128 768h1536v-512h-1536v512zM43056.128 768h1536v-512h-1536v512zM46640.128 768h1536v-512h-1536v512zM50224.128 768h1536v-512h-1536v512zM53808.128 768h1536v-512h-1536v512zM57392.128 768h1536v-512h-1536v512zM60976.128 768h1536v-512h-1536v512zM64560.128 768h1536v-512h-1536v512zM68144.128 768h1536v-512h-1536v512zM71728.128 768h1536v-512h-1536v512zM75312.128 768h1536v-512h-1536v512zM78896.128 768h1536v-512h-1536v512zM82480.128 768h1536v-512h-1536v512zM86064.128 768h1536v-512h-1536v512zM89648.128 768h1536v-512h-1536v512zM93232.128 768h1536v-512h-1536v512zM96816.128 768h1536v-512h-1536v512zM100400.128 768h1536v-512h-1536v512zM103984.128 768h1536v-512h-1536v512zM107568.128 768h1536v-512h-1536v512zM111152.128 768h1536v-512h-1536v512zM114736.128 768h1536v-512h-1536v512zM118320.128 768h1536v-512h-1536v512zM121904.128 768h1536v-512h-1536v512zM125488.128 768h1536v-512h-1536v512zM129072.128 768h1536v-512h-1536v512zM132656.128 768h1536v-512h-1536v512zM136240.128 768h1536v-512h-1536v512z"
+          "M512 0c282.788 0 512 229.253 512 512s-229.212 512-512 512c-282.747 0-512-229.294-512-512s229.253-512 512-512zM677.192 448.020c12.787-13.25 17.474-32.345 12.276-50.009s-19.482-31.177-37.407-35.389c-17.925-4.211-36.732 1.527-49.252 15.029l-148.562 157.164-31.539-36.454c-11.796-14.415-30.49-21.286-48.813-17.943s-33.386 16.373-39.332 34.025c-5.946 17.652-1.836 37.139 10.73 50.887l68.403 79.299c9.488 10.969 23.183 17.4 37.683 17.695 0.369 0.082 0.737 0.082 1.106 0.082 14.090 0 27.484-5.816 37.233-16.056l187.474-198.328z"
         ],
         "attrs": [
           {
-            "fill": "rgb(217, 217, 217)"
-          }
-        ],
-        "width": 138240,
-        "isMulticolor": false,
-        "isMulticolor2": false,
-        "grid": 0,
-        "tags": [
-          "dashed-separator"
-        ],
-        "colorPermutations": {
-          "2172172171220381012481912812552552551": [
-            {
-              "f": 2
-            }
-          ]
-        }
-      },
-      "attrs": [
-        {
-          "fill": "rgb(217, 217, 217)"
-        }
-      ],
-      "properties": {
-        "order": 1368,
-        "id": 199,
-        "name": "dashed-separator",
-        "prevSize": 32,
-        "code": 59770
-      },
-      "setIdx": 0,
-      "setId": 0,
-      "iconIdx": 199
-    },
-    {
-      "icon": {
-        "paths": [
-          "M511.98 0.020c282.778 0 512 229.222 512 512 0 282.726-229.222 512-512 512-282.726 0-512-229.274-512-512 0-282.778 229.274-512 512-512zM444.416 617.131c13.735 14.862 33.030 22.293 57.884 22.293s40.831-7.431 47.929-22.293v-25.941c0-74.411 116.736-87.381 116.736-174.080 0-87.381-76.459-132.437-155.648-132.437-92.16 0-148.821 43.008-171.349 115.371-7.314 28.275 2.572 48.786 29.659 61.532s51.106 1.793 72.059-32.86c11.605-31.403 33.451-51.2 64.853-51.2 29.355 0 52.565 17.749 52.565 46.421 0 58.709-114.688 53.931-114.688 165.205v27.989zM496.981 772.096c29.355 0 55.979-18.432 55.979-54.613 0-36.864-26.624-55.979-55.979-55.979-28.672 0-55.296 19.115-55.296 55.979 0 36.181 26.624 54.613 55.296 54.613z"
-        ],
-        "attrs": [
-          {
-            "fill": "rgb(248, 191, 28)"
+            "fill": "rgb(102, 204, 51)"
           }
         ],
         "isMulticolor": false,
         "isMulticolor2": false,
         "grid": 0,
         "tags": [
-          "check-question"
+          "check-ok"
         ],
         "colorPermutations": {
-          "2172172171220381012481912812552552551": [
+          "10220451122038101248191281": [
             {
               "f": 1
             }
@@ -6080,59 +6009,19 @@
       },
       "attrs": [
         {
-          "fill": "rgb(248, 191, 28)"
+          "fill": "rgb(102, 204, 51)"
         }
       ],
       "properties": {
-        "order": 1369,
-        "id": 200,
-        "name": "check-question",
-        "prevSize": 32,
-        "code": 59771
-      },
-      "setIdx": 0,
-      "setId": 0,
-      "iconIdx": 200
-    },
-    {
-      "icon": {
-        "paths": [
-          "M512 0c282.77 0 512 229.23 512 512s-229.23 512-512 512c-282.77 0-512-229.23-512-512s229.23-512 512-512zM512.171 256c-21.616-0.018-42.199 9.247-56.516 25.442s-20.99 37.758-18.321 59.209l26.709 214.357c-2.211 18.5 6.416 36.622 22.169 46.57s35.824 9.948 51.577 0c15.753-9.948 24.38-28.070 22.169-46.57l26.88-214.357c2.693-21.427-3.947-42.978-18.232-59.174s-34.839-25.474-56.434-25.477zM508.587 768c30.037 0 57.344-19.371 57.344-57.344 0-38.741-27.307-58.88-57.344-58.88-29.355 0-56.576 20.139-56.576 58.88 0 37.973 27.307 57.344 56.576 57.344z"
-        ],
-        "attrs": [
-          {
-            "fill": "rgb(248, 191, 28)"
-          }
-        ],
-        "isMulticolor": false,
-        "isMulticolor2": false,
-        "grid": 0,
-        "tags": [
-          "check-attention"
-        ],
-        "colorPermutations": {
-          "2172172171220381012481912812552552551": [
-            {
-              "f": 1
-            }
-          ]
-        }
-      },
-      "attrs": [
-        {
-          "fill": "rgb(248, 191, 28)"
-        }
-      ],
-      "properties": {
-        "order": 1370,
+        "order": 202,
         "id": 202,
-        "name": "check-attention",
+        "name": "check-ok",
         "prevSize": 32,
-        "code": 59772
+        "code": 59763
       },
       "setIdx": 0,
       "setId": 0,
-      "iconIdx": 201
+      "iconIdx": 198
     },
     {
       "icon": {
@@ -6151,7 +6040,7 @@
           "check-no"
         ],
         "colorPermutations": {
-          "2172172171220381012481912812552552551": [
+          "10220451122038101248191281": [
             {
               "f": 0
             }
@@ -6164,15 +6053,95 @@
         }
       ],
       "properties": {
-        "order": 1371,
-        "id": 201,
+        "order": 203,
+        "id": 200,
         "name": "check-no",
         "prevSize": 32,
-        "code": 59773
+        "code": 59770
       },
       "setIdx": 0,
       "setId": 0,
-      "iconIdx": 202
+      "iconIdx": 199
+    },
+    {
+      "icon": {
+        "paths": [
+          "M512 0c282.77 0 512 229.23 512 512s-229.23 512-512 512c-282.77 0-512-229.23-512-512s229.23-512 512-512zM512.171 256c-21.616-0.018-42.199 9.247-56.516 25.442s-20.99 37.758-18.321 59.209l26.709 214.357c-2.211 18.5 6.416 36.622 22.169 46.57s35.824 9.948 51.577 0c15.753-9.948 24.38-28.070 22.169-46.57l26.88-214.357c2.693-21.427-3.947-42.978-18.232-59.174s-34.839-25.474-56.434-25.477zM508.587 768c30.037 0 57.344-19.371 57.344-57.344 0-38.741-27.307-58.88-57.344-58.88-29.355 0-56.576 20.139-56.576 58.88 0 37.973 27.307 57.344 56.576 57.344z"
+        ],
+        "attrs": [
+          {
+            "fill": "rgb(248, 191, 28)"
+          }
+        ],
+        "isMulticolor": false,
+        "isMulticolor2": false,
+        "grid": 0,
+        "tags": [
+          "check-attention"
+        ],
+        "colorPermutations": {
+          "10220451122038101248191281": [
+            {
+              "f": 2
+            }
+          ]
+        }
+      },
+      "attrs": [
+        {
+          "fill": "rgb(248, 191, 28)"
+        }
+      ],
+      "properties": {
+        "order": 204,
+        "id": 201,
+        "name": "check-attention",
+        "prevSize": 32,
+        "code": 59771
+      },
+      "setIdx": 0,
+      "setId": 0,
+      "iconIdx": 200
+    },
+    {
+      "icon": {
+        "paths": [
+          "M511.98 0.020c282.778 0 512 229.222 512 512 0 282.726-229.222 512-512 512-282.726 0-512-229.274-512-512 0-282.778 229.274-512 512-512zM444.416 617.131c13.735 14.862 33.030 22.293 57.884 22.293s40.831-7.431 47.929-22.293v-25.941c0-74.411 116.736-87.381 116.736-174.080 0-87.381-76.459-132.437-155.648-132.437-92.16 0-148.821 43.008-171.349 115.371-7.314 28.275 2.572 48.786 29.659 61.532s51.106 1.793 72.059-32.86c11.605-31.403 33.451-51.2 64.853-51.2 29.355 0 52.565 17.749 52.565 46.421 0 58.709-114.688 53.931-114.688 165.205v27.989zM496.981 772.096c29.355 0 55.979-18.432 55.979-54.613 0-36.864-26.624-55.979-55.979-55.979-28.672 0-55.296 19.115-55.296 55.979 0 36.181 26.624 54.613 55.296 54.613z"
+        ],
+        "attrs": [
+          {
+            "fill": "rgb(248, 191, 28)"
+          }
+        ],
+        "isMulticolor": false,
+        "isMulticolor2": false,
+        "grid": 0,
+        "tags": [
+          "check-question"
+        ],
+        "colorPermutations": {
+          "10220451122038101248191281": [
+            {
+              "f": 2
+            }
+          ]
+        }
+      },
+      "attrs": [
+        {
+          "fill": "rgb(248, 191, 28)"
+        }
+      ],
+      "properties": {
+        "order": 205,
+        "id": 199,
+        "name": "check-question",
+        "prevSize": 32,
+        "code": 59772
+      },
+      "setIdx": 0,
+      "setId": 0,
+      "iconIdx": 201
     }
   ],
   "height": 1024,
