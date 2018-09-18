@@ -327,7 +327,9 @@
 .icon-finanziamento:before {
   content: "\e918";
 }
-.icon-taglio-legno-vetro:before {
+.icon-taglio-legno-vetro:before,
+.icon-taglio-legno:before,
+.icon-taglio-vetro:before {
   content: "\e919";
 }
 .icon-noleggio-attrezzature:before {
