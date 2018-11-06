@@ -350,7 +350,7 @@
 .icon-assistenza-macchine-giardino:before {
   content: "\e91f";
 }
-.icon-reso-merce:before {
+.icon-reso-merce-old:before {
   content: "\e920";
 }
 .icon-rimborso-differenza:before {
@@ -600,6 +600,9 @@
 .icon-generale:before {
   content: "\e972";
 }
+.icon-check-ok:before {
+  content: "\e973";
+}
 .icon-uniE974:before {
   content: "\e974";
 }
@@ -709,6 +712,24 @@
 .icon-easy-choice:before {
   content: "\e98c";
 }
+.icon-plus:before {
+  content: "\f05d";
+}
+.icon-arrow-up-big:before {
+  content: "\f05e";
+}
+.icon-arrow-down-big:before {
+  content: "\f05f";
+}
 .icon-tax-free:before {
+  content: "\e920";
+}
+.icon-taglio-vetro:before {
   content: "\e98d";
+}
+.icon-reso-merce:before {
+  content: "\e98e";
+}
+.icon-taglio-legno:before {
+  content: "\e98f";
 }
