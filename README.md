@@ -6,4 +6,6 @@ You won't need any of the files located under the *demo-files* directory when in
 
 You can import *selection.json* back to the IcoMoon app using the *Import Icons* button (or via Main Menu → Manage Projects) to retrieve your icon selection.
 
+You can add new icon to the set, using the hamburger menu on the right side of the set and by clicking *Import to Set*
+
 After import the new selection of icons, bump version in **bower.json**
