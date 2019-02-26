@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'icomoon';
-  src:  url('fonts/icomoon.eot?7nw9gg');
-  src:  url('fonts/icomoon.eot?7nw9gg#iefix') format('embedded-opentype'),
-    url('fonts/icomoon.ttf?7nw9gg') format('truetype'),
-    url('fonts/icomoon.woff?7nw9gg') format('woff'),
-    url('fonts/icomoon.svg?7nw9gg#icomoon') format('svg');
+  src:  url('fonts/icomoon.eot?93ra8f');
+  src:  url('fonts/icomoon.eot?93ra8f#iefix') format('embedded-opentype'),
+    url('fonts/icomoon.ttf?93ra8f') format('truetype'),
+    url('fonts/icomoon.woff?93ra8f') format('woff'),
+    url('fonts/icomoon.svg?93ra8f#icomoon') format('svg');
   font-weight: normal;
   font-style: normal;
 }
@@ -692,10 +692,10 @@
   color: rgb(74, 74, 74);
 }
 .icon-close-big:before {
-    content: "\e98a";
+  content: "\e98a";
 }
 .icon-forward:before {
-    content: "\e98b";
+  content: "\e98b";
 }
 .icon-easy-choice:before {
   content: "\e98c";
@@ -730,4 +730,10 @@
 }
 .icon-arrow-down-big:before {
   content: "\f05f";
+}
+.icon-cucine-da-incubo:before {
+  content: "\e993";
+}
+.icon-tapparelle-su-misura:before {
+  content: "\e994";
 }
