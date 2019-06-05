@@ -1,0 +1,205 @@
+From 22736850b8e712964b49995d96f763370362beb7 Mon Sep 17 00:00:00 2001
+From: Claudio Stella <cstella@byte-code.com>
+Date: Wed, 5 Jun 2019 11:11:10 +0200
+Subject: [PATCH] style.css
+
+---
+ dist/style.css | 73 ++++++++++++++++++++++++++++++++++++++-----------------
+ 1 file changed, 51 insertions(+), 22 deletions(-)
+
+diff --git a/dist/style.css b/dist/style.css
+index 30b8306..d435d38 100755
+--- a/dist/style.css
++++ b/dist/style.css
+@@ -192,7 +192,7 @@
+ .icon-add-image:before {
+   content: "\e648";
+ }
+-.icon-uniE649:before {
++.icon-404:before {
+   content: "\e649";
+ }
+ .icon-cartaregalo:before {
+@@ -327,7 +327,9 @@
+ .icon-finanziamento:before {
+   content: "\e918";
+ }
+-.icon-taglio-legno-vetro:before {
++.icon-taglio-legno-vetro:before,
++.icon-taglio-legno:before,
++.icon-taglio-vetro:before {
+   content: "\e919";
+ }
+ .icon-noleggio-attrezzature:before {
+@@ -348,7 +350,7 @@
+ .icon-assistenza-macchine-giardino:before {
+   content: "\e91f";
+ }
+-.icon-tax-free:before {
++.icon-reso-merce-old:before {
+   content: "\e920";
+ }
+ .icon-rimborso-differenza:before {
+@@ -477,7 +479,8 @@
+ .icon-natale:before {
+   content: "\e94a";
+ }
+-.icon-decorare-casa-natale:before {
++.icon-decorare-casa-natale:before,
++.icon-prodotti-natalizi:before{
+   content: "\e94b";
+ }
+ .icon-social-wa:before {
+@@ -486,16 +489,16 @@
+ .icon-social-g:before {
+   content: "\e94d";
+ }
+-.icon-ee-A:before {
++.icon-ee-A\+\+\+:before {
+   content: "\e94e";
+ }
+-.icon-ee-A2:before {
++.icon-ee-A\+\+:before {
+   content: "\e94f";
+ }
+-.icon-ee-A3:before {
++.icon-ee-A\+:before {
+   content: "\e950";
+ }
+-.icon-ee-A4:before {
++.icon-ee-A:before {
+   content: "\e951";
+ }
+ .icon-ee-B:before {
+@@ -549,13 +552,13 @@
+ .icon-ee-2-A:before {
+   content: "\e962";
+ }
+-.icon-ee-2-A2:before {
++.icon-ee-2-A\+:before {
+   content: "\e963";
+ }
+-.icon-ee-2-A3:before {
++.icon-ee-2-A\+\+:before {
+   content: "\e964";
+ }
+-.icon-ee-2-A4:before {
++.icon-ee-2-A\+\+\+:before {
+   content: "\e965";
+ }
+ .icon-ee-2-B:before {
+@@ -599,6 +602,7 @@
+ }
+ .icon-check-ok:before {
+   content: "\e973";
++  color: #6c3;
+ }
+ .icon-uniE974:before {
+   content: "\e974";
+@@ -615,17 +619,20 @@
+ .icon-arrow-big-left:before {
+   content: "\e978";
+ }
+-.icon-stili-icon:before {
++.icon-stili:before {
+   content: "\e979";
+ }
+ .icon-check-no:before {
+   content: "\e97a";
++  color: #dc260a;
+ }
+ .icon-check-attention:before {
+   content: "\e97b";
++  color: #f8bf1c;
+ }
+ .icon-check-question:before {
+   content: "\e97c";
++  color: #f8bf1c;
+ }
+ .icon-eye-barred:before {
+   content: "\e97d";
+@@ -636,35 +643,53 @@
+ .icon-gse:before {
+   content: "\e97f";
+ }
+-.icon-uniE980:before {
++.icon-clima-monosplit .path1:before {
+   content: "\e980";
++  color: rgb(248, 248, 248);
+ }
+-.icon-uniE981:before {
++.icon-clima-monosplit .path2:before {
+   content: "\e981";
++  margin-left: -1em;
++  color: rgb(240, 240, 240);
+ }
+-.icon-uniE982:before {
++.icon-clima-monosplit .path3:before {
+   content: "\e982";
++  margin-left: -1em;
++  color: rgb(74, 74, 74);
+ }
+-.icon-uniE983:before {
++.icon-clima-monosplit .path4:before {
+   content: "\e983";
++  margin-left: -1em;
++  color: rgb(74, 74, 74);
+ }
+-.icon-uniE984:before {
++.icon-clima-monosplit .path5:before {
+   content: "\e984";
++  margin-left: -1em;
++  color: rgb(74, 74, 74);
+ }
+-.icon-uniE985:before {
++.icon-clima-dualsplit .path1:before {
+   content: "\e985";
++  color: rgb(248, 248, 248);
+ }
+-.icon-uniE986:before {
++.icon-clima-dualsplit .path2:before {
+   content: "\e986";
++  margin-left: -1em;
++  color: rgb(240, 240, 240);
+ }
+-.icon-uniE987:before {
++.icon-clima-dualsplit .path3:before {
+   content: "\e987";
++  margin-left: -1em;
++  color: rgb(74, 74, 74);
+ }
+-.icon-uniE988:before {
++.icon-clima-dualsplit .path4:before {
+   content: "\e988";
++  margin-left: -1em;
++  color: rgb(248, 248, 248);
+ }
+-.icon-uniE989:before {
++.icon-clima-dualsplit .path5:before {
+   content: "\e989";
++  margin-left: -1em;
++  color: rgb(74, 74, 74);
+ }
+ .icon-close-big:before {
+   content: "\e98a";
+@@ -675,6 +700,9 @@
+ .icon-easy-choice:before {
+   content: "\e98c";
+ }
++.icon-tax-free:before {
++  content: "\e920";
++}
+ .icon-taglio-vetro:before {
+   content: "\e98d";
+ }
+@@ -686,6 +714,7 @@
+ }
+ .icon-addressMylm:before {
+   content: "\e990";
++  color: #390;
+ }
+ .icon-utensileria:before {
+   content: "\e991";
+-- 
+2.19.1
+
