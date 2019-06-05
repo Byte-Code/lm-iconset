@@ -1,4 +1,14 @@
+Per chi conosceva il vecchio metodo di agiornamento delle icone e' pregato di leggere le seguenti righe;
+chi non lo conosceva puo' saltare direttamente a procedure di upgrading
 
+
+
+
+
+# Procedure di upgrading
+
+Esistono due procedure di upgrading del modulo *lm-iconset*, una automatica ed una manuale
+quando non dovesse funzionare la prima. Di default il comando 
 
 Open *demo.html* to see a list of all the glyphs in your font along with their codes/ligatures.
 

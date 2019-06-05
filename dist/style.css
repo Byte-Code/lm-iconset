@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'icomoon';
-  src:  url('fonts/icomoon.eot?c0stkb');
-  src:  url('fonts/icomoon.eot?c0stkb#iefix') format('embedded-opentype'),
-    url('fonts/icomoon.ttf?c0stkb') format('truetype'),
-    url('fonts/icomoon.woff?c0stkb') format('woff'),
-    url('fonts/icomoon.svg?c0stkb#icomoon') format('svg');
+  src:  url('fonts/icomoon.eot?1adaha');
+  src:  url('fonts/icomoon.eot?1adaha#iefix') format('embedded-opentype'),
+    url('fonts/icomoon.ttf?1adaha') format('truetype'),
+    url('fonts/icomoon.woff?1adaha') format('woff'),
+    url('fonts/icomoon.svg?1adaha#icomoon') format('svg');
   font-weight: normal;
   font-style: normal;
 }
@@ -25,13 +25,13 @@
 }
 
 .icon-borghi:before {
-  content: "\e996";
+  content: "\e995";
 }
 .icon-guide-alla-scelta:before {
-  content: "\e997";
+  content: "\e996";
 }
 .icon-magazine:before {
-  content: "\e995";
+  content: "\e997";
 }
 .icon-arrow-down:before {
   content: "\e600";

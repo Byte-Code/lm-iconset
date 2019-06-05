@@ -64,6 +64,8 @@ program
     .option('-m, --manual', 'Update the iconset providing the zip file downloaded from icomoon.io')
     .action((paths) => {
         const isManual = program.manual;
+        // console.log('YO')
+        // return;
         if (isManual) {
             manualFlow(paths, utils.getDistDir());
         }
