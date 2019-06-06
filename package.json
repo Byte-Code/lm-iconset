@@ -1,0 +1,23 @@
+{
+  "name": "@lmit/lm-iconset",
+  "version": "0.3.0",
+  "repository": "https://github.com/Byte-Code/lm-iconset",
+  "author": "Claudio Stella <cstella@byte-code.com>",
+  "license": "MIT",
+  "files": [
+    "dist/fonts",
+    "dist/style.css"
+  ],
+  "scripts": {
+    "generate": "node ./src/index.js",
+    "release": "./release.sh",
+    "postversion": "./postversion.sh"
+  },
+  "devDependencies": {
+    "app-root-dir": "^1.0.2",
+    "chalk": "^2.4.2",
+    "commander": "^2.20.0",
+    "extract-zip": "^1.6.7",
+    "icomoon-cli": "^1.3.0"
+  }
+}
