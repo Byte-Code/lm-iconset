@@ -60,6 +60,8 @@ module.exports = (paths, dist) => {
         }
     });
 
+    console.log('I found those icons:', icons);
+
     if (!icons.length) {
         throw chalkRed(`Cannot found any .svg into ${paths}`);
     }
