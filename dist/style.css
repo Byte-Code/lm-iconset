@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'icomoon';
-  src:  url('fonts/icomoon.eot?ww45ak');
-  src:  url('fonts/icomoon.eot?ww45ak#iefix') format('embedded-opentype'),
-    url('fonts/icomoon.ttf?ww45ak') format('truetype'),
-    url('fonts/icomoon.woff?ww45ak') format('woff'),
-    url('fonts/icomoon.svg?ww45ak#icomoon') format('svg');
+  src:  url('fonts/icomoon.eot?ikeq0k');
+  src:  url('fonts/icomoon.eot?ikeq0k#iefix') format('embedded-opentype'),
+    url('fonts/icomoon.ttf?ikeq0k') format('truetype'),
+    url('fonts/icomoon.woff?ikeq0k') format('woff'),
+    url('fonts/icomoon.svg?ikeq0k#icomoon') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
@@ -25,6 +25,12 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
+.icon-edilizia:before {
+  content: "\e99b";
+}
+.icon-falegnameria:before {
+  content: "\e99c";
+}
 .icon-clock:before {
   content: "\e998";
 }
