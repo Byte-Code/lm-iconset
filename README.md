@@ -40,7 +40,7 @@ Cliccare quindi sull'hamburger menu a destra, successivamente su **Import to Set
 Assicurarsi poi di selezionare tutte le nuove icone (bordino giallo) e cliccare sul tasto **Generate Font** in basso a destra.
 Nella pagina successiva, cliccate in basso a destra sul tasto **Download** ed eseguite il comando seguente
 
-`yarn generate --manual <path_dello_zip_scaricato_da_icomoon.io>`
+`yarn generate --manual <filename_dello_zip_scaricato_da_icomoon.io>`
 
 # Procedura di rilascio
 
